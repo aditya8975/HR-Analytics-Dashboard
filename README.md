@@ -26,7 +26,7 @@ on a realistic HR dataset (1,500 employees).
 9. [Business Insights Summary](#business-insights-summary)
 10. [How to Run This Project](#how-to-run-this-project)
 11. [Screenshots](#screenshots)
-12. [Resume Bullet Points](#resume-bullet-points-you-can-use)
+
 
 ---
 
@@ -366,24 +366,7 @@ for the full checklist and embedding instructions. EDA chart previews:
 | ![Attrition by Department](visuals/08_attrition_by_department.png) | ![Salary Distribution](visuals/03_salary_distribution.png) |
 | ![Gender Ratio](visuals/02_gender_ratio.png) | ![Correlation Heatmap](visuals/16_correlation_heatmap.png) |
 
----
 
-## Resume Bullet Points You Can Use
-
-> - Built an end-to-end HR Analytics pipeline (Python, MySQL, Power BI)
->   analyzing 1,500 employee records; automated cleaning of 6 data quality
->   issue types and reduced missing/invalid values to zero.
-> - Designed a normalized 7-table MySQL schema and wrote 35 SQL queries
->   (joins, subqueries, window functions) to answer attrition, promotion,
->   and compensation questions for stakeholders.
-> - Performed EDA with Pandas/Seaborn across 9 HR dimensions, uncovering
->   that overtime employees churn at 2.6x the rate of non-overtime
->   employees, informing a targeted retention recommendation.
-> - Designed a 6-page Power BI dashboard with 20+ DAX measures, drillthrough,
->   bookmarks, dynamic KPI cards, and conditional formatting for executive
->   reporting.
-
----
 
 ## License
 This project uses fully synthetic data generated for portfolio/educational
