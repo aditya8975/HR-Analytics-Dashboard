@@ -1,0 +1,9 @@
+Department,Headcount,AvgSalary,AvgPerformance,AttritionRate
+Finance,208,83921.63,3.4,16.83
+Operations,203,69669.95,3.31,14.78
+Human Resources,196,64046.94,3.29,16.84
+Sales,194,80353.09,3.42,18.04
+Engineering,187,115072.73,3.44,21.39
+IT,181,84888.95,3.45,20.99
+Marketing,168,73910.71,3.36,17.86
+Customer Support,163,57149.69,3.34,15.34

@@ -1,0 +1,1521 @@
+EmployeeID,Department,JobRole,Gender,Age,MaritalStatus,Education,Salary,YearsAtCompany,PerformanceRating,TrainingHours,DistanceFromHome,OverTime,ProjectTasks,Promotion,Attrition,HireDate
+1769,Sales, Account Manager  ,Male,49.0,Single,Master's,95600.0,2,3.0,17.0,2,Yes,11,No,No,2021-12-23
+1808,Finance,Accountant,Male,41.0,Single,Bachelor's,70100.0,1,3.0,33.0,10,No,4,No,No,2022-05-24
+2166,MARKETING,Marketing Manager,female,40.0,Divorced,PhD,114900.0,0,4.0,49.0,15,No,10,No,No,2023-04-25
+2098,Human Resources,HR Executive,Female,23.0,Single,Bachelor's,50400.0,0,4.0,15.0,7,No,10,No,No,2023-12-26
+1234,Human Resources,HR Manager,Male,40.0,Single,Master's,77300.0,3,2.0,63.0,3,No,10,No,Yes,2020-07-16
+2323,Customer Support,Support Team Lead,Female,59.0,Married,Bachelor's,58100.0,1,3.0,39.0,1,No,6,No,No,2022-08-28
+2064,Finance,Accountant,Male,36.0,Divorced,Bachelor's,83500.0,12,2.0,31.0,2,No,10,No,No,2011-11-11
+1123,Sales,Sales Executive,Male,58.0,Married,Master's,66400.0,0,5.0,40.0,1,Yes,11,No,No,2023-06-10
+1256,Human Resources,HR Manager,Female,24.0,Single,Bachelor's,68600.0,2,2.0,38.0,8,No,15,No,Yes,2021-11-07
+2306,Operations,Operations Manager,Male,34.0,Single,PhD,91300.0,0,,28.0,22,No,12,No,No,2023-06-17
+1353,Operations,Operations Manager,male,40.0,Single,Bachelor's,72000.0,2,3.0,47.0,2,No,6,No,No,2021-07-10
+1135,Customer Support,Support Executive,Male,36.0,Married,Bachelor's,53600.0,18,2.0,37.0,1,Yes,5,No,No,2005-04-21
+1861,Engineering,Engineering Manager,Female,33.0,Single,PhD,168200.0,4,2.0,54.0,4,No,9,No,No,2019-12-27
+1132,Finance,Accountant,Female,27.0,Divorced,High School,61300.0,2,4.0,51.0,4,No,6,No,No,2021-10-18
+2262,Human Resources,HR Executive,Female,38.0,Divorced,Bachelor's,52600.0,3,3.0,44.0,8,No,3,No,No,2020-09-16
+2214,Finance,Financial Analyst,Female,20.0,Divorced,Bachelor's,64800.0,2,2.0,48.0,10,No,22,No,No,2021-08-27
+2460,Marketing,Marketing Manager,Male,30.0,Married,Bachelor's,74200.0,0,4.0,38.0,1,No,9,Yes,No,2023-12-21
+2174,FINANCE,Accountant,Female,40.0,Single,Master's,78700.0,1,5.0,35.0,12,No,6,No,No,2022-06-21
+1258,Engineering,QA Engineer,Male,35.0,Married,Master's,106800.0,6,5.0,36.0,1,No,12,No,No,2017-09-19
+1825,Finance, Accountant  ,Male,31.0,Married,Bachelor's,69400.0,2,3.0,6.0,8,No,8,No,No,2021-11-15
+2264,Customer Support,Support Team Lead,Female,27.0,Divorced,Master's,70600.0,1,,36.0,19,No,15,No,No,2022-06-16
+2339,Human Resources,HR Executive,Male,34.0,Married,Bachelor's,58000.0,5,4.0,54.0,3,No,11,No,Yes,2018-09-28
+2379,Customer Support,Support Executive,Male,32.0,Married,Bachelor's,42900.0,1,4.0,22.0,1,No,7,No,No,2022-06-09
+1741,Operations,Operations Manager,Male,38.0,Married,Master's,99000.0,6,5.0,41.0,11,No,6,Yes,No,2017-04-20
+1701,Human Resources,HR Executive,Male,40.0,Divorced,Bachelor's,54900.0,2,5.0,31.0,1,No,7,No,No,2021-07-22
+1690,Sales,Sales Executive,Female,43.0,Single,High School,57000.0,10,4.0,22.0,32,No,12,No,No,2013-11-18
+1347,Sales,Sales Executive,Female,46.0,Single,Master's,59600.0,2,3.0,60.0,4,No,16,No,No,2021-06-06
+1427,Customer Support,Support Executive,Male,40.0,Single,Bachelor's,44500.0,1,3.0,17.0,11,No,12,No,No,2022-10-28
+1879,Operations,Operations Executive,Female,26.0,Divorced,Bachelor's,61000.0,7,3.0,18.0,4,No,11,No,No,2016-06-23
+1368,IT,IT Support,Male,36.0,Single,Master's,74800.0,3,3.0,15.0,1,No,5,No,No,2020-04-09
+1766,Engineering,QA Engineer,Female,42.0,Divorced,Master's,95500.0,0,2.0,25.0,32,No,7,No,No,2023-06-06
+1823,IT,System Administrator,Female,39.0,Divorced,Bachelor's,64700.0,3,4.0,53.0,4,No,15,No,No,2020-12-16
+2062,Operations,Operations Manager,Male,28.0,Single,Bachelor's,73200.0,2,3.0,36.0,1,No,17,No,No,2021-05-22
+1161,Operations,Operations Manager,Female,33.0,Divorced,Bachelor's,71400.0,2,4.0,28.0,10,No,8,No,No,2021-10-01
+2137,Engineering,Software Engineer,Female,33.0,Divorced,High School,92200.0,13,,26.0,5,No,14,No,No,2010-12-03
+1767,IT,IT Support,Female,47.0,Divorced,Bachelor's,84200.0,18,2.0,53.0,12,No,16,No,No,2005-10-13
+1675,Operations,Operations Manager,Female,21.0,Married,Bachelor's,78100.0,1,2.0,30.0,19,No,17,No,No,2022-07-05
+1552,Engineering,Senior Engineer,Female,42.0,Divorced,Bachelor's,135800.0,11,4.0,47.0,1,Yes,14,Yes,No,2012-11-20
+1040,Sales,Sales Executive,Female,,Married,Bachelor's,59300.0,1,4.0,44.0,19,No,13,No,No,2022-03-12
+1671,Sales,Sales Executive,Male,42.0,Divorced,Master's,67300.0,7,3.0,28.0,4,No,14,No,No,2016-04-11
+1463,ENGINEERING,Engineering Manager,Male,39.0,Single,Master's,150400.0,1,3.0,48.0,24,Yes,7,No,Yes,2022-08-05
+1577,Marketing,Content Strategist,Male,38.0,Married,Bachelor's,56800.0,0,4.0,43.0,1,No,7,No,No,2023-07-16
+1302,FINANCE,Accountant,Male,39.0,Divorced,Bachelor's,70600.0,2,4.0,12.0,12,No,12,No,No,2021-09-04
+1702,Operations,Operations Manager,Female,27.0,Divorced,Bachelor's,67500.0,1,3.0,43.0,2,No,6,No,No,2022-06-03
+1692,Marketing,Marketing Manager,Female,31.0,Married,Bachelor's,87700.0,1,2.0,25.0,4,No,19,No,No,2022-09-03
+2148,Finance,Financial Analyst,Female,29.0,Married,Bachelor's,59900.0,1,3.0,29.0,1,No,10,No,Yes,2022-06-07
+1078,Marketing,Marketing Manager,Male,48.0,Married,Master's,107100.0,9,4.0,55.0,4,No,12,Yes,No,2014-12-14
+2140,IT,System Administrator,Male,44.0,Divorced,Bachelor's,68100.0,5,1.0,28.0,4,No,13,No,Yes,2018-10-31
+1966,Marketing,Content Strategist,Male,28.0,Single,PhD,80100.0,3,3.0,26.0,1,No,17,Yes,No,2020-09-15
+1455,Operations,Operations Manager,Female,42.0,Divorced,High School,62600.0,3,3.0,53.0,3,Yes,12,No,No,2020-09-28
+2265,OPERATIONS,Operations Executive,Female,45.0,Married,Bachelor's,53100.0,0,,40.0,2,Yes,10,Yes,No,2023-12-28
+1944,Customer Support,Support Team Lead,Male,30.0,Married,Master's,79800.0,5,4.0,39.0,3,Yes,4,No,No,2018-06-28
+1588,Engineering, Engineering Manager  ,Male,27.0,Single,Master's,142800.0,1,4.0,47.0,18,No,10,No,No,2022-07-06
+1419,IT,IT Manager,Male,20.0,Divorced,High School,94200.0,2,3.0,42.0,3,No,16,No,No,2021-09-09
+2153,Engineering,Senior Engineer,Male,33.0,Divorced,Master's,150600.0,4,4.0,21.0,3,No,12,No,No,2019-09-17
+1772,ENGINEERING,Engineering Manager,Male,28.0,Married,Bachelor's,122700.0,2,2.0,35.0,3,No,12,No,No,2021-07-19
+2115,IT,System Administrator,male,41.0,Divorced,Bachelor's,71300.0,0,4.0,7.0,1,No,13,No,No,2023-07-13
+1167,Engineering,QA Engineer,Male,36.0,Married,PhD,111500.0,4,2.0,40.0,8,No,17,No,Yes,2019-04-26
+1618,Customer Support,Support Executive,Female,25.0,Divorced,Master's,55300.0,4,4.0,45.0,10,No,17,No,No,25/03/2019
+1413,Finance,Financial Analyst,Male,28.0,Divorced,Master's,77000.0,4,4.0,51.0,8,No,9,Yes,No,2019-11-29
+2241,Engineering,Senior Engineer,Male,23.0,Divorced,Bachelor's,123600.0,5,3.0,63.0,26,No,10,No,No,2018-08-21
+1603,Finance, Financial Analyst  ,Male,37.0,Married,Bachelor's,75500.0,5,4.0,12.0,12,No,16,Yes,N,2018-10-28
+1069,Engineering,Senior Engineer,male,48.0,Divorced,Bachelor's,127500.0,3,4.0,54.0,7,No,11,No,No,2020-08-03
+1336,HUMAN RESOURCES,Recruiter,Male,30.0,Divorced,PhD,81600.0,12,4.0,42.0,9,Yes,9,No,No,2011-12-01
+1450,Operations,Operations Manager,Male,33.0,Divorced,Master's,98800.0,6,3.0,15.0,4,No,10,No,No,2017-09-22
+2125,Marketing,Content Strategist,Female,20.0,Divorced,PhD,78300.0,0,4.0,33.0,5,No,9,No,No,2023-04-17
+2347,Engineering,QA Engineer,Female,27.0,Single,Master's,105100.0,1,3.0,30.0,6,No,11,Yes,No,2022-06-05
+2097,Marketing,Marketing Executive,Female,-5.0,Single,Bachelor's,,2,5.0,26.0,6,Yes,15,No,Yes,2021-08-14
+2370,Human Resources,HR Executive,Female,30.0,Divorced,PhD,72600.0,3,5.0,45.0,15,No,15,Yes,No,2020-10-31
+1971,Sales,Sales Manager,Male,29.0,Married,Bachelor's,82700.0,1,5.0,39.0,4,No,8,No,No,2022-06-15
+2303,Engineering,Engineering Manager,Male,32.0,Single,Bachelor's,115600.0,2,5.0,29.0,7,No,10,No,No,2021-08-04
+1583,IT,System Administrator,Male,38.0,Single,Bachelor's,65200.0,1,4.0,47.0,13,No,4,Yes,No,2022-08-19
+1723,Customer Support,Support Executive,Female,43.0,Married,Bachelor's,40000.0,0,3.0,43.0,5,No,14,No,No,2023-05-30
+1622,Operations,Operations Manager,Male,24.0,Divorced,Master's,86700.0,6,1.0,43.0,27,No,8,No,Yes,02/09/2017
+1486,Engineering,Software Engineer,Male,37.0,Divorced,Bachelor's,92500.0,4,4.0,38.0,10,No,7,No,Yes,2019-06-22
+2186,IT,IT Support,Female,31.0,Married,Bachelor's,69300.0,2,4.0,14.0,4,Yes,19,Yes,Yes,2021-03-26
+1318,Sales,Sales Executive,Male,20.0,Single,Master's,65800.0,2,2.0,43.0,1,No,11,No,No,2021-06-24
+2136,Marketing,Marketing Manager,Male,41.0,Single,Master's,124100.0,21,3.0,45.0,1,No,12,No,No,2002-07-22
+1511,Sales,Sales Manager,Female,30.0,Single,Master's,,12,2.0,37.0,15,Yes,9,No,Yes,2011-08-19
+1830,Marketing,Marketing Executive,male,20.0,Married,Bachelor's,61000.0,0,2.0,20.0,1,No,13,No,Yes,2023-03-16
+1494,Customer Support,Support Team Lead,Female,32.0,Single,Bachelor's,75800.0,14,2.0,32.0,6,No,14,No,No,06/04/2009
+2335,Operations,Operations Manager,Female,52.0,Divorced,Master's,94000.0,3,3.0,38.0,2,No,16,No,No,2020-11-26
+1561,Operations,Operations Manager,Male,36.0,Married,Bachelor's,69000.0,3,3.0,46.0,5,No,7,No,No,2020-03-13
+2069,ENGINEERING,Engineering Manager,Male,40.0,Married,Bachelor's,108100.0,0,5.0,11.0,10,No,5,Yes,No,2023-12-17
+1880,IT,IT Manager,Female,40.0,Single,Master's,120600.0,7,4.0,47.0,1,Yes,14,Yes,Yes,2016-11-18
+1114,Human Resources,HR Manager,Male,42.0,Divorced,PhD,93000.0,2,2.0,42.0,7,No,22,No,No,2021-12-01
+1108,HUMAN RESOURCES,HR Manager,Female,35.0,Divorced,PhD,103600.0,11,,53.0,7,No,12,No,No,2012-07-02
+1758,Human Resources,HR Manager,Male,47.0,Married,Bachelor's,82900.0,10,4.0,43.0,1,Yes,15,No,N,2013-11-23
+1432,Human Resources,HR Executive,male,47.0,Divorced,Master's,61400.0,0,,39.0,2,No,13,No,Yes,27/10/2023
+1517,IT,IT Manager,Male,31.0,Divorced,Master's,116200.0,4,3.0,44.0,1,No,6,No,No,2019-09-01
+1186,Customer Support,Support Team Lead,Male,30.0,Single,Bachelor's,60400.0,0,5.0,67.0,16,No,13,Yes,No,2023-08-01
+1786,Operations,Operations Executive,Male,35.0,Single,PhD,62900.0,1,4.0,37.0,6,No,13,No,No,2022-03-25
+2060,Operations,Operations Executive,Male,20.0,Married,Master's,,0,4.0,23.0,11,No,12,No,No,2023-04-28
+1296,Engineering,Senior Engineer,Female,36.0,Single,PhD,170100.0,6,5.0,38.0,5,No,8,No,No,2017-07-27
+1314,Finance,Financial Analyst,Male,27.0,Divorced,Master's,78700.0,1,3.0,33.0,14,Yes,14,No,No,2022-06-17
+1799,Operations,Operations Executive,Male,34.0,Married,Master's,62500.0,2,2.0,45.0,32,No,15,No,No,2021-07-02
+1951,ENGINEERING,Software Engineer,Female,43.0,Single,High School,95700.0,17,3.0,74.0,1,No,16,No,No,2006-06-23
+1575,Human Resources,Recruiter,Male,28.0,Divorced,Master's,,10,2.0,45.0,7,No,9,No,No,2013-08-13
+1462,Customer Support,Support Team Lead,Female,24.0,Single,Bachelor's,59900.0,1,4.0,7.0,3,No,14,No,No,2022-10-19
+1391,CUSTOMER SUPPORT,Support Executive,Female,56.0,Divorced,Master's,48000.0,0,4.0,51.0,26,No,20,No,No,2023-04-03
+1060,Human Resources,Recruiter,Male,29.0,Married,Bachelor's,63500.0,11,4.0,68.0,4,No,16,Yes,No,2012-09-01
+1768,Sales,Account Manager,Female,33.0,Divorced,Master's,96500.0,0,3.0,29.0,11,Yes,7,No,No,2023-03-30
+1972,Customer Support,Support Executive,Female,21.0,Divorced,High School,41500.0,3,3.0,31.0,2,No,10,No,No,2020-12-20
+2365,Human Resources,HR Manager,Male,,Divorced,Bachelor's,67900.0,0,5.0,26.0,2,Yes,17,No,No,2023-09-21
+2372,FINANCE,Financial Analyst,Female,39.0,Single,,69600.0,0,4.0,43.0,14,No,19,No,No,2023-09-28
+1003,Operations,Operations Manager,Female,37.0,Divorced,High School,64700.0,2,4.0,11.0,7,No,10,Yes,No,2021-07-13
+1181,Engineering,QA Engineer,Female,42.0,Married,Bachelor's,85500.0,1,5.0,30.0,1,Yes,11,No,No,2022-08-31
+1434,IT,System Administrator,Female,35.0,Divorced,Master's,83100.0,9,4.0,43.0,4,No,17,Yes,No,2014-09-06
+1237,Human Resources,HR Manager,Male,36.0,Married,Bachelor's,80600.0,7,4.0,37.0,1,No,7,No,No,23/10/2016
+2497,IT,System Administrator,Male,45.0,Married,Bachelor's,80300.0,16,2.0,53.0,1,Yes,19,No,Yes,2007-04-29
+1611,Finance,Financial Analyst,Male,46.0,Married,Bachelor's,63400.0,1,2.0,45.0,4,No,16,No,No,2022-05-09
+2326,Finance, Accountant  ,Male,47.0,Divorced,Bachelor's,72100.0,8,3.0,31.0,14,No,13,Yes,No,2015-12-22
+1006,Marketing,Marketing Executive,Female,43.0,Married,Master's,69200.0,0,3.0,24.0,5,No,11,No,No,2023-09-16
+1430,Finance,Accountant,Female,39.0,Single,Master's,74500.0,2,4.0,55.0,6,No,15,Yes,No,2021-07-10
+2086,Finance, Financial Analyst  ,Female,37.0,Divorced,Bachelor's,63700.0,4,4.0,40.0,4,No,8,Yes,No,2019-08-28
+1751,Marketing,Marketing Manager,Male,20.0,Married,Master's,,1,4.0,51.0,3,No,12,No,No,2022-08-11
+2248,IT,IT Support,Female,36.0,Divorced,Master's,74400.0,1,4.0,59.0,9,Yes,15,No,Yes,2022-08-21
+1975,Operations,Operations Executive,Male,38.0,Married,Bachelor's,47900.0,1,4.0,47.0,1,Yes,8,No,No,2022-09-01
+2225,Operations,Operations Manager,Female,54.0,Single,Bachelor's,74200.0,8,4.0,32.0,15,Yes,6,No,No,2015-09-09
+1487,Engineering,Software Engineer,Female,27.0,Married,Bachelor's,81800.0,1,4.0,30.0,1,No,15,No,No,2022-06-17
+1640,Engineering,Software Engineer,Male,36.0,Married,Bachelor's,83700.0,5,4.0,21.0,1,No,11,No,No,2018-09-25
+2368,Human Resources,Recruiter,Female,25.0,Single,Master's,66000.0,7,5.0,34.0,10,No,18,Yes,No,2016-11-25
+2406,IT,IT Support,Male,36.0,Divorced,High School,66600.0,0,4.0,32.0,4,No,13,No,No,2023-08-02
+2172,Marketing,Marketing Manager,Female,31.0,Divorced,Bachelor's,86500.0,3,3.0,38.0,18,Yes,10,Yes,No,2020-11-16
+2011,Finance,Accountant,Male,20.0,Single,Bachelor's,62700.0,2,3.0,44.0,6,Yes,12,No,No,2021-08-14
+2236,Sales,Sales Manager,Female,28.0,Single,Master's,82000.0,0,3.0,29.0,34,No,10,No,No,2023-08-01
+2076,Customer Support,Support Team Lead,Female,30.0,Single,Master's,70600.0,10,2.0,54.0,1,No,9,No,No,2013-03-18
+1765,Human Resources,HR Executive,Male,33.0,Married,Master's,61600.0,2,4.0,43.0,11,No,14,No,No,2021-10-26
+2101,Human Resources,HR Manager,Male,20.0,Married,Master's,75300.0,2,3.0,,16,Yes,2,No,No,07/12/2021
+1747,Engineering,Software Engineer,Male,35.0,Divorced,Master's,98200.0,4,3.0,47.0,5,No,8,No,No,2019-06-01
+2469,Operations,Operations Manager,Male,32.0,Married,Bachelor's,71000.0,4,3.0,49.0,20,No,10,No,No,2019-09-12
+1532,Operations,Operations Manager,Male,28.0,Divorced,Master's,95700.0,10,4.0,63.0,1,No,11,No,No,2013-12-12
+2063,Human Resources,HR Manager,male,35.0,Divorced,High School,64400.0,0,2.0,13.0,6,No,13,No,Yes,2023-03-28
+1056,Human Resources,Recruiter,Male,40.0,,Master's,61600.0,8,3.0,48.0,13,No,9,No,No,2015-06-23
+1481,Human Resources,HR Executive,Female,43.0,Married,Bachelor's,49100.0,6,3.0,59.0,1,No,11,No,No,2017-12-12
+1558,Customer Support,Support Team Lead,Male,38.0,Divorced,Bachelor's,59600.0,3,4.0,57.0,3,Yes,9,No,No,17/03/2020
+1248,Customer Support,Support Team Lead,Male,28.0,Divorced,Master's,70200.0,0,3.0,40.0,45,Yes,9,No,No,2023-03-26
+2282,Engineering,Software Engineer,Female,27.0,Divorced,Bachelor's,94400.0,9,3.0,65.0,4,Yes,18,No,Yes,2014-09-10
+2371,Sales,Account Manager,Male,32.0,Single,PhD,108200.0,10,5.0,28.0,1,Yes,14,Yes,No,2013-09-06
+1324,Operations,Operations Executive,Male,29.0,Married,Bachelor's,52900.0,0,2.0,28.0,14,No,12,Yes,No,2023-05-22
+1954,Marketing,Marketing Manager,Female,36.0,Married,Bachelor's,87600.0,1,3.0,,1,No,9,No,No,2022-11-23
+1642,Operations,Operations Manager,Female,31.0,Divorced,Bachelor's,76800.0,9,2.0,29.0,1,No,12,No,Yes,2014-06-28
+2201,IT,IT Manager,Female,42.0,Divorced,High School,78700.0,0,5.0,26.0,1,No,10,Yes,No,2023-08-23
+1223,Finance,Accountant,Male,35.0,Single,PhD,80800.0,1,3.0,40.0,7,Yes,16,No,Yes,2022-05-01
+1357,Operations,Operations Executive,Female,58.0,Single,Master's,66300.0,1,5.0,17.0,19,No,13,Yes,No,2022-06-20
+2155,Marketing,Content Strategist,Male,34.0,Married,Master's,60200.0,0,3.0,59.0,2,Yes,15,No,No,2023-11-28
+1667,Human Resources,HR Manager,Male,46.0,Single,Master's,82900.0,0,2.0,34.0,8,No,11,No,No,2023-10-07
+1259,Marketing,Content Strategist,Female,31.0,Divorced,High School,47100.0,0,2.0,42.0,25,Yes,8,No,Yes,2023-08-20
+2050,Marketing,Content Strategist,Male,36.0,Married,Bachelor's,62700.0,3,1.0,39.0,10,No,6,No,Yes,2020-07-06
+1490,Operations,Operations Manager,Male,34.0,Single,Bachelor's,75500.0,5,4.0,27.0,9,No,9,No,No,2018-11-23
+1310,FINANCE,Financial Analyst,Male,38.0,Divorced,Bachelor's,,1,2.0,37.0,3,No,17,No,Yes,2022-06-05
+2477,Operations,Operations Executive,male,27.0,Single,Master's,56600.0,1,4.0,51.0,3,No,13,Yes,No,2022-06-22
+2242,Operations,Operations Manager,Male,39.0,Divorced,Bachelor's,89600.0,8,4.0,33.0,5,No,5,No,No,2015-06-04
+2411,OPERATIONS, Operations Manager  ,Female,27.0,Married,PhD,89100.0,2,2.0,49.0,3,Yes,9,No,Yes,2021-06-25
+2353,Finance,Accountant,Female,47.0,Divorced,Bachelor's,62800.0,3,5.0,29.0,21,No,18,No,Yes,2020-09-22
+2083,Operations,Operations Executive,Female,60.0,Single,Bachelor's,54700.0,0,3.0,36.0,33,Yes,13,No,Yes,2023-09-23
+1327,IT,IT Support,Female,33.0,Single,Bachelor's,74000.0,4,5.0,54.0,7,No,7,No,No,2019-12-18
+1459,Customer Support,Support Team Lead,Male,35.0,Married,Master's,67500.0,0,4.0,11.0,20,Yes,13,Yes,Yes,2023-08-24
+1776,Human Resources,HR Executive,Female,46.0,Divorced,Master's,62200.0,10,2.0,43.0,1,No,17,No,Yes,2013-09-21
+2205,Human Resources,HR Executive,Male,24.0,Divorced,Master's,52400.0,0,3.0,52.0,2,No,10,No,No,2023-05-31
+1743,Sales,Account Manager,Male,37.0,Divorced,Bachelor's,82900.0,1,4.0,8.0,1,No,11,Yes,Yes,2022-05-22
+2447,Operations,Operations Manager,Female,27.0,Divorced,Master's,81400.0,4,3.0,29.0,1,No,17,Yes,No,2019-12-18
+1851,Finance,Finance Manager,Female,47.0,Divorced,Bachelor's,96400.0,1,3.0,52.0,1,Yes,17,No,No,2022-09-25
+1733,Finance,Financial Analyst,Male,42.0,Single,Bachelor's,83800.0,18,3.0,51.0,3,Yes,9,No,No,2005-05-23
+2103,Marketing,Marketing Manager,Male,33.0,Divorced,Master's,99600.0,2,4.0,0.0,4,No,12,No,No,2021-11-23
+1696,Marketing,Content Strategist,Male,41.0,Divorced,Master's,66900.0,0,4.0,21.0,7,Yes,6,No,No,2023-06-17
+1217,Finance, Finance Manager  ,Female,41.0,Married,Master's,115300.0,1,4.0,44.0,1,Yes,11,No,No,2022-04-10
+1081,OPERATIONS,Operations Manager,Male,49.0,Single,Bachelor's,90100.0,9,2.0,19.0,1,No,11,No,No,2014-06-12
+1706,Finance,Accountant,Male,30.0,Single,Bachelor's,62200.0,3,2.0,36.0,15,No,12,No,No,2020-09-27
+1917,Sales,Sales Manager,Female,41.0,Single,Master's,86200.0,0,2.0,,3,No,13,No,Yes,2023-12-30
+2177,SALES,Account Manager,Male,43.0,Divorced,Bachelor's,83500.0,0,3.0,56.0,6,No,17,No,No,2023-08-07
+2122,Finance,Finance Manager,Male,37.0,Divorced,High School,88300.0,5,4.0,51.0,4,No,13,No,Yes,2018-04-01
+1593,Engineering,QA Engineer,Male,21.0,Married,PhD,115300.0,2,3.0,11.0,15,Yes,15,No,No,2021-05-26
+1591,Human Resources,Recruiter,male,24.0,Single,Bachelor's,54900.0,0,4.0,53.0,1,No,14,No,No,2023-05-28
+1405,Sales,Account Manager,Male,53.0,Divorced,Master's,90700.0,0,4.0,19.0,31,No,14,No,Yes,2023-05-24
+1338,IT,IT Support,Male,30.0,Single,Bachelor's,62300.0,0,4.0,47.0,8,No,11,Yes,No,2023-08-08
+1798,Sales,Account Manager,Female,24.0,Divorced,Master's,89700.0,1,4.0,24.0,2,Yes,9,No,No,2022-04-30
+1630,HUMAN RESOURCES,HR Executive,Female,42.0,Single,Bachelor's,47100.0,1,2.0,36.0,7,No,7,No,No,2022-08-13
+1007,Marketing,Content Strategist,Female,42.0,Single,Master's,68000.0,1,4.0,21.0,6,No,12,No,No,2022-08-16
+2276,Engineering,QA Engineer,Male,32.0,Married,Master's,113200.0,4,3.0,28.0,6,Yes,21,No,No,2019-06-09
+1149,IT,IT Support,Female,36.0,Married,Bachelor's,73200.0,2,3.0,32.0,1,No,13,No,No,2021-06-24
+2015,IT,System Administrator,Male,43.0,Single,Bachelor's,79400.0,13,5.0,38.0,5,No,6,No,No,2010-08-28
+1443,Engineering, Software Engineer  ,Male,34.0,Single,Master's,95000.0,1,5.0,18.0,8,No,12,No,No,2022-06-13
+1022,Marketing,Marketing Manager,Male,35.0,Divorced,PhD,115900.0,1,3.0,31.0,5,Yes,10,No,No,2022-12-25
+1977,Human Resources,HR Manager,Male,60.0,Single,Bachelor's,73300.0,8,5.0,23.0,13,Yes,14,No,No,2015-11-28
+1508,Customer Support,Support Team Lead,Female,45.0,Single,Bachelor's,53300.0,0,5.0,27.0,7,Yes,11,No,No,2023-11-19
+1423,Sales,Sales Executive,Female,41.0,Divorced,Bachelor's,64100.0,6,4.0,22.0,4,No,7,No,No,2017-03-12
+1901,Finance,Finance Manager,Male,33.0,Single,Bachelor's,87100.0,3,4.0,37.0,1,No,14,No,No,2020-10-10
+1705,Engineering,Software Engineer,male,39.0,Married,Bachelor's,87300.0,0,4.0,31.0,1,No,13,Yes,No,2023-09-19
+1792,Human Resources,HR Executive,Male,47.0,Divorced,Bachelor's,54700.0,2,2.0,28.0,5,Yes,9,No,No,2021-07-14
+2126,Customer Support,Support Team Lead,Male,25.0,Single,Master's,65500.0,4,4.0,48.0,11,No,14,No,No,2019-05-26
+1897,Engineering,Senior Engineer,Male,20.0,Single,Bachelor's,134000.0,2,3.0,51.0,3,Yes,8,No,No,2021-03-20
+1555,Sales,Account Manager,Male,37.0,Divorced,Bachelor's,85000.0,1,3.0,21.0,13,No,11,No,Yes,2022-08-09
+2390,Operations,Operations Manager,Female,40.0,Single,Master's,77200.0,0,3.0,52.0,13,No,5,No,No,2023-09-09
+1260,Operations,Operations Manager,female,46.0,Married,Master's,82400.0,1,4.0,50.0,1,No,16,Yes,No,2022-08-02
+1614,Engineering,Software Engineer,Male,47.0,Divorced,Bachelor's,78100.0,1,5.0,33.0,7,No,5,No,No,2022-07-19
+1115,Operations,Operations Manager,Male,35.0,Married,Bachelor's,84900.0,5,4.0,50.0,9,Yes,13,No,Yes,2018-11-30
+1617,Marketing,Marketing Executive,Male,44.0,Married,High School,52200.0,0,4.0,47.0,9,Yes,8,No,No,2023-10-06
+2494,IT,IT Support,Female,26.0,Single,Bachelor's,64300.0,1,4.0,49.0,1,No,9,No,No,2022-09-11
+1491,Operations,Operations Executive,Male,39.0,Married,Master's,62700.0,1,5.0,19.0,13,No,14,No,Yes,2022-04-06
+2001,Finance,Finance Manager,Female,,Single,Bachelor's,97900.0,8,4.0,57.0,4,No,10,Yes,No,2015-06-18
+1282,Finance,Financial Analyst,Female,40.0,Divorced,Bachelor's,68800.0,2,2.0,34.0,4,No,13,No,No,2021-10-22
+1510,Operations,Operations Executive,Male,43.0,Divorced,Master's,73600.0,8,3.0,44.0,5,No,12,No,No,2015-10-23
+2338,Operations,Operations Executive,Male,50.0,Single,,68200.0,3,3.0,76.0,34,Yes,9,No,Yes,2020-11-20
+2360,Operations,Operations Executive,male,37.0,Divorced,High School,50300.0,2,3.0,21.0,6,No,8,No,No,2021-06-26
+1674,Engineering,QA Engineer,Male,21.0,Single,Bachelor's,85000.0,1,3.0,59.0,2,No,15,No,No,2022-03-31
+1575,Human Resources,Recruiter,Male,28.0,Divorced,Master's,,10,2.0,45.0,7,No,9,No,No,2013-08-13
+1322,Sales,Sales Executive,Female,32.0,Single,PhD,72700.0,4,5.0,55.0,1,No,8,No,No,2019-07-17
+1305,FINANCE, Accountant  ,Male,31.0,Married,Master's,81800.0,1,5.0,33.0,8,No,11,No,No,2022-10-04
+2461,CUSTOMER SUPPORT,Support Executive,Male,46.0,Divorced,PhD,68700.0,15,3.0,39.0,3,No,5,Yes,No,2008-08-19
+1272,Operations,Operations Executive,Female,34.0,Married,Bachelor's,55200.0,1,3.0,59.0,1,Yes,10,No,No,2022-06-09
+2355,Human Resources,HR Executive,Male,46.0,Single,High School,50300.0,5,4.0,24.0,5,No,11,No,No,2018-07-04
+2080,Sales,Sales Manager,Male,37.0,Single,Bachelor's,71100.0,1,5.0,52.0,6,Yes,6,No,No,2022-12-01
+1054,IT,IT Manager,Female,35.0,Single,Bachelor's,107100.0,2,4.0,32.0,3,No,12,No,No,2021-06-16
+1717,Sales,Account Manager,Female,44.0,Single,Bachelor's,77700.0,1,,33.0,12,No,10,No,N,2022-12-19
+1592,Customer Support,Support Team Lead,Male,45.0,Married,High School,60200.0,4,4.0,35.0,7,No,4,Yes,No,2019-08-20
+1061,HUMAN RESOURCES,Recruiter,Female,25.0,Single,Master's,64900.0,5,4.0,21.0,12,No,9,Yes,N,2018-04-05
+2464,IT,IT Manager,Male,40.0,Divorced,Bachelor's,94200.0,1,5.0,25.0,7,No,9,No,Yes,2022-09-18
+1346,Engineering,QA Engineer,Female,24.0,Married,Bachelor's,91600.0,0,3.0,25.0,1,No,10,No,No,2023-06-18
+1136,IT,System Administrator,Female,39.0,Single,PhD,96500.0,4,4.0,32.0,1,No,14,No,No,2019-07-22
+1474,Marketing,Marketing Manager,Male,23.0,Single,High School,73900.0,5,2.0,0.0,1,No,13,No,No,2018-04-26
+1713,Marketing,Content Strategist,Male,24.0,Married,Master's,72500.0,0,3.0,47.0,19,No,13,No,N,2023-05-21
+2448,IT,IT Support,Female,27.0,Divorced,Master's,81600.0,4,4.0,10.0,22,Yes,15,Yes,Y,2019-07-12
+1058,Sales,Sales Executive,Female,31.0,Single,Bachelor's,56000.0,7,1.0,40.0,14,Yes,15,Yes,No,2016-09-13
+2116,Human Resources,Recruiter,Male,24.0,Married,Master's,67900.0,6,3.0,55.0,4,No,16,No,No,2017-05-24
+2198,Engineering,Engineering Manager,Male,27.0,Divorced,High School,108200.0,2,3.0,36.0,5,Yes,7,No,Yes,2021-04-04
+1133,Finance,Financial Analyst,Male,20.0,Divorced,Bachelor's,71900.0,1,,65.0,11,Yes,15,No,No,2022-05-09
+2059,Operations,Operations Manager,Female,20.0,Divorced,Bachelor's,76600.0,2,4.0,60.0,6,No,17,Yes,No,2021-10-20
+2070,Engineering,Senior Engineer,Male,31.0,Married,Bachelor's,124900.0,1,5.0,35.0,3,No,2,No,No,2022-09-02
+1541,IT,IT Manager,female,49.0,Divorced,Bachelor's,103400.0,1,4.0,54.0,23,No,13,No,Yes,2022-04-10
+2427,SALES,Sales Executive,Male,43.0,Divorced,Bachelor's,60100.0,0,3.0,53.0,13,Yes,9,No,Yes,2023-05-30
+1780,Engineering,Engineering Manager,female,34.0,Married,Bachelor's,137500.0,11,3.0,25.0,1,No,15,No,No,2012-05-17
+1778,Marketing,Content Strategist,Female,29.0,Married,High School,50100.0,0,5.0,37.0,2,Yes,18,No,Yes,2023-07-06
+1290,Marketing,Content Strategist,Female,26.0,Divorced,Master's,73000.0,7,2.0,32.0,1,Yes,11,No,Yes,2016-07-09
+1846,Engineering, Engineering Manager  ,Male,48.0,Divorced,Master's,126100.0,1,4.0,54.0,6,No,11,No,No,2022-03-08
+1197,Sales,Account Manager,Female,45.0,Married,Bachelor's,75300.0,0,4.0,13.0,27,No,15,No,Yes,2023-07-21
+2075,Human Resources,HR Manager,Male,34.0,Divorced,Master's,85200.0,2,5.0,21.0,1,No,5,Yes,No,2021-05-04
+1757,Finance,Accountant,Male,39.0,Divorced,Master's,73300.0,4,4.0,42.0,6,No,9,No,No,2019-08-29
+2119,Customer Support,Support Executive,Female,42.0,Married,Master's,50700.0,1,4.0,42.0,1,No,6,No,No,2022-10-20
+2135,IT,System Administrator,Female,34.0,Single,Bachelor's,68300.0,1,3.0,35.0,1,Yes,11,No,No,2022-12-09
+2446,Customer Support,Support Team Lead,Male,35.0,Married,Master's,78700.0,8,5.0,31.0,5,No,8,Yes,No,2015-10-30
+2227,Operations,Operations Executive,Female,32.0,Divorced,Master's,60100.0,1,4.0,43.0,5,No,10,No,No,2022-04-28
+1859,Engineering,Senior Engineer,Female,30.0,Divorced,PhD,152000.0,5,4.0,23.0,3,No,12,No,No,2018-06-28
+1914,Sales,Account Manager,Male,29.0,Divorced,Bachelor's,82300.0,9,5.0,43.0,4,No,10,No,No,2014-10-27
+2495,Finance,Accountant,Female,35.0,Divorced,PhD,102500.0,17,4.0,35.0,1,No,15,No,No,2006-07-20
+1109,Human Resources,Recruiter,Male,21.0,Single,PhD,68800.0,0,4.0,57.0,7,No,15,Yes,No,2023-05-14
+1952,Human Resources,HR Manager,male,36.0,Married,Bachelor's,87700.0,18,2.0,49.0,1,No,10,Yes,No,2005-11-23
+2304,Human Resources,HR Manager,Female,34.0,Divorced,Bachelor's,75500.0,1,2.0,56.0,9,Yes,15,Yes,No,2022-09-09
+2362,Customer Support,Support Team Lead,Female,48.0,Divorced,PhD,84000.0,8,,40.0,6,No,5,No,No,2015-06-04
+1682,IT,IT Support,Female,28.0,Divorced,PhD,99800.0,6,4.0,48.0,1,Yes,10,Yes,No,2017-04-06
+1110,Human Resources,Recruiter,Male,35.0,Single,Master's,59100.0,7,5.0,23.0,10,No,8,Yes,No,2016-03-19
+2286,FINANCE,Accountant,Male,40.0,Married,PhD,82800.0,0,3.0,32.0,2,Yes,9,No,No,2023-10-16
+1985,Sales,Sales Manager,Female,22.0,Single,PhD,106700.0,4,3.0,50.0,8,No,14,No,No,2019-08-17
+1819,Marketing,Marketing Executive,Female,36.0,Married,Bachelor's,68600.0,9,3.0,48.0,1,No,8,No,No,2014-12-28
+1073,Finance,Financial Analyst,Male,45.0,Divorced,Bachelor's,79500.0,21,4.0,32.0,7,Yes,13,No,No,2002-05-25
+1661,Customer Support,Support Team Lead,Male,40.0,Single,Bachelor's,58500.0,0,4.0,41.0,1,No,15,No,Yes,2023-12-25
+1996,Human Resources,HR Executive,Male,28.0,Single,High School,-50.0,4,5.0,58.0,6,No,11,No,No,2019-11-12
+2138,Sales,Account Manager,Male,37.0,Divorced,Bachelor's,80700.0,1,5.0,42.0,1,No,9,No,No,2022-10-11
+1746,Customer Support,Support Executive,Male,32.0,Single,Bachelor's,42400.0,0,5.0,38.0,1,Yes,18,No,No,2023-04-18
+2245,FINANCE,Finance Manager,Male,43.0,Single,Master's,104900.0,0,2.0,51.0,2,Yes,13,No,N,2023-05-06
+1845,Human Resources,Recruiter,male,30.0,Single,PhD,70400.0,5,4.0,56.0,9,Yes,16,Yes,Yes,2018-06-18
+1533,Engineering,Engineering Manager,Female,20.0,Single,Master's,155000.0,2,3.0,32.0,11,Yes,16,No,No,2021-07-27
+2329,Sales,Sales Executive,Female,36.0,Divorced,,53000.0,0,3.0,59.0,6,Yes,9,No,No,2023-04-16
+1724,Customer Support,Support Executive,Male,27.0,Married,Bachelor's,46900.0,9,2.0,44.0,4,No,11,No,No,2014-10-16
+1871,Customer Support,Support Team Lead,Male,37.0,Married,High School,57500.0,2,3.0,27.0,1,No,10,No,Yes,2021-06-10
+1742,Sales,Sales Executive,Male,38.0,Divorced,Bachelor's,60600.0,5,3.0,36.0,6,Yes,22,No,No,2018-07-05
+1212,Customer Support,Support Team Lead,Male,32.0,Single,PhD,77100.0,0,3.0,20.0,9,No,5,No,No,2023-07-07
+1218,Finance,Accountant,Male,39.0,Divorced,High School,58300.0,0,5.0,26.0,2,No,8,No,No,2023-04-23
+1011,Human Resources,HR Executive,Female,37.0,Single,Master's,54100.0,2,3.0,54.0,2,No,16,No,No,2021-08-26
+1171,Engineering,Software Engineer,Male,29.0,Married,Bachelor's,85000.0,7,4.0,45.0,1,No,11,No,No,2016-11-26
+2223,Finance,Accountant,Male,32.0,Married,Master's,82000.0,7,3.0,60.0,22,No,1,No,No,2016-10-23
+2397,IT,IT Support,male,43.0,Married,Master's,96700.0,13,2.0,16.0,1,No,15,Yes,No,2010-04-18
+1232,IT,IT Support,Male,35.0,Single,High School,66200.0,5,2.0,22.0,8,No,7,No,No,2018-06-13
+2158,Engineering,Engineering Manager,Female,44.0,,Bachelor's,141900.0,18,3.0,21.0,1,No,6,No,No,2005-08-17
+2453,Marketing,Marketing Executive,female,40.0,Married,Bachelor's,59200.0,0,3.0,35.0,4,Yes,5,No,No,2023-11-02
+1940,Engineering,Engineering Manager,Female,20.0,Single,High School,107200.0,2,5.0,40.0,14,No,6,No,Yes,27/06/2021
+2157,CUSTOMER SUPPORT,Support Team Lead,Female,32.0,Single,Master's,63500.0,0,4.0,34.0,1,Yes,6,No,Yes,2023-08-11
+1325,IT,IT Support,Female,26.0,Divorced,Bachelor's,73600.0,0,3.0,43.0,8,No,14,No,No,2023-03-12
+2376,Finance,Finance Manager,Male,20.0,Married,Master's,116700.0,2,4.0,35.0,6,No,5,Yes,No,2021-07-09
+1638,Engineering,QA Engineer,Female,50.0,Divorced,Bachelor's,105000.0,15,5.0,19.0,7,No,14,No,No,2008-05-07
+2090,Human Resources,HR Executive,male,40.0,Married,Bachelor's,46300.0,1,5.0,50.0,4,Yes,19,Yes,Y,2022-04-10
+2243,Sales,Sales Manager,Male,28.0,Single,Bachelor's,74100.0,2,4.0,26.0,16,No,10,Yes,No,2021-09-20
+1454,IT,System Administrator,Female,39.0,Divorced,High School,74500.0,8,3.0,,7,No,12,Yes,No,2015-04-13
+1146,Finance,Accountant,Female,40.0,Single,Master's,73800.0,3,5.0,52.0,1,No,12,No,No,2020-05-10
+2479,Customer Support,Support Team Lead,Female,35.0,Divorced,Bachelor's,71400.0,17,3.0,44.0,9,No,9,Yes,No,2006-11-29
+1869,Sales,Sales Executive,Male,22.0,Single,PhD,70900.0,3,4.0,39.0,19,Yes,13,Yes,No,2020-04-10
+1569,Marketing,Marketing Executive,Male,37.0,Divorced,Bachelor's,60300.0,4,2.0,,11,No,19,Yes,No,2019-08-11
+2410,Human Resources,Recruiter,Male,44.0,Single,High School,49400.0,1,2.0,46.0,22,No,15,No,No,30/07/2022
+1089,IT,IT Support,Female,21.0,Married,Bachelor's,74600.0,3,3.0,60.0,1,No,15,No,No,2020-10-16
+2344,Finance,Financial Analyst,Male,34.0,Divorced,Master's,72900.0,3,4.0,64.0,4,Yes,16,No,No,2020-03-19
+2240,Operations,Operations Executive,Female,44.0,Divorced,PhD,70200.0,0,3.0,49.0,1,Yes,11,No,Yes,2023-10-06
+1735,Human Resources,Recruiter,Female,29.0,Married,Bachelor's,54900.0,9,3.0,4.0,16,No,12,No,No,2014-08-08
+1545,Sales,Sales Executive,Male,35.0,Married,Master's,63800.0,1,5.0,0.0,8,No,15,No,No,2022-04-30
+2424,Customer Support,Support Team Lead,Male,45.0,Married,Master's,60900.0,0,3.0,9.0,6,No,9,No,No,2023-09-08
+1887,Customer Support,Support Team Lead,female,35.0,Married,PhD,83900.0,3,4.0,46.0,1,Yes,19,Yes,No,2020-09-24
+1866,Engineering,Senior Engineer,Male,23.0,Single,Master's,144600.0,5,3.0,49.0,8,No,10,No,No,2018-09-16
+1039,Customer Support,Support Team Lead,Female,35.0,Single,Master's,,10,3.0,22.0,9,Yes,8,No,No,2013-08-21
+1345,Marketing,Marketing Manager,Female,46.0,Single,Bachelor's,91800.0,6,4.0,15.0,3,No,10,No,N,2017-05-19
+1151,Sales,Sales Manager,Female,35.0,Divorced,Bachelor's,97500.0,13,4.0,55.0,45,No,16,No,No,2010-12-26
+1220,Operations,Operations Executive,Female,20.0,Married,Bachelor's,48700.0,0,4.0,25.0,5,No,14,No,No,2023-03-22
+1332,IT,System Administrator,Male,29.0,Married,High School,65000.0,4,3.0,45.0,4,Yes,11,Yes,No,2019-11-14
+1670,Human Resources,HR Executive,Male,39.0,Single,Bachelor's,47100.0,1,4.0,40.0,8,Yes,16,No,No,2022-04-21
+1268,Operations,Operations Executive,Female,41.0,Divorced,Bachelor's,52300.0,5,4.0,44.0,22,No,12,No,No,2018-05-28
+1238,Human Resources,Recruiter,Female,26.0,Single,Bachelor's,47300.0,2,2.0,41.0,2,No,14,No,No,2021-06-12
+2451,Marketing,Marketing Manager,Female,43.0,Married,Bachelor's,82600.0,8,5.0,57.0,1,No,7,Yes,No,2015-07-31
+1182,FINANCE,Finance Manager,Male,28.0,Divorced,High School,87300.0,3,3.0,55.0,15,No,7,Yes,No,2020-11-07
+1890,Human Resources,Recruiter,Female,23.0,Married,Master's,60900.0,1,3.0,43.0,1,No,16,No,No,2022-07-03
+1046,Human Resources,HR Executive,female,38.0,Single,Bachelor's,53700.0,1,3.0,33.0,1,Yes,5,No,No,2022-11-25
+1509,Human Resources,Recruiter,Male,24.0,Married,PhD,76300.0,6,5.0,49.0,1,Yes,8,Yes,No,2017-05-17
+2331,Finance,Accountant,Male,20.0,Married,Master's,75900.0,1,1.0,45.0,1,Yes,10,No,No,2022-12-30
+1542,Operations,Operations Manager,Female,39.0,Married,Master's,81300.0,1,3.0,54.0,7,No,16,Yes,Yes,2022-11-02
+1616,Sales,Sales Manager,Male,29.0,Married,PhD,95900.0,3,3.0,57.0,2,No,21,No,No,2020-07-02
+2467,IT,System Administrator,Male,32.0,Divorced,Bachelor's,61600.0,0,3.0,33.0,19,No,13,No,No,2023-03-19
+2085,Engineering,Software Engineer,Male,59.0,Married,Master's,107200.0,1,5.0,36.0,8,No,8,No,No,02/09/2022
+1352,Finance,Financial Analyst,Male,21.0,Divorced,Bachelor's,67500.0,2,2.0,42.0,6,No,7,No,No,2021-12-19
+1028,Finance,Accountant,Male,39.0,Married,Master's,79700.0,4,3.0,35.0,18,No,11,Yes,No,2019-03-20
+1247,Operations,Operations Manager,Male,36.0,Divorced,Bachelor's,87600.0,18,3.0,34.0,1,No,10,No,No,2005-09-03
+1847,Operations,Operations Manager,Male,39.0,Divorced,Master's,98600.0,5,3.0,26.0,33,No,7,No,No,2018-10-31
+1333,Human Resources,Recruiter,Male,36.0,Divorced,Bachelor's,48500.0,0,5.0,28.0,5,Yes,11,No,Yes,2023-04-09
+1619,Finance,Financial Analyst,Male,47.0,Single,Bachelor's,63700.0,3,4.0,19.0,9,No,3,Yes,No,2020-05-27
+1762,SALES, Account Manager  ,Male,31.0,Single,Master's,96400.0,7,5.0,34.0,1,No,12,Yes,No,2016-03-16
+1344,Sales,Sales Executive,Male,39.0,Single,Master's,77800.0,9,4.0,12.0,6,Yes,9,No,Yes,2014-09-24
+2079,MARKETING,Marketing Manager,Female,41.0,Divorced,Bachelor's,83600.0,1,5.0,27.0,1,No,3,No,N,2022-12-17
+1645,Engineering,Senior Engineer,Male,34.0,Married,PhD,155300.0,0,3.0,38.0,2,Yes,13,No,No,2023-11-17
+1334,IT,IT Manager,Female,,Single,PhD,148200.0,6,4.0,34.0,4,No,9,No,No,2017-12-16
+1051,Finance, Accountant  ,Male,49.0,Married,Master's,73000.0,5,3.0,18.0,3,No,12,Yes,No,2018-09-06
+2459,Engineering,Software Engineer,Female,60.0,Divorced,Master's,103500.0,3,3.0,26.0,10,No,13,No,Yes,13/08/2020
+1505,IT, System Administrator  ,Male,40.0,Single,Bachelor's,73400.0,3,4.0,26.0,14,No,14,Yes,No,2020-06-13
+2107,Customer Support,Support Executive,Male,45.0,Single,Master's,46500.0,1,4.0,46.0,12,No,11,Yes,No,2022-11-23
+1513,SALES,Sales Manager,Female,32.0,Married,Master's,112700.0,14,3.0,36.0,27,No,5,No,No,2009-05-01
+1479,Finance,Accountant,Female,29.0,Single,High School,63900.0,2,4.0,43.0,4,No,7,No,No,2021-07-20
+1994,Customer Support,Support Team Lead,female,30.0,Married,Bachelor's,67900.0,4,5.0,42.0,15,Yes,8,No,Yes,2019-10-04
+1833,Human Resources,HR Manager,Female,42.0,Single,High School,62100.0,1,5.0,57.0,1,Yes,13,No,No,28/11/2022
+1748,Finance,Financial Analyst,Female,33.0,Married,Bachelor's,69400.0,0,3.0,29.0,5,No,9,No,No,2023-12-17
+1224,Finance,Finance Manager,Female,32.0,Divorced,Bachelor's,102900.0,11,5.0,51.0,2,No,9,No,No,2012-07-04
+1112,MARKETING,Marketing Executive,Female,30.0,Single,Bachelor's,54900.0,0,4.0,54.0,8,No,15,Yes,Y,2023-09-02
+2112,Finance,Accountant,Female,30.0,Married,Master's,88700.0,6,4.0,66.0,5,No,8,No,No,2017-04-19
+2018,Customer Support,Support Executive,Male,26.0,Divorced,Master's,47100.0,0,5.0,43.0,4,Yes,15,Yes,Yes,2023-09-12
+1978,Engineering,QA Engineer,Male,51.0,Married,Bachelor's,91000.0,6,3.0,45.0,5,No,8,Yes,No,2017-03-17
+1273,Marketing,Content Strategist,female,50.0,Married,Bachelor's,57600.0,4,5.0,45.0,3,No,13,No,No,2019-11-16
+1457,Customer Support, Support Team Lead  ,Male,32.0,Divorced,Bachelor's,59200.0,4,2.0,61.0,9,No,5,No,No,2019-09-04
+1763,Marketing,Marketing Executive,Male,46.0,Married,,61200.0,10,3.0,36.0,6,No,11,No,No,2013-10-23
+1992,IT,IT Manager,Male,28.0,Married,Bachelor's,101400.0,0,3.0,68.0,1,Yes,6,No,Yes,2023-12-25
+1915,Customer Support,Support Executive,Male,37.0,Single,Bachelor's,45800.0,0,3.0,49.0,2,No,7,No,No,2023-11-02
+2027,Engineering,QA Engineer,Male,38.0,Divorced,Bachelor's,83500.0,0,2.0,20.0,6,No,18,No,No,2023-05-18
+1140,Customer Support,Support Executive,Female,20.0,Divorced,Bachelor's,44700.0,2,,41.0,1,No,12,No,No,2021-11-19
+1721,IT,System Administrator,Male,37.0,Single,PhD,102800.0,10,4.0,64.0,6,Yes,10,No,No,2013-06-11
+1678,Human Resources,HR Manager,Male,41.0,Single,Bachelor's,85100.0,9,3.0,31.0,9,No,13,No,N,2014-06-02
+2058,Operations,Operations Manager,Female,35.0,Divorced,High School,71300.0,2,3.0,29.0,20,Yes,14,No,No,2021-03-18
+1993,Customer Support,Support Team Lead,Male,29.0,Single,Master's,83600.0,11,3.0,36.0,4,No,8,No,No,2012-06-07
+2046,Marketing,Content Strategist,Female,41.0,Divorced,Master's,60400.0,0,3.0,47.0,4,Yes,10,No,No,2023-07-16
+2374,Marketing,Marketing Executive,Female,40.0,Single,Master's,74700.0,4,3.0,52.0,4,No,7,No,No,2019-07-22
+1101,Human Resources,Recruiter,Female,29.0,Divorced,Bachelor's,47700.0,2,3.0,40.0,1,No,9,No,No,2021-07-18
+2031,Customer Support,Support Team Lead,Female,45.0,Single,Master's,63400.0,0,4.0,17.0,14,No,9,No,No,2023-05-15
+2490,IT,IT Support,Male,24.0,Single,Master's,74400.0,1,5.0,68.0,10,Yes,7,No,Yes,19/08/2022
+2301,Customer Support,Support Executive,Female,47.0,,Bachelor's,48800.0,9,2.0,40.0,1,No,9,No,No,2014-08-05
+1518,Engineering,QA Engineer,Female,42.0,Divorced,PhD,105800.0,3,3.0,11.0,13,Yes,10,No,N,2020-09-20
+1578,IT,System Administrator,Female,38.0,Single,Master's,71800.0,1,3.0,34.0,16,No,9,No,No,2022-03-19
+1543,Finance,Finance Manager,Female,29.0,Divorced,Bachelor's,89300.0,2,3.0,36.0,3,No,10,No,No,2021-08-10
+1103,OPERATIONS,Operations Manager,Female,40.0,Single,Bachelor's,89100.0,8,2.0,36.0,1,Yes,12,No,No,2015-06-14
+2361,Human Resources,HR Executive,Male,40.0,Single,Bachelor's,50000.0,6,3.0,38.0,14,Yes,14,No,No,2017-09-24
+1031,Engineering,Engineering Manager,Male,37.0,Married,Bachelor's,110900.0,0,4.0,29.0,6,No,16,No,No,2023-08-19
+1395,Sales,Sales Manager,Male,36.0,Married,PhD,109700.0,7,5.0,43.0,4,No,10,No,No,2016-09-21
+2456,IT,IT Support,Male,43.0,Married,Master's,76700.0,1,3.0,41.0,4,No,4,No,No,2022-08-13
+1761,Engineering,Senior Engineer,Male,31.0,Divorced,Bachelor's,130500.0,0,5.0,9.0,1,No,10,Yes,Yes,2023-05-04
+1188,Sales,Account Manager,Male,43.0,Divorced,PhD,111000.0,8,4.0,46.0,10,No,20,No,No,2015-10-08
+1688,Human Resources,HR Executive,Male,42.0,Married,Bachelor's,55200.0,1,4.0,54.0,3,No,9,No,No,2022-12-14
+1571,Operations,Operations Executive,Male,45.0,Married,Bachelor's,52300.0,2,5.0,42.0,19,Yes,14,No,No,2021-10-25
+2007,Human Resources,HR Executive,Male,42.0,Married,Master's,62400.0,11,2.0,40.0,3,No,7,No,No,2012-11-13
+1629,Operations,Operations Manager,Male,44.0,Divorced,Master's,80100.0,3,3.0,31.0,6,No,11,No,No,2020-06-27
+2492,Customer Support,Support Team Lead,Female,34.0,Divorced,Bachelor's,63200.0,10,4.0,45.0,2,No,8,No,No,2013-04-12
+2067,Finance,Accountant,female,35.0,Single,Bachelor's,60000.0,1,3.0,24.0,8,No,11,No,No,2022-07-12
+2270,Human Resources,HR Executive,Male,45.0,Single,Bachelor's,51900.0,2,3.0,32.0,16,Yes,10,No,No,2021-04-02
+1816,Customer Support, Support Team Lead  ,Male,20.0,Divorced,Bachelor's,61100.0,0,3.0,32.0,1,Yes,13,No,No,2023-04-20
+2295,IT,System Administrator,Female,31.0,Married,High School,63500.0,5,4.0,50.0,3,No,8,No,No,2018-06-12
+1703,Customer Support,Support Executive,Male,20.0,Divorced,Bachelor's,46800.0,2,4.0,21.0,5,Yes,9,No,No,2021-09-06
+2412,Human Resources,HR Manager,Male,,Single,High School,66100.0,2,4.0,23.0,9,No,10,No,No,2021-09-19
+1142,Human Resources,Recruiter,Female,37.0,Married,Bachelor's,52300.0,0,1.0,69.0,4,Yes,11,No,Yes,2023-04-28
+1261,Human Resources,Recruiter,Male,45.0,Single,Bachelor's,45900.0,1,3.0,50.0,1,No,14,No,Yes,2022-10-23
+2305,Finance,Financial Analyst,Female,29.0,Single,Bachelor's,70400.0,1,4.0,35.0,31,Yes,10,Yes,Yes,2022-04-29
+2263,Human Resources,Recruiter,Male,49.0,Married,Bachelor's,52800.0,9,2.0,30.0,4,Yes,18,No,Yes,2014-11-13
+1063,Engineering,QA Engineer,Male,38.0,Divorced,Bachelor's,82900.0,4,4.0,31.0,1,No,10,No,No,2019-05-24
+1438,Operations,Operations Manager,Female,33.0,Married,Master's,88500.0,7,4.0,67.0,3,No,9,No,No,2016-09-07
+2121,Engineering,Software Engineer,Male,45.0,Single,Bachelor's,105400.0,17,3.0,27.0,15,No,7,No,No,2006-11-12
+1228,Operations,Operations Manager,Male,20.0,Single,Master's,94600.0,2,3.0,46.0,4,No,8,No,No,2021-03-30
+2218,Customer Support,Support Executive,Male,,Divorced,Master's,51100.0,1,2.0,32.0,3,Yes,10,No,No,2022-05-06
+1359,Engineering,Engineering Manager,Female,40.0,Married,,133900.0,14,2.0,34.0,4,No,11,No,Yes,2010-01-02
+2454,Marketing,Content Strategist,Male,30.0,Married,Master's,78300.0,10,4.0,49.0,1,Yes,21,No,No,2013-08-31
+1131,Customer Support,Support Executive,Male,37.0,Married,Bachelor's,46700.0,2,3.0,21.0,13,No,7,No,No,2021-07-12
+2185,Operations,Operations Manager,Male,24.0,Single,High School,,3,2.0,29.0,7,No,11,No,Yes,2020-09-19
+1280,Human Resources,HR Executive,Male,29.0,Single,Master's,66300.0,6,2.0,0.0,1,No,15,Yes,No,2017-03-20
+1660,Human Resources,HR Executive,Female,36.0,Single,Bachelor's,50000.0,0,5.0,54.0,1,No,8,Yes,Yes,2023-08-12
+1814,Marketing,Marketing Manager,Female,37.0,Married,Master's,107100.0,5,5.0,67.0,4,Yes,15,No,Yes,2018-08-04
+2224,Engineering,Engineering Manager,Male,25.0,Divorced,Master's,160900.0,7,4.0,20.0,5,No,12,Yes,No,2016-07-30
+2184,Finance,Finance Manager,Female,51.0,Single,Bachelor's,94800.0,0,3.0,54.0,4,No,14,No,No,08/07/2023
+1785,Finance,Financial Analyst,Female,35.0,Single,Master's,69600.0,0,4.0,30.0,4,Yes,5,No,No,2023-08-11
+1812,Customer Support,Support Team Lead,Male,34.0,Divorced,Bachelor's,,1,4.0,22.0,4,No,8,No,No,17/08/2022
+1981,Sales,Sales Executive,Female,42.0,Married,Bachelor's,59000.0,0,3.0,46.0,3,No,9,No,No,2023-11-15
+2057,Customer Support,Support Executive,Female,34.0,Single,Master's,63100.0,16,5.0,26.0,1,No,5,No,No,2008-01-02
+2118,Customer Support,Support Team Lead,Male,41.0,,Bachelor's,63300.0,11,3.0,54.0,1,Yes,7,No,No,2012-04-26
+1821,Operations, Operations Manager  ,Female,44.0,Divorced,Bachelor's,90500.0,9,3.0,54.0,29,No,17,No,No,2014-12-19
+1936,Sales,Account Manager,Male,22.0,Married,PhD,96500.0,1,3.0,60.0,13,No,17,No,No,2022-11-24
+2429,Sales,Account Manager,Male,40.0,Single,High School,67300.0,5,3.0,61.0,2,Yes,7,No,No,2018-04-02
+1342,Customer Support,Support Team Lead,female,41.0,Married,Master's,76000.0,6,2.0,47.0,4,Yes,15,No,No,2017-04-13
+1160,Marketing,Marketing Executive,Female,40.0,Married,Bachelor's,62500.0,0,3.0,48.0,6,No,16,No,No,2023-04-22
+1373,Engineering,Engineering Manager,Male,35.0,Divorced,Bachelor's,126200.0,2,4.0,44.0,1,Yes,12,Yes,No,2021-06-10
+2444,Human Resources,HR Executive,female,20.0,Single,Master's,61000.0,2,2.0,56.0,5,No,12,No,No,2021-10-09
+2019,Human Resources,Recruiter,Male,37.0,,Master's,55300.0,4,5.0,18.0,4,Yes,17,No,No,2019-05-25
+2294,IT,IT Support,Female,49.0,Single,Master's,81800.0,2,4.0,30.0,39,No,11,No,Y,2021-07-01
+2203,Customer Support,Support Team Lead,male,25.0,Divorced,PhD,75800.0,2,3.0,30.0,9,No,14,No,N,2021-06-11
+1627,Engineering,Software Engineer,Female,20.0,Married,Master's,95600.0,0,2.0,24.0,1,Yes,8,No,Yes,2023-03-10
+1143,Finance,Financial Analyst,female,41.0,Single,Bachelor's,75600.0,8,3.0,31.0,2,No,4,No,No,2015-04-09
+2239,Operations,Operations Manager,Female,26.0,Single,Bachelor's,75600.0,0,3.0,66.0,6,No,14,No,No,2023-07-22
+1926,ENGINEERING,Senior Engineer,Female,45.0,Single,Master's,139900.0,5,4.0,55.0,1,Yes,10,Yes,No,2018-09-26
+1410,Finance,Financial Analyst,Female,27.0,Married,Master's,74500.0,0,4.0,28.0,2,No,13,No,Yes,24/06/2023
+2252,Sales,Account Manager,Male,31.0,Married,High School,77200.0,7,3.0,27.0,17,No,10,No,No,2016-11-29
+2403,Human Resources,HR Executive,Male,38.0,Married,High School,44900.0,2,3.0,68.0,7,Yes,11,No,No,2021-06-27
+1092,HUMAN RESOURCES,HR Manager,Female,29.0,Married,Master's,75500.0,1,3.0,43.0,9,No,15,No,No,2022-03-30
+1285,IT,IT Support,Male,37.0,Single,Master's,78300.0,1,2.0,37.0,16,No,10,No,No,2022-03-16
+1375,Engineering,Software Engineer,Male,42.0,Divorced,Master's,116100.0,8,4.0,25.0,6,No,7,No,N,2015-12-20
+1227,Marketing,Marketing Executive,Male,35.0,Single,Bachelor's,62100.0,4,4.0,37.0,2,No,17,No,No,2019-08-24
+1839,Engineering,QA Engineer,Male,38.0,Divorced,Bachelor's,80400.0,1,2.0,25.0,9,No,17,Yes,No,2022-04-09
+2096,IT,IT Manager,Female,36.0,Divorced,Bachelor's,,1,5.0,45.0,1,No,8,No,No,2022-04-11
+2402,Customer Support,Support Team Lead,Male,46.0,Divorced,Master's,69800.0,8,3.0,68.0,7,No,12,No,No,05/06/2015
+2277,Operations,Operations Executive,male,24.0,Divorced,Bachelor's,52800.0,1,3.0,28.0,10,Yes,8,No,No,13/07/2022
+1098,Finance,Accountant,Female,30.0,Married,Bachelor's,75900.0,5,3.0,70.0,2,No,18,No,No,2018-06-14
+1935,IT,IT Support,Male,41.0,Single,Bachelor's,72400.0,1,5.0,86.0,1,Yes,11,No,Yes,2022-08-06
+2072,Operations,Operations Manager,Female,41.0,Married,Master's,88000.0,0,5.0,59.0,1,Yes,19,Yes,No,2023-03-14
+1512,Sales,Sales Manager,Female,33.0,Married,High School,66500.0,1,3.0,14.0,1,No,11,No,No,2022-11-07
+1099,Marketing,Marketing Executive,Female,29.0,Single,Master's,66700.0,1,4.0,48.0,5,No,10,No,No,2022-08-08
+1118,IT,System Administrator,Female,39.0,Married,Bachelor's,63800.0,2,4.0,56.0,1,No,9,No,N,2021-10-15
+2219,IT,IT Support,Female,37.0,Divorced,PhD,88100.0,3,5.0,0.0,1,Yes,5,No,No,2020-04-03
+2346,Operations,Operations Manager,Male,37.0,Single,,90300.0,0,3.0,25.0,15,No,8,No,No,2023-08-08
+2189,Customer Support,Support Team Lead,Female,45.0,Divorced,PhD,97900.0,15,1.0,59.0,1,Yes,20,No,Yes,2008-04-23
+1385,Finance,Financial Analyst,Female,30.0,Single,Bachelor's,77900.0,8,3.0,61.0,1,No,10,No,No,2015-11-01
+1904,IT,IT Support,female,48.0,Divorced,Bachelor's,64200.0,1,3.0,27.0,11,Yes,6,No,No,2022-11-17
+2420,Operations,Operations Manager,Male,20.0,Single,Bachelor's,70100.0,0,4.0,43.0,4,No,17,No,No,2023-03-31
+1371,Human Resources,HR Manager,Female,20.0,Married,Bachelor's,67900.0,1,5.0,28.0,13,No,11,Yes,Y,2022-12-12
+1673,Sales,Sales Manager,Female,26.0,Married,Bachelor's,86600.0,5,3.0,35.0,6,No,12,No,Yes,2018-07-31
+1515,Operations,Operations Manager,Female,28.0,Married,High School,64300.0,5,4.0,20.0,1,No,10,No,No,2018-04-21
+2423,Sales,Sales Manager,Female,47.0,Single,Master's,92300.0,7,3.0,42.0,10,No,9,No,No,2016-07-20
+1120,CUSTOMER SUPPORT,Support Executive,Male,27.0,Married,Master's,47700.0,3,5.0,23.0,1,No,11,No,No,2020-07-26
+1472,Marketing, Content Strategist  ,Male,23.0,Married,High School,57800.0,2,3.0,48.0,1,No,20,No,No,2021-06-16
+2408,SALES,Sales Manager,Male,29.0,Single,Master's,91200.0,2,4.0,21.0,4,No,9,No,No,2021-05-12
+2489,Human Resources,Recruiter,Male,20.0,Married,Bachelor's,51100.0,2,2.0,25.0,5,Yes,12,No,Yes,2021-09-24
+1230,Human Resources,Recruiter,Male,30.0,Single,Bachelor's,50600.0,4,3.0,23.0,3,No,9,No,No,2019-04-30
+1811,Engineering,QA Engineer,Male,52.0,Divorced,High School,72800.0,3,3.0,55.0,2,No,4,No,No,2020-04-16
+1065,Customer Support,Support Executive,Male,28.0,Married,Bachelor's,47000.0,7,3.0,36.0,4,No,10,No,No,2016-08-14
+2275,Sales,Account Manager,Female,29.0,Single,Bachelor's,81800.0,2,2.0,31.0,2,No,12,No,Yes,2021-09-02
+1507,Human Resources,HR Executive,Female,37.0,Married,Bachelor's,55000.0,1,3.0,22.0,7,No,5,No,No,2022-10-07
+1656,IT,System Administrator,Female,20.0,Single,Bachelor's,65300.0,2,2.0,78.0,6,No,6,No,No,2021-05-20
+1165,Engineering,Software Engineer,Male,44.0,Divorced,Master's,108900.0,4,3.0,57.0,1,Yes,10,No,Yes,2019-06-27
+1200,Sales,Sales Executive,Male,22.0,Married,Master's,62600.0,4,5.0,52.0,5,No,16,No,No,2019-04-25
+1777,Engineering,Engineering Manager,Male,35.0,Married,Bachelor's,120000.0,1,3.0,47.0,15,No,8,Yes,No,2022-05-09
+1677,IT,IT Support,Male,26.0,Single,PhD,86400.0,1,3.0,39.0,13,No,10,No,No,2022-11-19
+2373,Operations,Operations Manager,Female,23.0,Married,Master's,85100.0,1,4.0,34.0,6,Yes,14,Yes,Yes,2022-09-22
+1451,Finance,Finance Manager,Male,50.0,Single,Bachelor's,92800.0,5,3.0,60.0,10,No,13,No,No,2018-11-02
+1448,Sales,Sales Manager,Male,50.0,Single,High School,70400.0,0,4.0,35.0,25,No,5,No,Yes,2023-07-05
+1074,Marketing,Content Strategist,Female,34.0,Divorced,Bachelor's,70300.0,9,4.0,3.0,2,No,8,No,No,2014-09-17
+2035,Human Resources,HR Executive,Female,25.0,Married,Master's,59100.0,5,3.0,34.0,7,Yes,6,No,Yes,2018-04-25
+1602,Sales,Sales Manager,male,27.0,Married,Master's,98800.0,2,4.0,23.0,10,No,10,No,No,2021-03-11
+1082,Sales,Sales Manager,Male,42.0,Married,Bachelor's,77500.0,1,2.0,39.0,3,No,13,Yes,No,2022-03-30
+1249,Sales,Account Manager,Male,38.0,Married,Master's,92100.0,1,3.0,57.0,5,No,7,No,Yes,2022-06-06
+1539,Human Resources,HR Manager,Male,41.0,Married,Bachelor's,81800.0,13,4.0,67.0,1,No,18,No,No,2010-12-06
+1698,CUSTOMER SUPPORT,Support Team Lead,female,30.0,Married,Bachelor's,63800.0,8,2.0,68.0,5,No,9,No,No,01/06/2015
+1923,IT,IT Support,Male,44.0,Single,Bachelor's,74400.0,4,1.0,7.0,14,No,10,No,Yes,2019-12-07
+1201,Engineering,QA Engineer,Male,38.0,Divorced,Master's,111200.0,4,3.0,46.0,1,No,10,No,No,2019-07-14
+1229,Sales,Account Manager,Male,50.0,Divorced,Master's,104500.0,5,5.0,31.0,1,Yes,13,Yes,Yes,2018-09-06
+2023,Marketing,Marketing Manager,Female,31.0,Married,Bachelor's,84400.0,10,4.0,32.0,11,No,1,Yes,Yes,2013-05-16
+1956,Human Resources,Recruiter,Male,42.0,Married,Master's,57800.0,0,2.0,43.0,5,No,8,No,Yes,2023-07-22
+1377,Finance,Finance Manager,Female,30.0,Divorced,Bachelor's,95600.0,6,4.0,,1,Yes,9,Yes,No,2017-07-09
+1834,Finance,Accountant,Male,27.0,Married,Master's,92700.0,9,2.0,22.0,1,Yes,13,No,Yes,2014-07-21
+1672,Operations,Operations Manager,Male,36.0,Married,Master's,89800.0,1,3.0,51.0,26,No,16,No,No,2022-12-23
+1684,Finance,Accountant,Male,31.0,Divorced,Master's,73300.0,3,3.0,41.0,7,Yes,19,No,Yes,2020-09-28
+1196,Finance,Financial Analyst,Female,32.0,Single,Bachelor's,64500.0,3,4.0,37.0,5,Yes,16,No,No,2020-10-23
+1882,Finance,Accountant,Female,24.0,Divorced,Bachelor's,70900.0,4,3.0,40.0,21,No,10,No,Y,2019-09-11
+2315,Finance,Finance Manager,Female,35.0,Single,PhD,117500.0,2,4.0,38.0,8,No,13,Yes,No,2021-11-17
+1010,Marketing,Content Strategist,Female,42.0,Single,Master's,76600.0,6,3.0,36.0,1,No,9,No,No,2017-12-09
+2128,Finance,Financial Analyst,female,40.0,Single,Master's,75900.0,3,3.0,52.0,9,Yes,6,No,Yes,2020-04-22
+1942,Sales,Sales Manager,male,43.0,Single,PhD,94700.0,3,3.0,36.0,7,No,5,No,No,2020-03-09
+1446,IT,IT Manager,Male,44.0,Single,High School,87400.0,4,3.0,49.0,16,No,5,No,No,2019-03-14
+1426,Human Resources,Recruiter,Female,38.0,Married,Bachelor's,52800.0,0,3.0,48.0,1,No,12,No,No,2023-06-03
+2199,IT,IT Support,Male,21.0,Single,Bachelor's,70500.0,0,2.0,19.0,4,No,14,No,No,2023-05-12
+2041,Customer Support,Support Team Lead,Female,37.0,Single,Bachelor's,58800.0,0,3.0,25.0,1,Yes,10,No,Yes,2023-08-06
+1553,Customer Support,Support Team Lead,Female,24.0,Divorced,Bachelor's,64500.0,0,4.0,76.0,1,No,12,No,No,2023-09-16
+2042,Finance,Finance Manager,Male,24.0,,Master's,110400.0,2,4.0,40.0,1,No,8,No,No,2021-07-06
+1412,Finance,Finance Manager,Female,20.0,Divorced,Master's,116800.0,2,3.0,41.0,3,No,14,No,No,2021-08-25
+1189,IT,IT Support,Female,29.0,Divorced,Bachelor's,73800.0,10,4.0,32.0,29,Yes,7,Yes,Yes,2013-10-18
+2393,Marketing,Marketing Executive,Female,20.0,Single,Bachelor's,56300.0,2,4.0,37.0,5,No,13,No,No,2021-12-18
+1516,Marketing,Marketing Executive,Female,37.0,Single,Master's,73700.0,2,5.0,11.0,6,No,11,Yes,No,2021-07-11
+1214,IT,IT Manager,Male,28.0,Single,Bachelor's,104800.0,5,3.0,6.0,15,Yes,9,No,No,2018-11-06
+1543,Finance,Finance Manager,Female,29.0,Divorced,Bachelor's,89300.0,2,3.0,36.0,3,No,10,No,No,2021-08-10
+2369,Engineering,Engineering Manager,Male,23.0,Single,Master's,161100.0,5,3.0,32.0,2,No,19,Yes,Yes,2018-07-12
+1612,Finance,Accountant,Male,45.0,Married,Bachelor's,61100.0,1,2.0,26.0,6,No,13,No,Y,2022-12-05
+2049,ENGINEERING,Engineering Manager,Female,30.0,Married,Master's,130800.0,0,3.0,1.0,3,Yes,11,No,Yes,2023-09-12
+1088,Operations,Operations Executive,Male,29.0,Divorced,Bachelor's,53100.0,6,3.0,31.0,5,No,7,No,No,2017-09-02
+2345,Human Resources,HR Executive,Female,37.0,Divorced,PhD,69900.0,7,5.0,50.0,25,No,13,No,No,2016-09-03
+1852,Sales, Account Manager  ,Female,22.0,Single,PhD,106600.0,0,2.0,50.0,4,No,7,No,No,2023-09-03
+2210,Engineering, QA Engineer  ,Female,38.0,Single,Master's,110800.0,7,2.0,47.0,9,Yes,8,No,Yes,2016-10-13
+1590,HUMAN RESOURCES,Recruiter,Female,43.0,Married,High School,49400.0,8,4.0,47.0,3,No,9,No,No,2015-10-01
+2259,Customer Support,Support Executive,Female,26.0,Married,,39500.0,2,3.0,47.0,2,Yes,13,No,No,2021-12-19
+1066,Sales,Account Manager,Female,34.0,Married,High School,66000.0,3,4.0,59.0,7,No,15,No,No,2020-04-25
+1304,Customer Support,Support Executive,Male,36.0,Single,Bachelor's,47800.0,5,4.0,52.0,18,Yes,10,No,No,2018-12-13
+2182,IT,System Administrator,Female,41.0,Married,Bachelor's,72000.0,0,3.0,35.0,15,No,10,Yes,No,2023-09-04
+2258,Marketing,Marketing Executive,Male,21.0,Single,Bachelor's,57200.0,2,5.0,49.0,1,No,10,No,No,2021-07-18
+2443,Customer Support,Support Executive,Female,44.0,Married,Master's,47400.0,0,3.0,24.0,15,No,16,No,No,2023-03-24
+1749,Operations,Operations Executive,Female,26.0,Single,Master's,54500.0,0,3.0,42.0,14,Yes,16,No,No,2023-10-09
+1990,Sales,Sales Executive,Female,40.0,Married,PhD,76600.0,11,3.0,51.0,13,Yes,8,No,No,2012-04-12
+2231,Human Resources,HR Executive,male,27.0,Divorced,Bachelor's,48700.0,4,3.0,,25,Yes,15,No,No,2019-09-08
+1478,Marketing,Marketing Manager,Female,28.0,Single,Bachelor's,98300.0,8,4.0,35.0,6,No,15,Yes,No,2015-12-17
+1872,Engineering,Software Engineer,female,24.0,Divorced,Master's,111000.0,6,3.0,48.0,1,No,1,No,No,2017-05-04
+2318,Human Resources,HR Manager,Male,40.0,Divorced,High School,62100.0,0,3.0,11.0,10,Yes,14,No,No,2023-11-14
+1436,SALES,Sales Manager,Female,41.0,Married,Master's,95200.0,4,3.0,41.0,2,Yes,9,No,No,2019-08-22
+1794,OPERATIONS,Operations Executive,Female,36.0,Single,Master's,66200.0,4,2.0,28.0,4,No,11,No,No,2019-11-30
+1496,Finance,Finance Manager,Male,30.0,Divorced,Bachelor's,82300.0,0,4.0,58.0,6,Yes,9,No,No,2023-06-12
+1806,Sales,Sales Executive,Male,35.0,Married,Bachelor's,66700.0,9,3.0,60.0,3,No,7,No,No,2014-10-04
+2004,Sales,Account Manager,female,27.0,Married,PhD,107200.0,1,2.0,38.0,1,Yes,17,No,No,2022-07-02
+1867,Engineering,Senior Engineer,Male,28.0,Married,Bachelor's,123800.0,1,4.0,0.0,3,No,11,No,No,2022-11-07
+1853,Human Resources,HR Manager,Female,26.0,Single,Bachelor's,75700.0,0,4.0,43.0,2,No,9,No,No,2023-03-12
+1835,IT,System Administrator,Male,37.0,Single,Bachelor's,76100.0,4,2.0,59.0,9,Yes,14,No,No,2019-06-21
+1573,OPERATIONS,Operations Manager,Female,34.0,Married,Bachelor's,76900.0,6,3.0,46.0,8,No,17,No,No,2017-12-30
+2036,IT,IT Support,Female,54.0,Single,Master's,84600.0,9,5.0,65.0,8,Yes,2,No,No,2014-09-03
+2455,IT,System Administrator,Female,29.0,Married,PhD,95700.0,3,3.0,35.0,16,Yes,6,No,No,2020-06-23
+2074,Human Resources,Recruiter,Male,34.0,Single,PhD,77100.0,9,2.0,21.0,30,No,11,No,No,09/06/2014
+1685,Operations,Operations Executive,Female,46.0,Married,Master's,69800.0,8,5.0,37.0,1,No,13,No,No,2015-05-26
+1476,Sales,Sales Executive,Male,36.0,Married,High School,59200.0,8,3.0,8.0,12,No,11,No,No,2015-05-11
+1521,IT,System Administrator,Male,32.0,Divorced,Master's,79200.0,1,4.0,52.0,10,No,1,No,No,2022-11-08
+1351,Operations,Operations Executive,Male,41.0,Married,Bachelor's,58700.0,4,3.0,34.0,33,Yes,5,No,No,2019-08-03
+1918,Customer Support,Support Executive,Male,30.0,Single,High School,38700.0,6,3.0,27.0,7,Yes,10,No,No,2017-10-31
+1970,Finance,Finance Manager,Female,36.0,Divorced,Bachelor's,115400.0,14,2.0,43.0,4,No,9,No,No,2009-12-12
+1764,IT,IT Support,Female,41.0,Single,Bachelor's,70600.0,8,3.0,42.0,3,No,13,Yes,No,2015-07-09
+1676,Marketing, Marketing Manager  ,male,28.0,Married,Master's,114800.0,10,2.0,17.0,1,No,7,Yes,No,13/07/2013
+2363,Engineering,Engineering Manager,Female,56.0,Divorced,Bachelor's,155600.0,14,3.0,60.0,16,No,10,No,Yes,2009-10-11
+2483,Operations,Operations Executive,Male,45.0,Divorced,High School,51400.0,4,5.0,39.0,40,No,14,Yes,No,2019-05-09
+1281,Sales,Account Manager,female,28.0,Divorced,Bachelor's,72700.0,0,4.0,12.0,7,No,12,No,No,2023-05-20
+1330,IT,IT Support,Male,33.0,Single,Master's,80100.0,2,4.0,36.0,1,Yes,3,No,No,2021-11-21
+1121,Customer Support,Support Executive,Female,20.0,Single,Bachelor's,42100.0,2,4.0,39.0,6,No,7,No,No,2021-11-04
+1014,Finance,Financial Analyst,Male,34.0,Divorced,Bachelor's,58900.0,0,5.0,18.0,5,No,16,No,No,2023-11-05
+1938,Finance,Finance Manager,Female,35.0,Married,Master's,120300.0,4,4.0,40.0,4,No,13,Yes,No,2019-09-12
+2066,Sales,Sales Manager,female,39.0,Married,Bachelor's,82300.0,3,4.0,45.0,4,Yes,15,No,Yes,2020-04-19
+1829,Finance,Accountant,Male,39.0,Divorced,Master's,,0,3.0,50.0,4,No,14,No,No,2023-05-12
+1760,IT,System Administrator,Female,29.0,Divorced,Master's,86000.0,7,5.0,48.0,1,No,6,No,No,2016-10-11
+1650,Marketing,Content Strategist,Female,23.0,Married,PhD,89000.0,5,4.0,47.0,14,No,10,No,No,2018-10-11
+1668,Human Resources,HR Manager,Female,43.0,Married,Bachelor's,76600.0,4,4.0,47.0,45,Yes,12,No,No,2019-08-13
+2123,Finance,Financial Analyst,Male,37.0,Married,Master's,79700.0,3,3.0,45.0,3,No,11,No,No,2020-04-10
+2253,Human Resources,Recruiter,Male,44.0,Single,Master's,63100.0,4,2.0,38.0,13,No,7,Yes,No,08/05/2019
+1576,Operations,Operations Executive,Male,25.0,Divorced,Master's,61500.0,3,3.0,35.0,4,No,10,Yes,No,2020-03-31
+1784,Human Resources,HR Manager,Male,31.0,Divorced,Bachelor's,77700.0,13,1.0,15.0,2,Yes,14,No,Yes,05/07/2010
+1257,Engineering,Senior Engineer,Male,41.0,Married,Master's,150500.0,5,3.0,44.0,1,No,7,No,No,2018-09-30
+1191,Finance,Finance Manager,Male,35.0,Married,Master's,110000.0,1,3.0,41.0,1,No,16,No,No,2022-03-28
+2283,Engineering,QA Engineer,Female,29.0,Married,Bachelor's,88900.0,3,5.0,,1,No,12,No,No,2020-05-03
+1335,Engineering,Software Engineer,Female,200.0,Single,Bachelor's,91300.0,2,5.0,16.0,7,No,15,Yes,No,2021-05-30
+1030,Operations,Operations Manager,Female,45.0,Single,PhD,88200.0,0,4.0,43.0,1,No,15,No,No,2023-11-09
+1032,Operations,Operations Manager,Female,46.0,Married,Master's,88600.0,1,2.0,28.0,10,No,7,No,Yes,2022-10-27
+1094,Operations,Operations Executive,Female,49.0,Single,PhD,64700.0,0,2.0,60.0,6,No,6,No,No,2023-04-05
+2425,Operations,Operations Executive,Female,38.0,Single,Master's,57400.0,1,3.0,35.0,5,No,6,No,No,2022-04-23
+1041,Finance,Accountant,Male,,Divorced,,75000.0,8,3.0,97.0,9,No,12,No,No,2015-09-25
+1017,Finance, Finance Manager  ,Male,30.0,Married,PhD,138900.0,11,4.0,47.0,13,No,10,Yes,No,2012-12-02
+2298,ENGINEERING,Senior Engineer,Male,40.0,Divorced,Master's,,10,4.0,43.0,8,No,12,No,No,2013-04-23
+1759,Human Resources,HR Executive,Male,26.0,Single,Bachelor's,58900.0,8,3.0,30.0,9,No,8,No,No,2015-04-13
+2105,MARKETING,Marketing Executive,Male,40.0,Married,Master's,74300.0,3,3.0,23.0,1,No,12,No,No,2020-08-04
+1800,Marketing,Content Strategist,female,25.0,Married,Master's,74300.0,6,2.0,43.0,1,No,9,No,No,2017-04-12
+2194,Sales,Sales Manager,Male,37.0,Married,Master's,91100.0,5,2.0,51.0,7,No,9,No,No,2018-04-04
+2438,Sales,Account Manager,Male,32.0,Single,Master's,96300.0,5,4.0,50.0,7,No,15,No,Yes,2018-05-31
+2269,Operations,Operations Executive,Female,26.0,Divorced,Bachelor's,51900.0,1,3.0,50.0,2,No,4,No,No,2022-10-13
+1250,Operations,Operations Executive,Female,33.0,Divorced,Bachelor's,59200.0,10,4.0,32.0,4,No,7,No,No,2013-05-03
+2334,Finance, Finance Manager  ,Female,45.0,Married,Bachelor's,89200.0,0,4.0,,1,No,19,No,No,2023-09-26
+2082,IT,IT Manager,Female,20.0,Married,PhD,132700.0,2,5.0,37.0,1,No,13,Yes,No,2021-12-14
+2498,IT,IT Manager,Male,38.0,Single,Bachelor's,98800.0,7,3.0,41.0,3,No,5,No,No,2016-07-19
+2311,Operations, Operations Executive  ,Female,24.0,Single,Bachelor's,57000.0,0,4.0,44.0,4,No,9,No,Yes,2023-03-16
+1732,Sales,Sales Executive,Male,24.0,Single,High School,54500.0,6,5.0,47.0,7,Yes,9,No,No,2017-05-24
+1615,Finance,Financial Analyst,Male,31.0,Single,,63900.0,0,4.0,46.0,1,No,22,No,No,2023-04-28
+1328,IT,IT Manager,Male,42.0,Single,Master's,105400.0,3,3.0,36.0,8,No,2,No,No,2020-03-24
+2488,Human Resources,HR Executive,Female,33.0,Married,Bachelor's,56600.0,8,4.0,32.0,3,No,21,Yes,No,2015-09-25
+1169,Customer Support,Support Executive,Male,40.0,Single,Bachelor's,45700.0,0,3.0,42.0,9,No,11,No,No,2023-06-30
+1497,SALES,Account Manager,Male,44.0,Single,Bachelor's,70600.0,1,1.0,20.0,11,No,17,No,Yes,2022-09-10
+2029,Marketing,Content Strategist,Male,30.0,Divorced,Master's,68300.0,2,5.0,52.0,1,No,8,No,No,2021-11-24
+1465,Engineering,Software Engineer,male,38.0,Divorced,Bachelor's,97600.0,5,3.0,35.0,15,No,10,No,No,2018-11-11
+1194,IT,System Administrator,Female,29.0,Married,Master's,89700.0,4,3.0,47.0,7,No,6,No,No,24/08/2019
+1372,Marketing,Marketing Manager,Female,41.0,Single,Bachelor's,91200.0,11,4.0,16.0,8,No,11,Yes,No,2012-10-25
+2061,Finance,Financial Analyst,Male,26.0,Divorced,Bachelor's,62700.0,3,5.0,34.0,21,Yes,9,No,Yes,2020-04-18
+1537,Engineering,Software Engineer,Female,29.0,Single,Master's,99100.0,4,3.0,44.0,1,Yes,16,No,No,2019-08-10
+1980,Customer Support,Support Executive,Female,32.0,Divorced,Bachelor's,46400.0,7,3.0,35.0,4,Yes,14,Yes,No,2016-08-30
+1788,Finance,Finance Manager,Female,43.0,Single,Bachelor's,119800.0,25,4.0,69.0,4,No,21,No,No,1998-08-31
+1564,IT,IT Manager,Female,29.0,Divorced,Bachelor's,97600.0,3,3.0,46.0,7,No,13,No,No,2020-04-27
+2149,Sales,Sales Manager,Female,41.0,Divorced,Master's,81300.0,1,4.0,46.0,2,No,6,Yes,No,2022-05-10
+1710,Sales,Sales Manager,Male,46.0,Divorced,Bachelor's,77700.0,0,5.0,,4,No,9,No,No,2023-03-10
+2500,Sales,Sales Executive,Male,30.0,Married,High School,50700.0,1,3.0,38.0,3,No,6,No,No,2022-03-15
+1144,Sales,Account Manager,Male,45.0,Married,Master's,95900.0,0,2.0,20.0,6,Yes,11,No,Yes,2023-10-09
+1409,Marketing,Content Strategist,Male,23.0,Married,High School,56700.0,1,4.0,49.0,10,No,11,Yes,No,2022-10-13
+1888,IT,IT Support,Male,53.0,Single,Master's,76900.0,0,4.0,48.0,1,No,10,No,No,2023-10-10
+1035,Customer Support,Support Executive,Female,35.0,Divorced,Master's,51100.0,4,3.0,61.0,1,No,8,No,No,2019-10-15
+2159,OPERATIONS,Operations Executive,Male,55.0,Single,Master's,62800.0,5,5.0,68.0,8,No,20,Yes,No,2018-05-04
+2327,Operations,Operations Executive,Male,27.0,Married,Bachelor's,50100.0,0,3.0,50.0,29,No,10,No,No,2023-12-04
+1399,Sales,Account Manager,Female,39.0,Divorced,Master's,94400.0,2,3.0,57.0,2,No,14,No,No,2021-04-07
+1754,Finance,Financial Analyst,Male,24.0,Divorced,Bachelor's,64600.0,6,3.0,53.0,7,Yes,11,No,Yes,2017-08-23
+2289,Marketing,Marketing Executive,Male,25.0,Married,Master's,72900.0,3,2.0,78.0,1,No,14,No,Yes,2020-04-27
+1166,Customer Support,Support Team Lead,Female,27.0,Married,Master's,68700.0,6,3.0,46.0,5,No,13,No,No,2017-12-20
+2217,Finance,Finance Manager,Male,40.0,Single,Bachelor's,99200.0,4,4.0,46.0,1,No,13,No,No,07/11/2019
+1106,Marketing,Content Strategist,Male,44.0,Married,Bachelor's,58900.0,3,5.0,35.0,13,No,15,Yes,No,2020-04-01
+1604,Sales,Sales Executive,Female,45.0,Single,PhD,83000.0,14,4.0,49.0,8,No,7,No,N,2009-11-11
+2394,IT,IT Support,Male,49.0,Married,Master's,91200.0,13,5.0,26.0,7,No,11,No,No,2010-07-28
+1585,Operations,Operations Manager,Male,20.0,Married,Master's,84400.0,2,1.0,34.0,6,No,13,No,No,2021-12-11
+2413,Human Resources,Recruiter,Female,37.0,Married,Master's,54800.0,1,2.0,29.0,22,Yes,11,No,Yes,2022-05-13
+2392,Finance,Finance Manager,Male,20.0,Married,PhD,114700.0,0,4.0,47.0,4,No,7,Yes,No,2023-04-18
+2401,Sales,Account Manager,Female,40.0,,Bachelor's,83900.0,0,2.0,39.0,10,No,17,No,No,2023-10-23
+1580,Operations,Operations Executive,Male,34.0,Married,High School,44800.0,4,4.0,29.0,1,Yes,16,No,No,2019-12-26
+1293,ENGINEERING,Engineering Manager,Male,42.0,Divorced,Master's,140700.0,1,5.0,21.0,4,No,12,No,No,10/12/2022
+1756,Sales,Account Manager,Female,35.0,Single,Bachelor's,,0,4.0,60.0,1,No,5,No,No,2023-03-10
+1895,IT,System Administrator,Female,20.0,Divorced,High School,58000.0,0,2.0,37.0,23,Yes,8,Yes,No,2023-03-23
+1190,IT,IT Manager,Male,30.0,Married,Bachelor's,108500.0,7,4.0,84.0,10,No,11,Yes,No,2016-10-24
+1912,Operations,Operations Executive,Female,20.0,Divorced,Bachelor's,48700.0,1,3.0,48.0,2,Yes,14,No,No,2022-04-04
+2025,IT,IT Support,Male,35.0,Married,Bachelor's,69600.0,3,5.0,40.0,24,No,6,Yes,No,2020-12-06
+1664,Finance,Accountant,Male,31.0,Single,PhD,101100.0,12,2.0,31.0,1,No,8,No,No,2011-08-10
+2332,Finance,Finance Manager,Female,48.0,Married,Master's,106500.0,3,5.0,52.0,11,No,14,No,No,2020-12-10
+1544,Marketing,Marketing Executive,Male,24.0,Single,Bachelor's,57700.0,6,3.0,23.0,27,Yes,13,No,Yes,2017-03-17
+2386,Customer Support,Support Executive,male,45.0,Married,PhD,54800.0,1,2.0,24.0,1,No,13,No,Yes,2022-09-04
+1596,Sales,Account Manager,Female,43.0,Married,Master's,92500.0,4,3.0,53.0,2,No,8,No,No,2019-04-01
+1449,Sales,Account Manager,Female,45.0,Divorced,Bachelor's,80900.0,1,2.0,34.0,30,No,8,No,Yes,2022-10-02
+2024,Operations,Operations Executive,Female,23.0,Single,PhD,,0,2.0,49.0,9,Yes,3,No,Yes,2023-07-20
+1076,SALES,Sales Executive,Male,20.0,Single,Bachelor's,60000.0,0,4.0,19.0,8,No,14,No,No,22/09/2023
+1563,IT,IT Support,Female,26.0,Married,Bachelor's,78400.0,4,5.0,36.0,8,Yes,11,No,No,27/05/2019
+1567,Engineering,Senior Engineer,Male,34.0,Married,Bachelor's,128000.0,0,4.0,32.0,6,Yes,12,No,No,2023-03-16
+1921,Human Resources,HR Executive,Male,49.0,Married,Bachelor's,56400.0,7,3.0,44.0,1,No,14,No,No,2016-05-02
+2414,Marketing,Marketing Manager,Male,31.0,Divorced,Master's,93100.0,0,2.0,9.0,1,Yes,12,No,Y,2023-12-17
+1202,Marketing,Content Strategist,Female,30.0,Divorced,Bachelor's,58400.0,0,4.0,38.0,21,No,7,No,No,2023-11-18
+2496,Marketing,Marketing Executive,Male,36.0,Divorced,Master's,75500.0,7,5.0,46.0,1,Yes,4,No,No,2016-05-24
+1635,Engineering,Engineering Manager,Male,52.0,Single,PhD,145100.0,2,4.0,27.0,7,No,11,No,No,2021-10-15
+1225,Marketing,Marketing Manager,Male,32.0,Divorced,Master's,92300.0,5,3.0,58.0,7,No,20,No,No,2018-06-27
+1129,Finance,Finance Manager,Male,24.0,Married,Master's,99300.0,0,3.0,50.0,10,No,12,Yes,Yes,2023-11-23
+1117,Human Resources,Recruiter,Male,26.0,Divorced,Master's,68800.0,8,5.0,38.0,1,No,22,No,N,2015-09-09
+1382,Finance,Finance Manager,Female,35.0,Single,PhD,142500.0,7,3.0,24.0,1,No,16,No,No,2016-05-05
+1456,Marketing,Marketing Executive,Male,41.0,Single,PhD,75200.0,3,3.0,52.0,8,No,10,No,No,2020-06-25
+1219,Sales,Sales Manager,Female,36.0,Married,Master's,91900.0,1,4.0,60.0,10,No,9,No,No,2022-09-29
+2222,Customer Support,Support Executive,Female,36.0,Single,Master's,60400.0,11,3.0,64.0,7,No,11,No,No,2012-04-27
+1107,Engineering,QA Engineer,Male,20.0,Divorced,Master's,96700.0,2,4.0,24.0,11,No,5,Yes,No,2021-06-03
+1637,CUSTOMER SUPPORT,Support Team Lead,Male,37.0,Divorced,Bachelor's,67600.0,8,5.0,60.0,12,No,5,No,No,2015-04-23
+2495,Finance,Accountant,Female,35.0,Divorced,PhD,102500.0,17,4.0,35.0,1,No,15,No,No,2006-07-20
+1707,IT,IT Support,Male,35.0,Married,Bachelor's,81700.0,7,3.0,35.0,19,Yes,9,No,No,2016-03-10
+1958,IT,System Administrator,Male,48.0,Divorced,Bachelor's,67800.0,1,3.0,35.0,1,No,8,No,No,2022-05-31
+2452,Finance,Accountant,Male,31.0,Married,Bachelor's,74700.0,4,3.0,56.0,1,No,10,No,No,2019-10-23
+1053,IT,IT Manager,Female,36.0,Divorced,High School,90800.0,2,5.0,49.0,4,No,14,No,Yes,2021-06-16
+2310,Operations,Operations Manager,Female,58.0,Married,High School,67000.0,0,4.0,35.0,7,No,13,No,Yes,2023-12-21
+2350,FINANCE,Finance Manager,Female,34.0,Divorced,Master's,104700.0,0,5.0,55.0,6,No,14,No,No,2023-07-28
+2432,FINANCE,Finance Manager,Female,36.0,Divorced,,89600.0,0,3.0,48.0,11,No,7,No,No,2023-12-27
+1300,Operations,Operations Executive,Female,35.0,Single,Bachelor's,64300.0,10,3.0,34.0,4,No,14,No,No,2013-06-27
+1442,Operations,Operations Executive,Male,29.0,Married,Master's,64200.0,6,4.0,23.0,2,Yes,5,No,No,2017-09-06
+1025,Sales,Account Manager,Female,35.0,Single,High School,67300.0,5,3.0,32.0,5,No,14,No,No,2018-10-14
+2279,Marketing,Marketing Executive,Female,52.0,Divorced,Bachelor's,66600.0,10,1.0,43.0,3,Yes,8,No,Yes,2013-11-08
+2109,Operations,Operations Manager,Male,46.0,Single,Bachelor's,74500.0,5,4.0,73.0,1,No,10,No,No,2018-09-06
+1903,Finance,Finance Manager,Male,42.0,Divorced,Master's,96600.0,0,4.0,22.0,1,Yes,12,No,No,2023-05-24
+1926,ENGINEERING,Senior Engineer,Female,45.0,Single,Master's,139900.0,5,4.0,55.0,1,Yes,10,Yes,No,26/09/2018
+1562,ENGINEERING,Software Engineer,Male,32.0,Divorced,Master's,115000.0,5,2.0,65.0,1,No,13,No,No,2018-06-11
+2322,Human Resources,HR Manager,Female,36.0,Divorced,Bachelor's,74000.0,2,4.0,20.0,6,No,7,No,No,2021-10-14
+2343,Human Resources,HR Manager,Male,24.0,Divorced,High School,65500.0,2,4.0,13.0,6,No,7,Yes,No,2021-11-09
+2309,Operations,Operations Manager,Male,34.0,Married,Master's,93200.0,3,3.0,27.0,4,No,15,No,No,2020-09-09
+1460,Operations,Operations Executive,Male,31.0,Divorced,Bachelor's,55200.0,2,3.0,29.0,1,No,10,No,No,2021-06-05
+1565,Human Resources,Recruiter,Female,22.0,Married,Bachelor's,48500.0,0,2.0,29.0,4,Yes,16,No,No,2023-11-07
+2358,IT,IT Support,Female,29.0,Married,Master's,77500.0,0,4.0,69.0,8,No,12,No,No,2023-10-18
+1261,Human Resources,Recruiter,Male,45.0,Single,Bachelor's,45900.0,1,3.0,50.0,1,No,14,No,Yes,2022-10-23
+1301,Operations,Operations Executive,Female,42.0,Married,Bachelor's,54300.0,3,4.0,38.0,1,Yes,16,No,No,2020-10-27
+2195,Customer Support,Support Executive,Female,34.0,Married,PhD,53600.0,5,3.0,44.0,4,No,12,Yes,N,23/08/2018
+1991,SALES,Sales Manager,Female,32.0,Divorced,Master's,87400.0,0,4.0,56.0,2,No,15,Yes,Yes,2023-09-27
+1205,Engineering, QA Engineer  ,Female,44.0,Married,PhD,116000.0,1,5.0,24.0,28,No,13,No,No,2022-06-27
+1998,Customer Support,Support Team Lead,Male,32.0,Divorced,Master's,63300.0,1,4.0,45.0,1,No,15,No,No,2022-04-17
+1216,Sales,Sales Executive,Female,20.0,Single,Bachelor's,57900.0,2,3.0,50.0,10,No,14,No,No,2021-08-06
+1822,Customer Support,Support Executive,Female,46.0,Single,Bachelor's,43300.0,0,5.0,31.0,3,No,11,No,No,2023-09-08
+2134,IT,IT Manager,Male,33.0,Married,Bachelor's,96200.0,0,3.0,43.0,14,Yes,18,No,No,2023-07-23
+1557,Human Resources,HR Manager,Male,40.0,Divorced,Bachelor's,72200.0,1,3.0,19.0,3,No,13,No,No,2022-05-18
+2308,Customer Support,Support Executive,Female,47.0,Divorced,Bachelor's,45000.0,4,4.0,46.0,1,Yes,13,Yes,No,2019-04-18
+2145,Sales,Sales Manager,female,30.0,Divorced,PhD,103900.0,10,4.0,39.0,23,Yes,3,No,Yes,2013-06-14
+2480,Customer Support,Support Team Lead,Male,27.0,Married,PhD,77000.0,3,3.0,32.0,1,No,9,No,No,2020-12-24
+2468,Finance,Finance Manager,Female,41.0,Married,Bachelor's,88100.0,5,4.0,44.0,3,No,14,Yes,No,2018-05-24
+2131,Engineering,Engineering Manager,Female,36.0,Married,Master's,143500.0,6,4.0,35.0,2,No,10,No,No,2017-05-01
+2016,IT,System Administrator,Female,31.0,Divorced,Master's,72000.0,1,5.0,20.0,1,No,15,Yes,Yes,2022-07-20
+1606,Customer Support,Support Executive,Female,41.0,Single,,44400.0,0,2.0,28.0,4,No,13,No,No,2023-11-01
+1125,Marketing,Content Strategist,Male,32.0,Single,PhD,77900.0,3,4.0,62.0,4,Yes,7,Yes,No,2020-11-21
+2291,IT,System Administrator,Male,35.0,Divorced,Bachelor's,67700.0,0,4.0,23.0,11,No,11,No,No,2023-07-17
+1568,Marketing,Marketing Manager,Female,20.0,Divorced,PhD,118700.0,2,5.0,45.0,21,Yes,10,No,No,2021-10-28
+2395,Human Resources,HR Manager,Male,27.0,Married,Bachelor's,73600.0,3,4.0,,1,Yes,15,No,Yes,2020-10-30
+1504,Operations,Operations Executive,Male,44.0,Single,Bachelor's,53400.0,5,3.0,46.0,7,No,7,No,No,28/03/2018
+2230,Finance,Finance Manager,Male,20.0,Single,Master's,108100.0,0,3.0,33.0,5,No,14,No,No,2023-04-03
+1323,Human Resources,HR Executive,Male,43.0,Single,Bachelor's,54600.0,11,4.0,65.0,1,No,14,No,No,2012-07-16
+2088,Engineering,QA Engineer,Male,40.0,Married,Bachelor's,79300.0,1,2.0,67.0,1,No,8,No,Yes,2022-07-03
+1104,Customer Support,Support Executive,Female,35.0,Married,High School,34500.0,0,3.0,47.0,14,No,18,No,No,20/06/2023
+1928,Finance,Accountant,Male,36.0,Single,High School,65900.0,2,3.0,22.0,3,No,11,No,No,2021-07-06
+1447,Marketing,Content Strategist,Male,39.0,Single,Bachelor's,59900.0,1,3.0,45.0,9,No,8,No,No,2022-05-11
+1393,Marketing,Content Strategist,Male,41.0,Married,Master's,63600.0,0,4.0,48.0,1,Yes,15,No,No,2023-05-15
+1297,Customer Support,Support Executive,Male,38.0,Divorced,High School,38800.0,3,3.0,53.0,8,No,9,No,No,27/06/2020
+1722,Marketing,Content Strategist,Female,31.0,Married,Master's,76000.0,12,2.0,59.0,3,No,9,No,No,2011-10-29
+1312,Sales,Sales Manager,Female,31.0,Married,Bachelor's,78500.0,2,3.0,51.0,7,No,17,No,No,2021-08-16
+2021,Customer Support,Support Team Lead,Male,34.0,Divorced,High School,56600.0,1,1.0,49.0,5,No,15,No,N,2022-06-09
+1489,Human Resources,HR Executive,Female,39.0,Single,Bachelor's,52700.0,7,5.0,55.0,9,Yes,12,Yes,Yes,2016-06-18
+1326,Finance,Financial Analyst,Male,59.0,Single,Master's,74200.0,2,2.0,62.0,7,No,10,No,No,2021-10-06
+1048,Human Resources,HR Manager,Male,20.0,Married,Master's,85600.0,2,4.0,45.0,7,Yes,18,No,No,2021-05-13
+1164,IT,System Administrator,Male,37.0,Single,Master's,,5,3.0,46.0,14,Yes,14,No,No,2018-12-16
+1528,IT,IT Manager,Female,27.0,Married,PhD,148800.0,9,3.0,47.0,1,No,8,No,No,2014-05-12
+1298,Operations,Operations Executive,Female,35.0,Single,Bachelor's,57700.0,3,4.0,30.0,12,Yes,11,Yes,No,2020-07-08
+2313,Marketing,Marketing Manager,Male,20.0,Married,Master's,94100.0,2,3.0,26.0,15,Yes,11,No,No,2021-07-24
+2176,Operations,Operations Manager,Male,26.0,Divorced,Bachelor's,68200.0,1,3.0,26.0,4,No,9,No,No,06/10/2022
+1680,HUMAN RESOURCES, Recruiter  ,Female,35.0,Divorced,Bachelor's,,1,3.0,38.0,8,No,13,No,No,2022-05-23
+1616,Sales,Sales Manager,Male,29.0,Married,PhD,95900.0,3,3.0,57.0,2,No,21,No,No,2020-07-02
+1019,Customer Support,Support Executive,Male,35.0,Divorced,Bachelor's,40900.0,2,3.0,36.0,1,Yes,13,No,No,2021-05-04
+1793,Marketing,Marketing Executive,male,36.0,Single,Bachelor's,65300.0,2,3.0,72.0,6,No,16,No,No,2021-11-25
+1973,IT,System Administrator,Female,36.0,Single,Master's,83300.0,3,3.0,51.0,3,No,12,No,No,2020-09-05
+2378,Customer Support,Support Executive,Female,20.0,Married,Master's,50100.0,0,3.0,47.0,2,No,4,No,No,2023-04-26
+2336,Human Resources,HR Executive,Male,20.0,Divorced,Master's,57100.0,2,2.0,29.0,2,No,13,No,No,2021-06-12
+2207,Finance,Finance Manager,female,20.0,Single,Master's,111200.0,1,3.0,49.0,16,No,10,No,No,2022-04-27
+1665,Sales,Sales Executive,Male,27.0,Divorced,Bachelor's,59300.0,4,3.0,24.0,4,No,9,No,No,2019-09-09
+1350,Human Resources, HR Executive  ,male,31.0,Married,Master's,60400.0,0,,12.0,18,No,10,No,No,2023-11-07
+1127,Marketing,Content Strategist,Female,25.0,Single,Bachelor's,54000.0,0,4.0,66.0,10,Yes,11,Yes,No,2023-09-19
+1774,Sales,Sales Executive,Male,38.0,Divorced,Master's,71200.0,9,3.0,4.0,27,No,9,Yes,No,2014-12-03
+1418,Finance,Accountant,Female,23.0,Single,Master's,73300.0,1,4.0,34.0,1,No,13,No,No,2022-03-11
+1850,IT,IT Manager,Female,33.0,Divorced,Master's,113400.0,6,3.0,38.0,19,No,11,No,No,2017-08-28
+1018,Customer Support,Support Executive,Female,41.0,Single,Bachelor's,39700.0,0,3.0,59.0,15,No,10,No,Yes,2023-12-16
+1658,Engineering,Senior Engineer,Male,38.0,Single,,116700.0,5,4.0,49.0,7,Yes,15,No,No,2018-12-12
+1045,Operations,Operations Executive,Male,35.0,Divorced,Master's,64200.0,3,5.0,30.0,10,Yes,12,No,Yes,2020-07-14
+2208,Customer Support,Support Executive,male,41.0,Married,PhD,56300.0,4,3.0,43.0,5,No,8,No,No,2019-10-15
+1589,Finance,Finance Manager,Male,25.0,Single,Bachelor's,88900.0,2,1.0,28.0,8,Yes,14,No,No,2021-09-12
+2095,Sales,Sales Manager,Female,46.0,Divorced,Master's,89200.0,1,4.0,58.0,1,No,11,No,No,2022-03-24
+1480,Engineering,Software Engineer,Female,28.0,Married,Bachelor's,85300.0,2,2.0,37.0,4,No,9,No,Yes,2021-09-12
+1317,Finance,Financial Analyst,Male,38.0,Single,High School,63600.0,5,5.0,36.0,1,No,5,Yes,No,2018-07-21
+2320,Human Resources,HR Executive,Male,35.0,Single,Master's,60300.0,5,3.0,17.0,1,No,14,No,No,15/10/2018
+2435,IT,IT Support,Female,38.0,Married,PhD,97300.0,3,2.0,42.0,1,No,12,No,Yes,2020-10-03
+2475,Engineering,Senior Engineer,Female,32.0,Married,Bachelor's,130400.0,0,3.0,19.0,7,No,19,No,Yes,2023-12-03
+1864,Human Resources,Recruiter,Female,55.0,Married,Master's,54200.0,3,4.0,64.0,4,No,9,No,N,2020-07-28
+1530,Human Resources,HR Executive,Female,38.0,Single,PhD,72300.0,4,4.0,37.0,3,No,7,Yes,No,2019-05-15
+1875,Human Resources,Recruiter,male,32.0,Divorced,Master's,64100.0,1,4.0,31.0,3,No,15,No,No,16/12/2022
+2012,Operations,Operations Executive,Female,40.0,Married,Bachelor's,53200.0,0,4.0,53.0,4,No,10,No,N,2023-06-11
+1055,Customer Support,Support Team Lead,Female,29.0,Divorced,Master's,70300.0,0,5.0,52.0,7,No,13,No,No,2023-12-19
+1941,Customer Support,Support Executive,Female,23.0,Single,Master's,56200.0,5,3.0,58.0,1,No,12,No,No,2018-12-04
+1424,Engineering,QA Engineer,Female,24.0,Single,Bachelor's,98500.0,6,4.0,33.0,18,No,7,No,No,2017-04-13
+2146,Finance,Accountant,Male,33.0,Married,Master's,79800.0,12,4.0,59.0,1,Yes,20,Yes,No,2011-03-23
+1582,Operations, Operations Executive  ,Female,43.0,Single,Master's,67900.0,11,3.0,30.0,4,No,12,No,No,2012-04-25
+2028,Human Resources,Recruiter,Male,31.0,Married,Master's,67900.0,8,4.0,51.0,14,No,12,Yes,No,2015-08-21
+1252,Human Resources,HR Executive,Female,34.0,Divorced,Master's,61400.0,1,3.0,41.0,1,No,7,No,No,2022-06-11
+1581,Human Resources,Recruiter,Male,20.0,Married,Master's,59700.0,2,3.0,62.0,2,No,7,No,No,03/09/2021
+2164,IT,System Administrator,Male,46.0,Married,Master's,87900.0,3,1.0,55.0,1,No,2,No,Yes,2020-07-17
+1659,Finance,Financial Analyst,Male,24.0,Married,Master's,74600.0,1,4.0,39.0,7,Yes,4,Yes,Yes,2022-12-27
+2472,Finance,Accountant,Male,24.0,Single,Bachelor's,71200.0,6,3.0,23.0,1,No,8,No,No,2017-10-04
+1856,Engineering,Senior Engineer,Male,29.0,Married,Bachelor's,142200.0,11,3.0,22.0,34,No,10,No,No,2012-05-08
+1910,Operations,Operations Manager,Male,32.0,Single,Bachelor's,80300.0,14,5.0,31.0,14,No,12,No,No,2009-06-10
+1662,Finance,Finance Manager,Male,54.0,Divorced,Bachelor's,94100.0,2,5.0,39.0,1,Yes,12,No,No,2021-04-18
+1406,Human Resources,Recruiter,female,29.0,Single,High School,57100.0,11,,40.0,30,Yes,14,No,Yes,2012-03-24
+2319,Engineering,Software Engineer,Female,22.0,Married,Bachelor's,92800.0,4,1.0,57.0,8,No,10,No,No,2019-06-25
+1838,Sales,Account Manager,Male,34.0,Married,Bachelor's,72600.0,1,3.0,40.0,19,Yes,18,Yes,No,2022-08-15
+2293,IT,IT Manager,Male,31.0,Married,PhD,136100.0,9,4.0,20.0,8,No,14,No,No,2014-04-13
+2165,Human Resources,HR Manager,Female,28.0,Married,Bachelor's,68800.0,0,1.0,45.0,8,Yes,8,No,Yes,2023-12-10
+2180,SALES,Sales Manager,Female,43.0,Single,Master's,106600.0,9,,18.0,4,Yes,10,Yes,No,13/11/2014
+1033,Marketing,Marketing Executive,Female,43.0,Single,Master's,72700.0,5,3.0,46.0,1,Yes,6,No,No,2018-10-18
+1687,Human Resources,Recruiter,Male,43.0,Divorced,Bachelor's,54600.0,0,4.0,36.0,9,Yes,6,Yes,No,2023-09-01
+2257,Operations,Operations Executive,Female,60.0,Divorced,Master's,76200.0,12,3.0,24.0,4,No,9,No,No,2011-09-21
+1560,Finance,Financial Analyst,Male,39.0,Married,Master's,76400.0,2,3.0,46.0,1,No,11,No,No,2021-07-19
+2106,Sales,Sales Executive,Male,25.0,Divorced,Bachelor's,59700.0,7,3.0,54.0,21,Yes,5,No,No,2016-04-16
+1607,Marketing,Marketing Executive,Female,42.0,Single,Bachelor's,52200.0,0,3.0,50.0,9,No,6,Yes,No,2023-11-11
+2114,Operations,Operations Executive,Male,42.0,Divorced,High School,46400.0,5,3.0,40.0,17,Yes,19,No,Yes,2018-04-06
+1781,Marketing,Marketing Executive,Female,30.0,Divorced,Bachelor's,61900.0,3,3.0,45.0,4,No,11,Yes,No,2020-12-31
+1605,Human Resources,HR Manager,Female,32.0,Single,Master's,84600.0,6,2.0,40.0,8,No,4,No,No,2017-06-11
+1309,Operations,Operations Executive,Male,36.0,Married,Master's,65000.0,1,4.0,34.0,13,No,19,No,No,04/07/2022
+1801,Engineering,Software Engineer,Male,48.0,Single,Master's,106000.0,1,4.0,49.0,1,No,11,Yes,No,2022-09-20
+1500,Human Resources,Recruiter,Male,30.0,Divorced,PhD,63300.0,2,4.0,50.0,21,No,12,No,No,2021-03-12
+2302,Engineering,QA Engineer,Female,50.0,Divorced,High School,83500.0,4,2.0,49.0,1,No,11,No,No,2019-08-21
+1809,HUMAN RESOURCES,HR Executive,Male,41.0,Single,PhD,74600.0,4,4.0,22.0,1,No,13,Yes,No,2019-05-28
+1855,IT,IT Support,Female,29.0,Married,Master's,84400.0,1,1.0,35.0,3,No,10,No,Yes,2022-08-01
+1407,Human Resources,Recruiter,Female,29.0,Married,PhD,70900.0,3,3.0,47.0,2,No,17,Yes,No,2020-11-02
+1026,Sales,Account Manager,Male,23.0,Divorced,Bachelor's,79900.0,0,4.0,49.0,1,No,11,No,No,2023-03-16
+1208,Human Resources,HR Executive,Female,35.0,Divorced,PhD,80600.0,13,,23.0,8,Yes,14,No,No,2010-11-06
+2364,Sales, Account Manager  ,male,30.0,Married,Bachelor's,86000.0,3,3.0,65.0,1,No,12,No,No,2020-05-12
+1503,Sales,Sales Manager,Male,25.0,Married,Bachelor's,79400.0,7,4.0,62.0,5,No,16,Yes,No,2016-06-15
+1608,IT,IT Support,Male,28.0,Single,,68500.0,0,1.0,49.0,1,No,23,No,No,2023-08-09
+2171,Marketing,Marketing Executive,Male,35.0,Divorced,High School,59800.0,5,4.0,54.0,1,No,8,No,No,2019-01-01
+1610,Engineering,Software Engineer,Female,29.0,Single,Master's,91400.0,0,4.0,39.0,6,No,13,No,No,2023-12-30
+1666,IT,System Administrator,Female,150.0,Married,Bachelor's,63500.0,0,4.0,17.0,2,No,12,Yes,No,2023-04-25
+1551,Finance,Accountant,Female,43.0,Married,Master's,80600.0,2,3.0,41.0,8,Yes,19,No,No,12/04/2021
+1394,Human Resources,Recruiter,Female,28.0,Divorced,Master's,58300.0,3,4.0,54.0,29,No,6,No,No,2020-08-07
+1579,Marketing,Marketing Executive,Female,33.0,Divorced,Master's,60600.0,0,4.0,51.0,6,No,10,No,No,2023-08-08
+1364,Customer Support,Support Team Lead,male,32.0,Married,Bachelor's,66600.0,6,5.0,33.0,3,Yes,9,No,No,2017-09-16
+1495,Operations,Operations Manager,Female,41.0,Married,Master's,104500.0,9,5.0,49.0,2,No,11,No,No,2014-07-22
+2354,Engineering,QA Engineer,Male,32.0,Married,Bachelor's,,2,4.0,39.0,9,No,8,No,No,2021-12-14
+1369,Finance,Accountant,Female,27.0,Married,Bachelor's,79300.0,8,2.0,35.0,1,No,12,No,No,2015-09-05
+1416,IT,IT Support,Male,58.0,Divorced,Bachelor's,71900.0,7,3.0,51.0,23,No,10,No,No,2016-07-17
+2002,Engineering,QA Engineer,Female,20.0,Single,Bachelor's,94200.0,1,3.0,30.0,5,No,10,No,Yes,2022-03-12
+1554,Customer Support,Support Executive,Male,28.0,,Bachelor's,41500.0,6,3.0,46.0,1,No,20,No,No,2017-11-05
+2220,Sales,Sales Manager,Male,49.0,Married,Master's,96500.0,1,3.0,49.0,5,No,13,Yes,No,11/06/2022
+2342,Sales,Sales Manager,Male,50.0,Divorced,Bachelor's,85400.0,1,3.0,66.0,4,Yes,12,No,No,05/11/2022
+2367,IT,IT Manager,Male,37.0,Divorced,PhD,129300.0,4,4.0,36.0,1,Yes,9,Yes,No,2019-05-17
+2482,IT,IT Support,Male,36.0,Married,PhD,88300.0,7,5.0,46.0,10,No,10,No,No,2016-09-20
+1428,Engineering,Senior Engineer,Female,26.0,Single,High School,109000.0,3,4.0,56.0,4,Yes,15,No,No,2020-06-08
+2471,Sales,Sales Manager,Male,33.0,Married,PhD,114500.0,11,3.0,60.0,5,Yes,1,No,No,2012-09-30
+2400,ENGINEERING,Software Engineer,Female,38.0,Married,Bachelor's,84900.0,2,2.0,9.0,1,Yes,10,No,Yes,2021-12-20
+1370,Sales,Sales Executive,Female,40.0,Divorced,PhD,66400.0,1,4.0,61.0,9,No,12,No,No,2022-11-24
+1284,Finance,Finance Manager,female,24.0,Divorced,Bachelor's,82300.0,0,3.0,32.0,5,Yes,15,No,No,2023-04-23
+2113,Engineering,QA Engineer,Female,27.0,Married,Master's,99400.0,1,5.0,71.0,6,Yes,14,No,Yes,2022-03-24
+1646,Sales,Sales Manager,Female,36.0,Married,Bachelor's,75200.0,0,3.0,28.0,1,No,12,No,No,2023-09-28
+1911,Customer Support,Support Executive,Female,60.0,Single,High School,37400.0,4,3.0,60.0,1,Yes,15,No,Yes,2019-03-25
+1902,IT,System Administrator,Male,33.0,Divorced,Bachelor's,67800.0,3,3.0,55.0,36,Yes,17,No,Yes,2020-08-17
+1797,IT,IT Manager,Female,24.0,Single,Bachelor's,94500.0,6,,53.0,1,No,5,Yes,No,2017-11-11
+2191,Human Resources,HR Manager,Male,30.0,Married,Bachelor's,80000.0,8,3.0,38.0,1,No,18,Yes,No,2015-06-02
+2005,Engineering,Senior Engineer,Female,38.0,Single,Bachelor's,124900.0,3,3.0,51.0,29,No,9,No,No,2020-08-21
+1924,CUSTOMER SUPPORT,Support Team Lead,Female,32.0,Married,Master's,71500.0,9,3.0,45.0,1,No,12,No,No,2014-10-17
+1295,Finance,Accountant,Male,36.0,Single,PhD,81500.0,3,3.0,57.0,15,No,10,No,No,2020-12-06
+1959,Finance,Finance Manager,Male,41.0,Single,Bachelor's,84600.0,1,3.0,29.0,5,No,14,No,No,2022-11-06
+1750,IT,IT Support,Male,33.0,Single,High School,61100.0,1,5.0,39.0,6,No,9,No,Yes,2022-04-10
+1211,Sales,Sales Executive,Female,45.0,Single,Bachelor's,64800.0,8,3.0,21.0,12,No,17,No,No,2015-06-02
+2415,Sales,Sales Manager,Male,48.0,Single,Bachelor's,85600.0,7,3.0,23.0,7,No,9,Yes,Yes,2016-08-12
+1925,Engineering,Senior Engineer,Male,43.0,Divorced,Bachelor's,133100.0,2,,18.0,1,Yes,20,No,No,2021-11-10
+2151,Finance,Accountant,Female,49.0,Married,Bachelor's,72800.0,3,5.0,30.0,23,Yes,14,No,No,2020-03-27
+1343,Customer Support,Support Executive,Male,24.0,Divorced,Bachelor's,45100.0,1,3.0,53.0,4,No,14,No,No,2022-03-16
+1265,Marketing,Marketing Executive,Male,25.0,Married,Bachelor's,61100.0,2,3.0,10.0,22,No,10,No,No,2021-04-15
+1654,Engineering,Software Engineer,Male,35.0,Married,Bachelor's,88000.0,0,4.0,24.0,1,No,10,Yes,No,2023-10-14
+1038,CUSTOMER SUPPORT,Support Team Lead,Female,35.0,Divorced,Master's,73700.0,5,3.0,43.0,36,Yes,8,No,Yes,2018-08-13
+1331,OPERATIONS,Operations Executive,Male,21.0,Divorced,Bachelor's,53000.0,1,3.0,51.0,1,Yes,16,No,No,2022-06-26
+2426,Engineering,Software Engineer,Female,34.0,Married,Bachelor's,80600.0,1,4.0,54.0,4,No,15,Yes,No,2022-09-26
+2197,Customer Support,Support Executive,Female,39.0,Married,Master's,46600.0,1,3.0,36.0,6,No,14,Yes,No,2022-08-18
+1488,Finance, Finance Manager  ,female,33.0,Married,Master's,102500.0,3,3.0,,3,No,10,Yes,No,2020-04-09
+2340,Finance,Finance Manager,Male,39.0,Married,Master's,115600.0,4,5.0,42.0,2,No,18,Yes,No,2019-05-11
+1156,Customer Support,Support Team Lead,Female,49.0,Single,Bachelor's,58100.0,3,2.0,32.0,1,No,9,No,No,2020-07-15
+1270,Marketing,Marketing Manager,Female,41.0,Divorced,PhD,112300.0,3,3.0,11.0,6,No,12,No,No,2020-06-05
+2440,Human Resources,HR Executive,Male,49.0,Married,Master's,58500.0,3,4.0,59.0,11,No,6,No,No,2020-05-02
+1961,Finance,Financial Analyst,Female,38.0,Divorced,High School,57900.0,3,2.0,46.0,14,No,10,Yes,No,2020-05-29
+2216,Engineering,QA Engineer,Male,20.0,Divorced,Master's,99500.0,2,3.0,47.0,9,No,12,No,No,2021-12-17
+2389,IT,IT Support,Female,20.0,Divorced,High School,65400.0,2,3.0,42.0,17,No,10,No,No,2021-11-28
+1015,Customer Support,Support Team Lead,male,33.0,Single,Bachelor's,63700.0,2,4.0,45.0,2,Yes,11,Yes,No,2021-04-04
+1498,Finance,Accountant,Male,40.0,Married,Master's,79800.0,0,4.0,56.0,7,No,20,No,No,2023-03-15
+2237,Marketing,Content Strategist,Male,28.0,Married,Bachelor's,59900.0,1,4.0,34.0,1,No,10,No,Yes,2022-09-30
+2202,Human Resources,HR Manager,Female,29.0,Married,Master's,94200.0,11,4.0,53.0,4,No,10,No,No,2012-12-09
+1366,Sales,Account Manager,male,42.0,Single,Master's,92800.0,0,2.0,47.0,1,No,14,No,No,2023-05-04
+2324,Customer Support,Support Executive,Male,42.0,Married,Master's,55400.0,10,3.0,42.0,3,Yes,4,No,Yes,2013-05-03
+2487,Marketing,Marketing Manager,Male,33.0,Married,Bachelor's,88200.0,7,2.0,39.0,2,No,13,No,No,28/03/2016
+2462,Operations,Operations Executive,Male,42.0,Married,Master's,75800.0,12,3.0,11.0,2,No,14,No,No,2011-08-14
+1452,Human Resources,Recruiter,Female,40.0,Divorced,Bachelor's,47500.0,0,1.0,29.0,2,No,8,No,No,2023-07-24
+1643,IT,System Administrator,Male,50.0,Married,Bachelor's,79100.0,10,3.0,68.0,25,No,20,No,Yes,2013-05-21
+1520,Engineering,Engineering Manager,Male,41.0,Single,Bachelor's,0.0,9,4.0,58.0,36,No,12,No,No,2014-07-24
+2156,Customer Support,Support Executive,Male,41.0,Married,High School,38300.0,1,3.0,13.0,2,No,5,No,No,2022-07-29
+1598,IT,IT Support,Female,37.0,,PhD,92500.0,0,2.0,35.0,21,No,3,No,Yes,2023-08-06
+2421,Engineering,Software Engineer,Male,26.0,Single,PhD,121500.0,2,5.0,24.0,27,No,3,No,No,2021-10-12
+2405,Engineering,Senior Engineer,Female,43.0,Married,Bachelor's,112400.0,0,3.0,53.0,2,No,7,No,No,2023-05-18
+1538,Engineering,QA Engineer,Female,30.0,Married,Bachelor's,91900.0,2,2.0,44.0,2,No,10,No,No,2021-05-28
+1100,Finance, Finance Manager  ,Female,32.0,Married,Bachelor's,92400.0,4,3.0,22.0,5,No,13,No,No,2019-10-24
+1113,Customer Support,Support Executive,Male,38.0,Divorced,High School,37200.0,1,4.0,68.0,1,Yes,12,No,Yes,2022-06-30
+1005,Human Resources, Recruiter  ,Male,30.0,Married,Master's,56900.0,4,5.0,41.0,1,No,9,Yes,No,2019-09-08
+2430,Human Resources,HR Manager,Female,42.0,Divorced,Master's,91600.0,5,3.0,37.0,1,No,14,Yes,Yes,2018-04-28
+1042,Customer Support,Support Team Lead,Male,,Married,Master's,67900.0,2,3.0,42.0,1,No,8,No,No,2021-04-17
+1052,IT,IT Manager,Male,56.0,Married,Bachelor's,111500.0,9,3.0,36.0,7,No,12,No,No,02/06/2014
+1363,Marketing,Marketing Executive,Male,40.0,Married,High School,60100.0,4,5.0,0.0,1,No,19,Yes,No,2019-10-26
+2250,Finance,Financial Analyst,Male,45.0,Single,Bachelor's,62400.0,2,3.0,58.0,1,No,2,No,No,2021-12-21
+1004,Human Resources,HR Executive,Male,28.0,Married,Bachelor's,51000.0,2,3.0,30.0,5,No,14,No,No,2021-06-22
+1995,Engineering,QA Engineer,Male,36.0,Married,Master's,5.0,5,4.0,39.0,39,No,5,No,No,2018-11-13
+1153,Sales,Sales Executive,Male,30.0,Single,Master's,68200.0,2,3.0,61.0,2,No,10,No,No,2021-04-13
+2102,Finance,Financial Analyst,Female,37.0,Married,Bachelor's,70200.0,3,3.0,10.0,1,No,9,No,Yes,2020-12-01
+2385,Marketing,Content Strategist,Male,29.0,Married,Master's,63400.0,3,4.0,19.0,28,No,8,No,No,2020-07-11
+1147,Marketing,Marketing Manager,Male,25.0,Single,Bachelor's,98200.0,7,3.0,55.0,23,No,16,No,Y,2016-05-01
+1752,Engineering,QA Engineer,Male,32.0,Divorced,Bachelor's,112500.0,14,3.0,44.0,9,No,16,No,No,2009-06-11
+1091,Sales,Account Manager,Male,20.0,Single,Master's,87700.0,1,5.0,43.0,1,No,7,No,No,2022-06-12
+1873,IT,IT Manager,Male,,Married,PhD,135300.0,0,5.0,15.0,1,Yes,6,Yes,No,2023-07-19
+1195,OPERATIONS,Operations Executive,Male,29.0,Divorced,Bachelor's,61300.0,6,5.0,45.0,1,Yes,13,No,Yes,2017-09-02
+2398,Sales,Account Manager,Female,34.0,Single,Bachelor's,84500.0,0,2.0,37.0,14,Yes,14,No,Yes,2023-09-03
+2296,IT,IT Manager,Female,23.0,Divorced,Bachelor's,102400.0,2,3.0,50.0,1,No,12,No,No,2021-12-18
+2055,Human Resources,HR Executive,male,29.0,Divorced,Master's,63400.0,4,3.0,63.0,9,No,5,No,No,2019-06-01
+1536,FINANCE,Finance Manager,Male,30.0,Single,Master's,115100.0,2,4.0,16.0,1,Yes,10,No,Yes,2021-12-14
+1105,Customer Support,Support Executive,Female,38.0,Divorced,Bachelor's,39800.0,1,4.0,33.0,1,No,14,No,No,2022-05-09
+1858,CUSTOMER SUPPORT,Support Team Lead,Male,36.0,Married,Master's,75500.0,3,4.0,66.0,10,No,10,Yes,No,2020-03-18
+1550,Human Resources,HR Manager,female,20.0,Married,Master's,83300.0,1,5.0,21.0,1,No,11,No,No,2022-10-15
+1600,Operations,Operations Executive,Female,32.0,Single,Bachelor's,54100.0,2,3.0,31.0,8,Yes,8,No,No,2021-04-26
+1566,IT,System Administrator,Male,46.0,Single,Master's,76600.0,0,2.0,34.0,14,No,10,No,No,2024-01-01
+2280,HUMAN RESOURCES,Recruiter,Female,41.0,Married,Bachelor's,55300.0,2,3.0,29.0,1,No,18,No,No,2021-04-18
+2132,Marketing,Marketing Executive,Male,39.0,Married,PhD,86900.0,4,5.0,27.0,9,No,18,Yes,No,2019-05-30
+1783,Sales,Account Manager,Male,44.0,Married,Bachelor's,100500.0,13,5.0,16.0,5,No,5,Yes,No,2010-12-31
+1644,IT,System Administrator,Male,40.0,Married,Master's,85200.0,0,5.0,32.0,1,No,15,No,No,2023-11-18
+1649,Operations,Operations Executive,Male,39.0,Single,Master's,64900.0,5,3.0,31.0,5,No,8,No,No,2018-05-24
+1255,Human Resources,HR Executive,Female,48.0,Married,Master's,73100.0,11,3.0,36.0,12,No,16,No,No,2012-05-05
+1881,Customer Support,Support Executive,female,38.0,Married,Bachelor's,46500.0,1,3.0,45.0,1,No,12,Yes,No,2022-12-01
+2366,Operations,Operations Manager,Male,26.0,Married,Master's,87200.0,2,3.0,61.0,10,No,6,No,No,2021-05-29
+1868,Engineering,Software Engineer,Male,36.0,Married,Bachelor's,90000.0,3,3.0,66.0,7,Yes,10,No,No,2020-11-11
+1311,Operations,Operations Executive,Male,46.0,Divorced,Bachelor's,50100.0,2,3.0,39.0,9,No,9,No,No,2021-03-29
+1725,Operations,Operations Executive,Male,20.0,Married,Bachelor's,54300.0,2,5.0,37.0,11,No,9,No,No,2021-08-01
+2003,IT,IT Manager,Female,33.0,Married,Master's,119500.0,2,3.0,17.0,10,Yes,4,No,Yes,2021-10-15
+1950,Sales,Account Manager,Female,35.0,Single,Master's,94900.0,4,2.0,13.0,1,Yes,12,No,Yes,2019-06-04
+2043,Marketing, Content Strategist  ,Male,52.0,Married,Bachelor's,64400.0,4,1.0,55.0,3,No,10,No,No,2019-04-30
+1727,Marketing,Marketing Manager,Male,47.0,,High School,87500.0,8,3.0,50.0,4,No,11,No,No,2015-06-16
+1445,Customer Support,Support Team Lead,Female,50.0,Single,Bachelor's,60300.0,5,4.0,60.0,1,No,16,Yes,No,2018-10-05
+1709,Marketing,Marketing Executive,Male,26.0,Single,High School,53000.0,1,3.0,47.0,12,No,15,No,No,2022-12-09
+1397,Marketing,Marketing Manager,Male,35.0,Single,Master's,106000.0,16,3.0,43.0,3,No,9,Yes,No,2007-08-16
+2130,Finance,Finance Manager,Male,60.0,Married,Bachelor's,101300.0,4,3.0,74.0,5,No,14,No,No,2019-04-06
+2124,Engineering,QA Engineer,Male,32.0,Single,Bachelor's,82100.0,4,4.0,39.0,3,No,10,Yes,No,2019-10-24
+1192,Customer Support,Support Team Lead,Female,34.0,Divorced,Bachelor's,67200.0,6,3.0,12.0,3,No,8,No,No,2017-08-08
+1499,ENGINEERING,Software Engineer,Male,37.0,Married,Bachelor's,98900.0,4,2.0,55.0,11,No,19,No,Yes,2019-08-02
+2314,Sales,Account Manager,Male,38.0,Single,Master's,106200.0,9,4.0,15.0,13,No,14,No,No,2014-09-26
+2436,IT,IT Support,Male,21.0,Divorced,Bachelor's,64600.0,0,4.0,34.0,2,No,12,No,No,2023-11-03
+1534,Operations,Operations Manager,Female,31.0,Single,Bachelor's,66000.0,0,2.0,31.0,5,Yes,7,Yes,No,2023-04-22
+1313,Engineering,Software Engineer,Male,43.0,Married,Bachelor's,97300.0,3,5.0,,8,Yes,13,No,No,2020-03-08
+2154,Customer Support,Support Executive,Male,44.0,Married,Master's,45400.0,2,3.0,59.0,7,No,11,No,No,2021-12-30
+2196,Finance,Finance Manager,female,39.0,Single,Master's,98200.0,1,3.0,54.0,3,No,17,No,Yes,2022-05-11
+2039,OPERATIONS,Operations Manager,Female,34.0,Divorced,Master's,80800.0,3,3.0,51.0,12,Yes,13,No,Yes,2020-10-21
+1894,Finance,Financial Analyst,Female,45.0,Divorced,PhD,86900.0,2,3.0,17.0,12,No,13,No,No,2021-04-29
+1047,Operations,Operations Manager,Female,39.0,Married,Master's,80600.0,2,4.0,52.0,1,No,13,No,No,2021-12-30
+2045,Sales,Sales Executive,Female,28.0,Single,Master's,66400.0,2,3.0,45.0,14,No,6,No,No,2021-11-07
+1862,Human Resources,HR Executive,Female,28.0,Divorced,PhD,68300.0,6,3.0,21.0,25,No,12,No,Yes,2017-05-31
+1009,Customer Support,Support Executive,Female,30.0,Married,,43000.0,1,5.0,55.0,1,Yes,14,No,Yes,2022-04-01
+2499,IT,IT Support,Male,34.0,Single,High School,69600.0,8,4.0,57.0,11,No,15,Yes,No,2015-10-18
+1999,Marketing,Marketing Manager,Female,20.0,Married,Bachelor's,82900.0,2,4.0,31.0,36,No,11,No,Yes,2021-12-16
+1403,Human Resources, HR Manager  ,Male,20.0,Divorced,Master's,75100.0,0,1.0,63.0,4,No,13,No,No,2023-05-18
+1982,Customer Support,Support Team Lead,Male,28.0,Single,Bachelor's,57600.0,2,4.0,27.0,2,Yes,10,No,No,12/06/2021
+1090,Operations,Operations Executive,Male,26.0,Single,PhD,75900.0,8,3.0,25.0,4,No,12,No,No,2015-05-15
+1128,Marketing,Marketing Executive,Female,35.0,Single,Master's,64100.0,1,3.0,41.0,1,Yes,11,No,N,2022-06-21
+1931,Customer Support,Support Team Lead,Female,25.0,Divorced,Bachelor's,59000.0,2,4.0,8.0,5,No,9,No,No,2021-03-08
+1276,Sales,Sales Executive,Female,38.0,Married,Bachelor's,57000.0,4,3.0,65.0,1,Yes,8,Yes,No,2019-08-01
+1477,Sales,Sales Manager,Male,23.0,Married,Master's,102500.0,5,2.0,36.0,5,No,11,No,Yes,2018-09-26
+1288,Engineering,Engineering Manager,Male,25.0,Single,High School,112500.0,0,5.0,45.0,1,No,12,No,N,2023-11-29
+1519,Engineering,Engineering Manager,Female,33.0,Married,Master's,149400.0,3,5.0,30.0,6,No,16,Yes,No,2020-03-18
+1613,Customer Support,Support Team Lead,Male,44.0,Married,,69800.0,7,4.0,55.0,5,Yes,14,No,No,2016-10-04
+1501,Human Resources,Recruiter,Female,38.0,Married,High School,50200.0,1,4.0,8.0,31,Yes,16,No,Yes,2022-07-07
+1595,Sales,Sales Manager,Male,43.0,Divorced,Master's,93100.0,1,5.0,46.0,7,No,18,No,No,2022-06-15
+1892,Finance,Financial Analyst,Male,35.0,Divorced,Bachelor's,77900.0,13,3.0,40.0,4,No,14,No,No,2010-11-20
+1694,Customer Support,Support Executive,Male,35.0,Married,Bachelor's,48000.0,12,4.0,18.0,1,No,10,No,No,2011-06-30
+1796,Marketing,Marketing Manager,Male,23.0,Divorced,Master's,109800.0,5,3.0,11.0,5,No,9,No,No,2018-05-10
+1316,Engineering,Senior Engineer,Female,23.0,Divorced,Master's,158000.0,5,5.0,50.0,8,No,14,Yes,No,2018-09-05
+2206,Customer Support,Support Team Lead,Male,31.0,Married,Master's,67500.0,7,3.0,8.0,5,No,15,No,No,2016-04-22
+1384,Customer Support,Support Executive,Male,35.0,Divorced,Bachelor's,41300.0,3,2.0,18.0,1,No,6,No,No,2020-09-23
+1360,Operations,Operations Manager,Male,38.0,Single,Master's,96700.0,9,4.0,18.0,1,No,8,Yes,No,2014-05-26
+1806,Sales,Sales Executive,Male,35.0,Married,Bachelor's,66700.0,9,3.0,60.0,3,No,7,No,No,2014-10-04
+2422,Engineering,Senior Engineer,Female,24.0,Single,Bachelor's,127800.0,6,4.0,17.0,10,No,13,No,No,2017-03-14
+1700,Sales,Account Manager,Female,20.0,Single,Master's,97700.0,2,4.0,44.0,3,Yes,9,No,No,2021-03-13
+2388,Finance, Finance Manager  ,Female,25.0,Married,Bachelor's,95300.0,0,4.0,60.0,24,No,11,No,No,2023-11-14
+1969,Customer Support,Support Executive,Male,36.0,Single,Bachelor's,47300.0,12,2.0,33.0,3,No,15,No,No,2011-03-28
+1012,Sales,Account Manager,Female,26.0,Married,,102600.0,5,3.0,24.0,9,No,11,No,No,2018-10-14
+1075,Marketing,Content Strategist,Male,35.0,Single,Bachelor's,69800.0,7,4.0,40.0,15,Yes,10,No,No,2016-08-06
+1193,Finance,Finance Manager,Female,37.0,Divorced,Bachelor's,98000.0,2,3.0,55.0,5,Yes,5,No,Yes,2021-06-21
+1955,Sales,Sales Executive,Female,44.0,Married,Bachelor's,64700.0,5,2.0,47.0,10,No,12,No,No,2018-11-29
+1177,Marketing,Content Strategist,Female,34.0,Divorced,Bachelor's,67400.0,16,4.0,56.0,16,No,14,No,No,2007-10-17
+1948,Sales,Sales Executive,Male,35.0,Divorced,High School,47200.0,3,2.0,33.0,1,No,5,Yes,No,2020-11-08
+1789,Operations,Operations Executive,Female,34.0,Single,Master's,59900.0,4,5.0,57.0,6,No,12,No,No,2019-06-08
+2190,Sales,Account Manager,Female,22.0,Single,Bachelor's,82100.0,4,2.0,36.0,7,Yes,6,No,Yes,2019-05-25
+1071,Operations, Operations Executive  ,Female,28.0,Married,Master's,75500.0,10,3.0,42.0,9,No,4,No,No,2013-05-04
+2108,Finance,Finance Manager,Male,30.0,Married,Master's,110700.0,3,3.0,27.0,7,No,17,No,No,2020-12-06
+1175,Engineering,Senior Engineer,Male,51.0,Married,Master's,134600.0,2,,23.0,33,No,15,No,No,2021-12-18
+1679,Marketing,Marketing Executive,Female,36.0,Married,Master's,68700.0,2,5.0,45.0,8,No,7,Yes,No,2021-04-26
+2093,Operations, Operations Executive  ,Female,26.0,Single,Bachelor's,54200.0,0,2.0,31.0,1,No,8,No,No,2023-07-29
+2147,Engineering,Senior Engineer,Female,52.0,Single,Bachelor's,116800.0,6,3.0,26.0,22,No,10,No,No,2017-03-18
+1440,Sales,Sales Executive,Female,39.0,Single,Bachelor's,59500.0,2,4.0,35.0,2,Yes,9,Yes,No,2021-12-13
+2356,Finance,Finance Manager,Male,42.0,Married,Bachelor's,88100.0,2,4.0,37.0,8,No,11,No,No,2021-05-18
+1805,Customer Support,Support Executive,Male,29.0,Married,High School,36400.0,0,2.0,50.0,2,No,18,No,No,2023-07-01
+2381,Engineering,QA Engineer,Male,,Single,Bachelor's,89100.0,3,4.0,49.0,20,Yes,20,Yes,No,2020-12-24
+1274,Operations,Operations Manager,female,48.0,Married,Master's,88100.0,0,3.0,18.0,1,No,7,No,No,2023-08-09
+1008,Finance,Finance Manager,Male,42.0,Single,Master's,113300.0,12,2.0,24.0,2,No,5,Yes,No,2011-03-20
+1185,Customer Support,Support Team Lead,Male,25.0,Divorced,Bachelor's,64700.0,4,2.0,35.0,12,No,10,Yes,No,2019-10-24
+1387,OPERATIONS,Operations Executive,Female,38.0,Single,Bachelor's,54600.0,6,4.0,26.0,8,No,18,No,No,2017-04-19
+1804,Operations,Operations Executive,Male,28.0,Married,Master's,59100.0,1,5.0,44.0,24,No,11,No,No,2022-12-29
+1087,Engineering,Software Engineer,Male,28.0,Divorced,Master's,121900.0,10,3.0,43.0,1,Yes,15,No,Yes,2013-03-09
+1021,Human Resources,HR Executive,Male,20.0,Single,Bachelor's,46000.0,1,4.0,39.0,7,Yes,9,Yes,No,2022-09-30
+2470,Finance,Financial Analyst,Female,30.0,Single,Bachelor's,72500.0,4,4.0,19.0,1,No,14,No,No,2019-03-25
+2170,Customer Support,Support Executive,Female,999.0,Divorced,Bachelor's,49700.0,6,4.0,42.0,1,Yes,9,No,Yes,2017-10-19
+2285,Sales, Sales Manager  ,Male,34.0,Single,Bachelor's,79600.0,0,3.0,17.0,5,No,14,No,No,2023-09-24
+2387,Customer Support,Support Team Lead,Female,31.0,Married,Master's,74800.0,2,4.0,49.0,8,No,17,No,N,2021-03-14
+1891,Operations,Operations Executive,Female,24.0,Married,Bachelor's,59600.0,6,3.0,36.0,1,No,17,No,No,2017-06-10
+1556,Finance,Financial Analyst,Male,39.0,Married,Master's,70100.0,2,3.0,41.0,4,Yes,10,No,Yes,2021-12-07
+1179,IT,IT Support,Female,36.0,Single,,74900.0,7,2.0,50.0,1,No,13,No,No,2016-11-14
+1905,Customer Support,Support Team Lead,Female,27.0,Married,Bachelor's,54100.0,0,4.0,41.0,4,Yes,12,No,No,2023-06-22
+1176,Human Resources,HR Executive,Female,33.0,Single,Master's,55000.0,1,3.0,41.0,3,No,11,No,No,22/04/2022
+2065,Operations,Operations Manager,female,34.0,Single,Bachelor's,72000.0,0,3.0,49.0,1,No,3,No,Yes,2023-05-19
+1138,Finance,Finance Manager,Male,42.0,Single,Bachelor's,94100.0,2,3.0,34.0,7,No,12,No,No,2021-07-12
+1559,Engineering,Software Engineer,Female,21.0,Married,PhD,109000.0,3,3.0,,3,No,13,No,No,2020-05-06
+1770,Marketing,Marketing Executive,Male,32.0,Married,Master's,65100.0,3,5.0,22.0,1,Yes,5,Yes,No,2020-12-09
+2246,Sales,Account Manager,Male,30.0,Single,PhD,99500.0,0,4.0,21.0,3,No,12,No,No,2023-11-11
+1857,Finance,Financial Analyst,Female,29.0,Divorced,High School,53300.0,0,4.0,52.0,1,No,14,No,No,2023-06-13
+1152,Marketing,Marketing Executive,Female,28.0,Divorced,Bachelor's,59500.0,2,4.0,53.0,33,No,13,Yes,No,2021-10-31
+1381,Human Resources,HR Manager,Male,47.0,Single,Master's,75100.0,0,1.0,53.0,9,No,12,No,No,2023-04-16
+1526,IT,System Administrator,Female,28.0,Divorced,Master's,84500.0,1,4.0,45.0,28,No,11,No,No,02/04/2022
+1024,Marketing,Marketing Manager,Male,47.0,Divorced,Master's,89600.0,3,4.0,32.0,1,No,15,Yes,No,2020-09-12
+1878,Customer Support,Support Team Lead,Female,37.0,Married,Bachelor's,62200.0,0,3.0,32.0,7,No,12,No,No,2023-04-03
+2178,Finance,Accountant,Female,28.0,Married,Bachelor's,68500.0,1,4.0,71.0,2,Yes,8,No,No,2022-05-07
+1266,Human Resources,Recruiter,Male,32.0,Married,Master's,62900.0,1,4.0,19.0,13,No,15,No,No,2022-05-21
+1222,Sales, Sales Manager  ,Male,34.0,Single,Master's,84100.0,3,2.0,47.0,7,Yes,12,No,No,2020-03-21
+1411,Sales,Account Manager,Female,41.0,Divorced,Bachelor's,94100.0,23,2.0,37.0,11,No,6,No,No,2000-08-03
+1832,IT,IT Manager,Female,43.0,Single,Master's,114900.0,2,3.0,51.0,6,No,17,No,No,2021-09-30
+1072,Human Resources,HR Executive,male,38.0,Single,High School,52300.0,8,4.0,51.0,4,Yes,17,No,N,2015-11-21
+1020,Finance,Accountant,Female,33.0,Married,Bachelor's,66200.0,1,2.0,25.0,28,No,17,No,Yes,2022-12-05
+1278,Finance,Accountant,Female,32.0,Married,Master's,75900.0,0,1.0,67.0,7,Yes,19,No,No,2023-05-19
+1289,Marketing,Content Strategist,Male,34.0,Single,PhD,72700.0,1,3.0,36.0,18,Yes,8,No,No,2022-12-04
+1913,Human Resources,HR Manager,Male,43.0,Single,Bachelor's,84100.0,7,4.0,60.0,9,No,10,No,No,2016-08-30
+1467,Human Resources,Recruiter,Female,31.0,Divorced,Bachelor's,45000.0,0,3.0,35.0,10,No,12,No,No,2023-10-06
+1840,Human Resources,HR Manager,Female,39.0,Single,Bachelor's,70300.0,1,4.0,43.0,2,No,11,No,No,2022-06-24
+2255,Human Resources,HR Executive,Female,25.0,Divorced,Bachelor's,53300.0,2,3.0,66.0,1,No,17,No,No,2021-06-10
+2052,Human Resources,HR Manager,Male,30.0,Divorced,Bachelor's,77200.0,1,3.0,54.0,1,No,15,No,No,2022-11-12
+1417,Operations,Operations Manager,Male,33.0,Single,Master's,92100.0,7,3.0,53.0,5,Yes,13,No,No,2016-10-23
+1037,Finance,Accountant,Male,27.0,Single,Master's,81700.0,9,3.0,17.0,1,No,14,No,No,2014-05-13
+1119,Operations,Operations Executive,Male,25.0,Divorced,High School,53000.0,3,3.0,15.0,3,No,17,No,No,2020-03-07
+1367,Engineering,Senior Engineer,Female,42.0,Divorced,,154900.0,5,3.0,51.0,14,Yes,8,No,No,2018-10-24
+1095,IT,IT Manager,Female,22.0,Divorced,Bachelor's,88600.0,0,3.0,48.0,2,No,10,No,No,2023-03-09
+2316,Human Resources,HR Manager,Female,44.0,Married,PhD,98400.0,9,3.0,0.0,1,No,16,No,No,2014-10-02
+1584,Human Resources,HR Executive,Male,29.0,Divorced,Bachelor's,52700.0,10,3.0,50.0,1,No,8,No,No,2013-06-18
+2464,IT,IT Manager,Male,40.0,Divorced,Bachelor's,94200.0,1,5.0,25.0,7,No,9,No,Yes,2022-09-18
+2474,Human Resources,HR Manager,Female,49.0,Married,Bachelor's,88700.0,11,2.0,47.0,2,No,16,No,No,2012-04-05
+1771,Operations,Operations Executive,Male,43.0,Divorced,Bachelor's,53000.0,0,1.0,43.0,8,No,18,No,Yes,2023-11-12
+1691,IT,IT Manager,Female,33.0,Divorced,Bachelor's,104300.0,5,4.0,38.0,4,No,17,No,No,2018-04-09
+2175,Marketing,Marketing Executive,Male,32.0,Single,Master's,78700.0,7,3.0,62.0,8,Yes,8,No,Yes,2016-08-23
+2404,Engineering,QA Engineer,Male,43.0,Divorced,Bachelor's,93300.0,8,5.0,37.0,3,No,9,No,No,2015-06-19
+2235,Sales,Account Manager,Male,38.0,Married,PhD,102900.0,7,4.0,61.0,6,No,8,No,No,2016-05-14
+2211,IT, IT Manager  ,Male,34.0,Divorced,Master's,116600.0,2,3.0,34.0,1,Yes,15,No,No,2021-07-23
+1067,Operations,Operations Executive,Male,34.0,Married,Bachelor's,56700.0,1,4.0,46.0,2,No,12,No,No,2022-07-09
+2209,Engineering,Engineering Manager,Female,32.0,Married,Bachelor's,133900.0,7,4.0,18.0,1,No,19,Yes,No,2016-04-02
+1655,Finance,Financial Analyst,Female,29.0,Divorced,Master's,80100.0,5,,22.0,4,No,16,No,No,2018-11-05
+1984,Operations,Operations Executive,Male,45.0,Single,PhD,68600.0,6,2.0,34.0,13,No,8,No,Yes,2017-06-22
+1422,OPERATIONS,Operations Executive,Male,20.0,Single,Bachelor's,56900.0,0,2.0,29.0,2,No,7,No,No,2023-05-14
+2493,Marketing,Content Strategist,Female,43.0,Married,Bachelor's,55700.0,1,4.0,51.0,5,No,9,No,No,2022-04-21
+2173,Engineering,Software Engineer,Male,24.0,Single,Master's,112000.0,6,5.0,40.0,10,No,8,No,No,2017-11-22
+1820,Operations,Operations Executive,Female,43.0,Single,Bachelor's,54100.0,5,4.0,44.0,1,No,11,No,No,2018-05-08
+1841,Finance,Financial Analyst,Male,26.0,Married,Bachelor's,65500.0,4,5.0,19.0,19,No,13,Yes,No,14/11/2019
+1625,Sales,Sales Manager,Male,28.0,Divorced,Bachelor's,75500.0,5,5.0,69.0,13,No,12,No,No,2018-07-15
+1321,IT,System Administrator,Female,38.0,Single,Bachelor's,64500.0,0,3.0,67.0,1,No,4,No,No,2023-03-17
+1064,Marketing,Marketing Manager,Female,36.0,Married,Master's,108900.0,8,2.0,57.0,23,Yes,10,No,Yes,2015-06-23
+1828,IT,IT Support,Female,21.0,Divorced,Bachelor's,76400.0,3,3.0,44.0,1,Yes,5,No,No,2020-10-27
+1708,Operations, Operations Executive  ,Male,26.0,Divorced,Bachelor's,51500.0,1,3.0,53.0,1,No,3,No,No,2022-05-30
+2081,Finance,Accountant,Male,33.0,Divorced,PhD,90600.0,5,5.0,48.0,5,No,10,Yes,No,2018-11-27
+1896,OPERATIONS,Operations Executive,Male,30.0,Divorced,Master's,60100.0,3,4.0,39.0,6,Yes,11,No,No,2020-11-02
+2268,Engineering,Software Engineer,Male,30.0,Married,Bachelor's,86900.0,1,4.0,8.0,1,No,4,Yes,Yes,2022-12-18
+1932,IT,IT Support,Female,45.0,Single,Bachelor's,73500.0,3,4.0,26.0,21,Yes,8,No,No,2020-09-26
+2290,Marketing,Marketing Executive,Male,37.0,Divorced,High School,48400.0,0,4.0,32.0,4,No,18,No,No,2023-04-23
+1802,Human Resources,HR Manager,Male,45.0,Married,Bachelor's,65800.0,1,4.0,31.0,7,No,7,No,No,2022-07-14
+1198,Marketing, Content Strategist  ,Male,23.0,Single,Master's,71400.0,1,4.0,16.0,1,No,10,No,No,2022-10-04
+2377,Sales,Account Manager,Female,42.0,Divorced,Bachelor's,71500.0,2,4.0,26.0,1,No,8,No,No,22/07/2021
+1535,Operations,Operations Executive,Female,41.0,Divorced,Bachelor's,54400.0,3,3.0,43.0,1,No,12,Yes,No,2020-12-29
+1380,Finance,Financial Analyst,Male,43.0,Married,Master's,86000.0,12,3.0,39.0,3,No,19,No,No,26/12/2011
+1139,Sales,Account Manager,Female,29.0,Divorced,High School,68300.0,1,2.0,18.0,10,No,14,No,Yes,2022-10-17
+2232,Operations, Operations Executive  ,Male,41.0,Single,Master's,66400.0,6,4.0,56.0,25,No,11,No,No,2017-10-27
+1124,Human Resources,HR Executive,Female,36.0,Divorced,PhD,59900.0,1,2.0,78.0,1,Yes,7,No,Yes,2022-06-26
+1731,Marketing,Content Strategist,Female,51.0,Divorced,Master's,67000.0,1,4.0,43.0,1,No,15,Yes,No,2022-10-24
+1653,Customer Support,Support Team Lead,female,27.0,Divorced,Master's,70300.0,2,3.0,46.0,4,No,12,No,No,2021-07-05
+1374,IT,System Administrator,Male,44.0,Married,Bachelor's,71200.0,2,4.0,30.0,9,No,12,Yes,No,2021-12-02
+2312,Marketing,Content Strategist,Male,30.0,Single,Master's,73300.0,5,3.0,29.0,17,No,12,No,No,2018-04-02
+2163,Customer Support,Support Executive,Male,22.0,Divorced,Bachelor's,45200.0,1,3.0,45.0,1,No,10,No,No,2022-09-26
+1049,ENGINEERING,QA Engineer,Female,21.0,Married,PhD,119700.0,2,4.0,32.0,1,No,11,No,No,2021-03-27
+2486,Sales,Sales Executive,Male,41.0,Married,Master's,70800.0,3,3.0,53.0,2,No,11,No,No,2020-07-18
+1601,IT,IT Support,Female,36.0,Married,Master's,82900.0,4,3.0,54.0,1,No,12,No,Yes,2019-07-14
+1790,Marketing,Marketing Executive,Female,52.0,Single,Bachelor's,79700.0,23,3.0,59.0,1,No,9,No,No,2000-06-05
+1141,MARKETING, Content Strategist  ,Male,29.0,Divorced,Master's,71100.0,3,4.0,41.0,3,No,10,No,No,2020-04-07
+1043,Marketing,Content Strategist,Male,55.0,Single,Bachelor's,59900.0,1,3.0,11.0,1,Yes,8,No,No,2022-10-04
+1174,Customer Support,Support Team Lead,female,46.0,Divorced,Bachelor's,65100.0,1,4.0,36.0,23,Yes,7,No,No,2022-11-15
+1253,Customer Support,Support Team Lead,Male,34.0,Divorced,High School,53400.0,0,3.0,48.0,4,No,7,No,No,2023-05-18
+1930,Human Resources,HR Manager,Male,31.0,Married,PhD,97600.0,1,3.0,29.0,12,Yes,1,No,No,2022-10-27
+1269,ENGINEERING,Senior Engineer,female,38.0,Divorced,Master's,144500.0,8,4.0,30.0,5,No,13,No,No,2015-07-22
+1549,Sales,Sales Manager,Male,46.0,Married,Bachelor's,80600.0,0,3.0,36.0,6,No,11,No,No,04/10/2023
+1398,Marketing,Marketing Executive,Male,29.0,Married,Master's,68300.0,0,1.0,45.0,1,No,17,No,Y,2023-07-20
+2341,Finance,Finance Manager,Male,37.0,Divorced,Bachelor's,94400.0,5,5.0,62.0,5,Yes,6,Yes,Yes,2018-05-23
+2254,Finance,Financial Analyst,Female,49.0,Married,Bachelor's,72000.0,3,3.0,19.0,1,No,5,No,No,2020-07-16
+1498,Finance,Accountant,Male,40.0,Married,Master's,79800.0,0,4.0,56.0,7,No,20,No,No,2023-03-15
+2144,Marketing,Marketing Manager,Male,42.0,Married,PhD,103600.0,1,4.0,40.0,5,No,12,No,No,2022-06-20
+1415,FINANCE,Accountant,Male,31.0,Divorced,,,13,4.0,50.0,4,No,14,No,No,2010-07-27
+1483,Sales,Sales Manager,Female,39.0,Single,Master's,102800.0,7,4.0,61.0,12,No,7,No,No,2016-07-09
+1693,IT, IT Support  ,Male,42.0,Married,Bachelor's,68500.0,3,5.0,27.0,7,No,11,Yes,No,2020-04-03
+1525,Finance,Financial Analyst,Male,48.0,Divorced,PhD,85700.0,0,3.0,22.0,1,No,8,No,No,2023-08-28
+1303,Human Resources,HR Executive,Male,51.0,Single,Master's,62200.0,7,2.0,56.0,19,Yes,7,No,No,2016-04-03
+2481,Finance,Accountant,Female,34.0,Divorced,Master's,69800.0,0,3.0,68.0,1,No,8,No,No,2023-07-31
+1736,Sales,Sales Manager,male,33.0,Divorced,Bachelor's,81800.0,9,4.0,21.0,9,No,10,Yes,No,2014-12-03
+1340,Sales,Sales Manager,Female,41.0,Divorced,Bachelor's,,10,3.0,40.0,1,No,9,No,No,2013-07-15
+1609,IT, IT Manager  ,Female,20.0,Single,Master's,110300.0,2,4.0,53.0,2,Yes,10,No,No,2021-09-01
+1636,Engineering,Senior Engineer,Male,42.0,Married,PhD,155200.0,1,4.0,44.0,3,Yes,16,No,Yes,2022-12-15
+2238,Operations,Operations Executive,Male,20.0,Single,PhD,69500.0,0,3.0,16.0,1,Yes,9,No,No,2023-11-14
+2099,Human Resources,HR Manager,Female,21.0,Single,Bachelor's,67600.0,1,3.0,65.0,5,No,14,Yes,Yes,2022-12-14
+1720,Engineering,Senior Engineer,female,32.0,Single,Master's,145500.0,12,3.0,24.0,2,No,11,No,No,2011-11-18
+1874,Operations,Operations Executive,Female,41.0,Single,Bachelor's,59800.0,6,4.0,55.0,17,No,18,No,No,2017-05-04
+1648,Sales,Sales Executive,Male,39.0,Married,PhD,75100.0,6,4.0,19.0,1,Yes,9,Yes,No,2017-10-03
+1251,IT,IT Manager,Male,39.0,Divorced,PhD,123400.0,7,4.0,51.0,4,Yes,10,No,No,2016-04-03
+1628,Finance,Finance Manager,Female,41.0,Divorced,Bachelor's,92000.0,0,5.0,54.0,6,No,13,Yes,No,2023-07-09
+1263,Engineering,Senior Engineer,Male,39.0,Married,Bachelor's,130200.0,0,2.0,72.0,12,No,17,No,No,2023-06-19
+2038,OPERATIONS,Operations Executive,male,28.0,Divorced,Bachelor's,48900.0,0,4.0,55.0,5,No,11,Yes,No,2023-04-19
+2450,Engineering,QA Engineer,Male,26.0,Divorced,Master's,103800.0,0,5.0,54.0,1,No,15,No,No,2023-08-17
+1803,Marketing,Marketing Manager,Male,,Single,Bachelor's,,1,5.0,41.0,1,No,18,No,No,2022-09-06
+2183,Human Resources,HR Manager,Male,36.0,Divorced,Bachelor's,84800.0,18,4.0,39.0,1,Yes,10,No,No,2005-04-12
+2051,Marketing,Content Strategist,Female,37.0,Single,Master's,66300.0,5,3.0,54.0,23,No,13,No,Yes,2018-05-26
+1908,IT,System Administrator,Female,40.0,Divorced,Bachelor's,64700.0,3,4.0,29.0,14,Yes,13,No,Yes,2020-08-18
+1337,Human Resources,HR Manager,Male,32.0,Divorced,Master's,81900.0,3,4.0,26.0,1,No,18,No,No,2020-03-07
+1096,Engineering,Senior Engineer,Male,31.0,Single,Bachelor's,112900.0,1,3.0,2.0,32,No,14,No,N,2022-03-28
+2087,Sales,Sales Executive,Male,27.0,Married,Bachelor's,53000.0,2,3.0,42.0,34,No,19,No,No,2021-08-05
+2284,Operations, Operations Manager  ,male,27.0,Married,,91300.0,1,1.0,33.0,3,No,14,No,No,2022-11-28
+1651,Sales,Sales Executive,Male,30.0,Single,Master's,71400.0,2,2.0,19.0,1,Yes,9,No,Yes,2021-07-03
+2271,Operations, Operations Executive  ,Female,20.0,Married,Master's,59800.0,0,1.0,17.0,6,No,19,No,No,2023-03-31
+2192,Engineering,Senior Engineer,Male,34.0,Single,Bachelor's,131500.0,7,2.0,25.0,2,No,18,No,No,2016-06-09
+1085,Sales,Account Manager,Male,30.0,Single,Bachelor's,70700.0,0,4.0,28.0,1,No,6,No,Yes,2023-04-21
+1148,Customer Support,Support Executive,Female,34.0,Single,Bachelor's,45900.0,9,2.0,18.0,1,No,14,No,No,2014-10-20
+1755,Finance,Accountant,Female,20.0,Single,PhD,93200.0,2,2.0,44.0,6,No,8,No,No,2021-10-30
+2141,IT,IT Manager,Male,42.0,Single,Master's,119600.0,1,5.0,27.0,17,Yes,13,No,No,03/06/2022
+1744,Operations,Operations Executive,Female,27.0,Single,Master's,63500.0,5,4.0,46.0,3,No,5,Yes,Yes,2018-11-03
+2000,Sales,Sales Executive,Male,30.0,Divorced,Bachelor's,57500.0,3,4.0,57.0,16,No,8,No,No,2020-05-26
+1362,Finance,Financial Analyst,Female,31.0,Divorced,Master's,83800.0,7,3.0,57.0,17,No,11,Yes,No,2016-04-20
+2053,Marketing,Marketing Manager,Female,53.0,Married,Bachelor's,82600.0,7,3.0,24.0,26,No,10,No,Yes,2016-08-27
+2094,Sales,Account Manager,Female,49.0,Married,PhD,102500.0,2,5.0,28.0,2,No,10,No,No,2021-09-13
+2281,Engineering,QA Engineer,Female,22.0,Single,Master's,102500.0,0,3.0,26.0,2,No,3,Yes,No,2023-07-04
+1965,Engineering,Senior Engineer,Male,27.0,Married,Master's,145100.0,4,4.0,39.0,1,No,4,No,No,2019-04-21
+2017,IT,IT Support,Male,41.0,Married,High School,69200.0,9,4.0,30.0,4,Yes,9,Yes,No,2014-12-29
+1652,Sales,Sales Manager,male,,Single,Master's,95000.0,6,2.0,58.0,13,No,13,Yes,Yes,09/10/2017
+1587,Marketing,Content Strategist,Female,24.0,Single,Bachelor's,56800.0,5,4.0,13.0,1,No,18,Yes,No,2018-07-14
+2221,OPERATIONS,Operations Manager,Female,38.0,Divorced,Bachelor's,73000.0,1,4.0,28.0,1,No,11,Yes,Yes,04/06/2022
+1632,OPERATIONS,Operations Manager,Male,38.0,Single,Master's,88400.0,7,1.0,48.0,1,Yes,8,No,No,2016-04-11
+2491,Operations,Operations Executive,Male,32.0,Divorced,PhD,67900.0,2,3.0,69.0,8,No,16,No,No,2021-07-10
+2380,Operations,Operations Manager,Male,35.0,Married,Bachelor's,82200.0,5,4.0,38.0,1,No,8,No,No,2018-06-21
+2040,Sales,Account Manager,Male,32.0,Married,Bachelor's,98900.0,12,3.0,70.0,12,No,12,No,No,2011-12-31
+1233,Human Resources,HR Manager,Female,50.0,Divorced,Bachelor's,66700.0,3,3.0,46.0,6,Yes,8,No,No,2020-12-16
+1379,Operations,Operations Executive,Male,22.0,Married,Bachelor's,53100.0,4,3.0,27.0,12,Yes,11,No,No,2019-06-10
+1570,Sales,Sales Executive,Male,38.0,Divorced,Master's,68200.0,2,4.0,,14,No,13,No,No,2021-10-05
+1277,Engineering,Engineering Manager,Male,21.0,Divorced,Bachelor's,114200.0,3,2.0,58.0,7,No,20,No,Yes,2020-07-29
+1068,IT,IT Manager,Male,43.0,Married,Bachelor's,118400.0,24,3.0,47.0,5,Yes,12,No,Yes,1999-11-07
+1979,Operations,Operations Executive,Male,22.0,Divorced,Bachelor's,56100.0,4,3.0,58.0,1,No,18,No,No,2019-07-26
+1027,Finance,Finance Manager,Female,27.0,Divorced,Master's,127700.0,9,3.0,35.0,2,No,16,No,No,2014-07-27
+1663,Operations,Operations Manager,female,37.0,Single,Bachelor's,86500.0,11,4.0,56.0,13,Yes,18,No,No,2012-09-16
+2359,Operations,Operations Executive,Female,25.0,Married,Bachelor's,49800.0,0,,25.0,2,No,20,No,No,2023-06-30
+1204,Customer Support,Support Team Lead,Female,39.0,Married,Master's,77100.0,10,3.0,8.0,8,No,23,Yes,No,2013-07-30
+2325,Human Resources,Recruiter,Male,26.0,Divorced,Master's,63400.0,8,5.0,42.0,3,No,8,No,No,2015-03-30
+1546,Engineering,QA Engineer,Female,42.0,Married,Bachelor's,97400.0,4,3.0,48.0,1,No,14,No,No,2019-03-19
+2139,Customer Support,Support Team Lead,Male,26.0,Single,Master's,72100.0,3,3.0,55.0,1,Yes,8,No,Yes,2020-11-10
+1844,Operations,Operations Executive,Male,31.0,Married,Master's,55400.0,0,4.0,22.0,1,Yes,14,No,No,2023-04-21
+1909,Sales,Account Manager,Female,30.0,Divorced,Bachelor's,76200.0,1,4.0,27.0,2,No,1,Yes,No,2022-07-04
+1594,Finance,Finance Manager,Female,39.0,Single,PhD,132400.0,4,4.0,49.0,2,Yes,9,No,Yes,2019-05-19
+1943,Human Resources,Recruiter,Female,49.0,Divorced,,51400.0,1,4.0,45.0,1,No,18,No,No,2022-09-11
+1514,Human Resources,HR Executive,Male,30.0,Divorced,PhD,70300.0,8,4.0,24.0,1,Yes,8,No,N,2015-07-17
+1029,Human Resources,HR Executive,Male,37.0,Married,Bachelor's,49900.0,2,2.0,51.0,10,No,14,No,No,2021-10-13
+1388,IT,System Administrator,Female,28.0,Married,PhD,96700.0,1,4.0,26.0,1,No,6,No,No,2022-10-25
+1243,IT,IT Support,Male,34.0,Divorced,Bachelor's,75900.0,4,2.0,52.0,1,No,1,No,No,2019-10-08
+2020,Customer Support,Support Team Lead,Male,44.0,Single,High School,54800.0,5,3.0,37.0,1,No,8,Yes,No,2018-10-07
+1531,Finance,Accountant,Male,34.0,Divorced,Bachelor's,69600.0,12,4.0,26.0,2,No,9,Yes,No,2011-11-07
+1084,Engineering, Engineering Manager  ,Male,39.0,Divorced,Master's,152100.0,2,2.0,,1,No,10,No,Yes,2021-03-25
+1475,Finance,Accountant,Male,58.0,Single,High School,64300.0,4,3.0,23.0,2,No,16,Yes,No,2019-05-23
+1986,MARKETING,Content Strategist,Male,31.0,Single,Bachelor's,-1000.0,1,3.0,49.0,1,No,3,No,No,2022-04-08
+1547,Customer Support,Support Executive,Male,26.0,Married,Master's,53600.0,2,4.0,66.0,18,Yes,10,No,Yes,2021-07-12
+1461,HUMAN RESOURCES,HR Manager,Female,42.0,Divorced,PhD,105700.0,8,3.0,45.0,1,No,7,No,No,2015-08-11
+2120,Sales,Account Manager,Female,45.0,Married,Master's,86500.0,1,3.0,18.0,4,No,9,No,No,09/08/2022
+1213,Human Resources,HR Executive,Female,26.0,Single,Bachelor's,49500.0,1,2.0,7.0,2,No,12,No,No,2022-05-09
+1429,Sales,Account Manager,Female,37.0,Single,Master's,103500.0,6,5.0,47.0,2,No,9,No,No,07/10/2017
+2168,Engineering,Senior Engineer,Male,27.0,Married,Master's,137100.0,0,2.0,12.0,5,No,16,No,Y,2023-03-29
+1016,Engineering,Senior Engineer,Female,31.0,Divorced,PhD,168000.0,0,3.0,47.0,16,No,16,No,No,2023-03-31
+2418,Customer Support,Support Executive,Female,26.0,Single,Bachelor's,46000.0,7,3.0,26.0,1,No,18,No,No,2016-04-01
+2458,Engineering, Senior Engineer  ,Male,27.0,Single,Master's,156300.0,7,5.0,47.0,6,No,6,No,No,18/08/2016
+1172,Engineering,Engineering Manager,Female,20.0,Married,Bachelor's,127100.0,2,4.0,14.0,45,Yes,10,No,No,2021-03-07
+1889,Engineering,QA Engineer,Female,30.0,Single,Bachelor's,87500.0,4,2.0,44.0,12,No,14,No,Yes,2019-07-01
+2048,IT,System Administrator,Female,31.0,Single,Master's,89600.0,4,3.0,41.0,16,No,7,No,No,2019-05-09
+2267,IT,IT Support,Male,33.0,Single,Bachelor's,73600.0,4,3.0,60.0,14,No,5,No,No,2019-11-07
+1425,IT,System Administrator,Female,29.0,Divorced,Bachelor's,74400.0,4,4.0,61.0,1,Yes,19,No,No,2019-09-07
+1466,Human Resources,HR Executive,female,49.0,Married,Bachelor's,49400.0,4,2.0,25.0,9,No,14,Yes,N,2019-10-15
+1157,Engineering,Software Engineer,Male,29.0,Divorced,Bachelor's,93000.0,0,4.0,57.0,17,No,10,No,No,2023-10-24
+1168,FINANCE,Financial Analyst,Male,36.0,Divorced,High School,61600.0,0,3.0,48.0,3,No,12,No,Y,2023-07-22
+2484,IT,IT Manager,Female,23.0,Divorced,High School,81300.0,3,3.0,,6,No,19,No,Yes,2020-05-01
+1421,Engineering,QA Engineer,Male,30.0,Single,Master's,102900.0,0,4.0,38.0,1,No,14,No,No,2023-09-11
+1730,IT,IT Support,Male,49.0,Married,Master's,86800.0,1,3.0,26.0,18,No,1,No,No,2022-04-27
+1826,Engineering,Software Engineer,Female,43.0,Divorced,Bachelor's,79800.0,1,4.0,35.0,7,No,12,Yes,No,2022-06-18
+1271,Sales,Sales Manager,Female,41.0,Single,Bachelor's,87100.0,5,4.0,45.0,1,Yes,10,Yes,No,2018-06-15
+2317,Human Resources,HR Manager,Male,52.0,Married,Master's,89400.0,4,5.0,50.0,6,Yes,5,Yes,No,2019-07-07
+2441,Human Resources,Recruiter,Male,25.0,Single,Bachelor's,55300.0,3,4.0,49.0,5,Yes,18,No,No,2020-06-15
+1468,Sales,Sales Executive,Female,50.0,Married,Master's,58000.0,0,3.0,35.0,3,No,13,No,No,2023-03-27
+1916,Marketing,Marketing Manager,Male,20.0,Divorced,Bachelor's,81100.0,0,1.0,36.0,3,No,8,No,Yes,2023-04-13
+1077,IT,IT Support,Male,21.0,Single,Master's,80900.0,0,5.0,59.0,5,Yes,12,No,Yes,2023-03-16
+2445,Finance,Finance Manager,Female,36.0,Single,Master's,100400.0,2,3.0,28.0,15,No,15,No,No,2021-12-11
+2439,Human Resources,HR Executive,Male,35.0,Married,Master's,61300.0,0,4.0,44.0,2,No,15,No,No,2023-10-23
+2260,ENGINEERING,QA Engineer,Male,37.0,Divorced,,111300.0,1,1.0,56.0,11,No,11,Yes,Yes,2022-05-22
+1849,Finance,Finance Manager,Male,25.0,Married,PhD,117200.0,2,4.0,69.0,11,No,12,No,No,2021-12-12
+2100,Customer Support,Support Team Lead,Female,32.0,Divorced,Master's,67900.0,2,3.0,56.0,8,No,10,No,No,2021-07-25
+2187,IT,IT Manager,Male,43.0,Married,Bachelor's,101300.0,8,3.0,56.0,7,No,4,Yes,N,2015-10-30
+2014,Marketing,Marketing Executive,Female,25.0,Married,PhD,85800.0,3,3.0,25.0,5,No,10,No,No,2020-11-07
+1093,Sales,Account Manager,Male,34.0,Single,Master's,89200.0,0,5.0,62.0,7,No,10,Yes,No,2023-11-11
+1111,Finance,Financial Analyst,Female,35.0,Single,Master's,88800.0,7,4.0,32.0,3,No,17,No,No,2017-01-01
+1236,Marketing,Content Strategist,Female,42.0,Married,High School,59500.0,9,5.0,28.0,11,Yes,12,Yes,No,2014-06-14
+1308,Sales,Sales Executive,Male,32.0,Single,Master's,64000.0,0,4.0,66.0,17,No,12,No,No,2023-12-11
+1870,Marketing,Marketing Manager,Male,33.0,Married,Bachelor's,87100.0,3,3.0,23.0,3,No,12,No,No,01/09/2020
+1962,Customer Support,Support Executive,Female,29.0,Divorced,Master's,51900.0,1,2.0,33.0,14,No,16,No,Yes,2022-11-22
+1974,Finance,Finance Manager,Female,47.0,Divorced,Master's,96900.0,0,3.0,50.0,2,No,12,No,No,2023-07-11
+2022,Sales,Account Manager,Female,29.0,Single,High School,82500.0,10,4.0,41.0,11,No,9,No,No,2013-08-02
+2034,Human Resources,Recruiter,Male,29.0,Divorced,Bachelor's,55100.0,6,3.0,46.0,5,No,17,No,No,2017-06-27
+1718,Marketing,Content Strategist,Female,42.0,Single,Bachelor's,56400.0,5,3.0,23.0,1,No,16,Yes,No,2018-05-02
+2352,SALES,Sales Executive,Male,56.0,Married,Master's,69300.0,1,3.0,37.0,17,No,14,No,No,2022-12-20
+1548,IT,IT Manager,Male,40.0,Single,Bachelor's,97700.0,5,4.0,32.0,3,No,10,No,No,2018-07-25
+2307,Marketing,Content Strategist,Female,41.0,Married,Bachelor's,67400.0,7,4.0,36.0,7,No,17,No,No,2016-07-23
+2056,IT,System Administrator,Male,32.0,Married,Master's,79100.0,1,5.0,35.0,11,Yes,15,No,Yes,2022-08-30
+1884,Engineering, Software Engineer  ,Female,34.0,Single,Bachelor's,91400.0,5,5.0,38.0,1,Yes,18,No,No,2018-09-14
+1365,Sales,Account Manager,Male,29.0,Single,Bachelor's,85300.0,1,4.0,52.0,1,No,9,No,No,2022-12-08
+1378,IT,IT Support,Female,35.0,Single,Master's,82700.0,1,5.0,27.0,1,Yes,16,No,No,2022-05-06
+2200,FINANCE,Finance Manager,Female,30.0,Married,Master's,116900.0,8,2.0,54.0,2,No,6,No,Yes,2015-11-13
+2266,Engineering,Senior Engineer,Male,41.0,Divorced,Bachelor's,132400.0,5,2.0,15.0,13,No,9,No,No,2018-06-26
+1813,IT,IT Manager,Female,38.0,Single,Master's,115500.0,0,2.0,50.0,13,No,10,No,No,2023-09-12
+2009,Engineering,Senior Engineer,Male,28.0,Divorced,PhD,170600.0,1,4.0,42.0,19,No,16,No,Yes,2022-07-08
+1704,Human Resources,HR Manager,Male,32.0,Married,Master's,88800.0,14,3.0,24.0,3,No,7,Yes,No,2009-06-30
+1102,IT,IT Support,Male,41.0,Married,Master's,88400.0,5,5.0,29.0,4,No,21,No,N,2018-08-24
+2204,Engineering,Engineering Manager,Male,20.0,Married,Bachelor's,,0,1.0,49.0,3,No,11,No,Yes,2023-07-23
+1782,Operations,Operations Executive,Female,43.0,Divorced,Master's,62200.0,3,3.0,53.0,17,No,10,No,No,2020-11-23
+1221,Engineering,QA Engineer,Male,29.0,Married,Bachelor's,85700.0,4,4.0,44.0,26,No,17,No,Yes,2019-09-27
+1669,Marketing,Content Strategist,Female,26.0,Married,Bachelor's,59100.0,8,4.0,55.0,2,No,10,Yes,No,2015-05-16
+1626,Sales,Account Manager,female,39.0,Single,Master's,100900.0,15,5.0,76.0,6,No,9,Yes,No,2008-07-01
+1933,Finance,Finance Manager,Male,40.0,Divorced,High School,79800.0,5,5.0,64.0,7,No,24,No,No,2018-09-21
+2274,Customer Support,Support Team Lead,Female,39.0,Married,Bachelor's,60300.0,4,4.0,14.0,1,No,15,No,No,2019-10-20
+2292,IT,IT Manager,Female,20.0,Single,PhD,132200.0,2,2.0,35.0,11,No,16,No,No,2021-09-10
+1070,Finance, Accountant  ,male,43.0,Married,High School,59200.0,4,3.0,37.0,3,Yes,6,No,Yes,2019-10-30
+1173,Engineering,Senior Engineer,Male,21.0,Single,PhD,163800.0,0,2.0,7.0,9,No,16,No,Y,2023-09-08
+1433,Sales,Account Manager,Female,43.0,Single,Bachelor's,,3,3.0,48.0,1,No,19,No,No,2020-04-30
+1150,Finance,Accountant,Female,20.0,Single,Bachelor's,64500.0,2,1.0,53.0,7,No,13,No,No,2021-10-23
+1482,Operations,Operations Executive,Male,53.0,Single,High School,49700.0,0,3.0,44.0,1,No,18,No,No,2023-12-02
+1283,Finance,Accountant,Female,31.0,Divorced,Bachelor's,70100.0,4,4.0,56.0,1,No,6,No,No,01/08/2019
+1386,Operations,Operations Manager,Female,53.0,Married,PhD,102600.0,10,2.0,54.0,2,Yes,18,No,No,27/05/2013
+2485,Human Resources,HR Manager,Male,34.0,Single,Bachelor's,80900.0,12,3.0,,7,No,14,No,No,2011-08-19
+1210,Operations,Operations Manager,Female,32.0,Divorced,Bachelor's,81500.0,7,4.0,48.0,4,Yes,13,No,Yes,2016-12-01
+1341,Marketing,Marketing Manager,Male,34.0,Single,Bachelor's,82200.0,1,4.0,36.0,6,No,4,No,No,2022-05-20
+1599,Finance,Financial Analyst,male,31.0,Married,PhD,77400.0,0,4.0,9.0,2,No,12,No,No,2023-07-02
+2152,IT, System Administrator  ,Male,20.0,Divorced,Bachelor's,63900.0,0,5.0,19.0,16,No,10,No,No,2023-06-25
+2333,Engineering,Senior Engineer,Female,27.0,Married,Master's,140100.0,2,3.0,49.0,3,No,8,No,No,2021-07-27
+1339,Customer Support,Support Team Lead,Male,25.0,Married,Master's,64700.0,4,4.0,61.0,8,Yes,12,Yes,No,2019-06-11
+2407,Finance,Finance Manager,Female,45.0,Divorced,Bachelor's,88000.0,3,2.0,31.0,10,Yes,6,No,No,2020-09-12
+1522,ENGINEERING,Senior Engineer,Male,21.0,Divorced,PhD,157200.0,3,4.0,35.0,3,No,16,Yes,No,2020-12-19
+1390,Finance,Financial Analyst,Male,24.0,Divorced,Master's,69100.0,0,4.0,36.0,4,Yes,1,No,No,2023-10-02
+2078,Marketing,Marketing Manager,Female,52.0,Married,High School,83900.0,14,5.0,16.0,9,Yes,23,No,N,2009-04-23
+1036,Finance,Financial Analyst,Female,43.0,Single,Master's,76900.0,0,5.0,38.0,27,Yes,14,No,No,2023-06-05
+1287,Sales,Sales Manager,Male,34.0,Married,Master's,95400.0,2,3.0,66.0,11,No,13,No,N,2021-04-01
+1623,Human Resources,HR Executive,Male,29.0,Divorced,Bachelor's,51600.0,2,4.0,37.0,1,No,3,No,Yes,2021-10-23
+1315,Customer Support,Support Executive,Male,42.0,Divorced,Master's,52100.0,5,4.0,19.0,2,No,16,No,No,2018-07-06
+2032,Finance,Accountant,Male,46.0,Married,Bachelor's,67400.0,2,3.0,29.0,13,No,8,No,No,2021-05-10
+2138,Sales,Account Manager,Male,37.0,Divorced,Bachelor's,80700.0,1,5.0,42.0,1,No,9,No,No,2022-10-11
+1319,IT,IT Manager,Male,30.0,Single,Bachelor's,112400.0,6,2.0,38.0,2,No,10,No,No,2017-04-28
+1775,CUSTOMER SUPPORT,Support Team Lead,Male,30.0,Divorced,High School,59800.0,9,1.0,43.0,1,Yes,3,No,No,2014-03-09
+2256,Marketing,Marketing Executive,Female,39.0,Married,Bachelor's,60700.0,8,1.0,44.0,17,No,14,No,No,2015-07-20
+2261,IT,IT Support,Male,53.0,Single,Bachelor's,69600.0,9,4.0,42.0,4,No,12,No,No,2014-04-14
+1716,Human Resources,HR Executive,Female,31.0,Divorced,Bachelor's,48700.0,1,3.0,57.0,9,No,18,No,No,2022-09-15
+2111,Human Resources,HR Manager,Female,20.0,Married,Master's,74500.0,1,3.0,17.0,7,Yes,14,No,No,2022-04-01
+2478,ENGINEERING,Software Engineer,Male,37.0,Married,Bachelor's,,2,3.0,25.0,1,No,15,No,No,08/05/2021
+1062,IT, IT Manager  ,Male,34.0,Married,Bachelor's,98300.0,3,3.0,35.0,1,No,15,No,No,2020-05-11
+1453,Operations,Operations Manager,Male,34.0,Married,PhD,105400.0,6,5.0,29.0,8,No,13,Yes,No,2017-04-08
+1631,Human Resources,Recruiter,Male,39.0,Divorced,Bachelor's,51300.0,8,3.0,62.0,5,Yes,16,No,No,2015-10-28
+2213,Customer Support,Support Team Lead,Female,46.0,Divorced,Master's,63300.0,0,2.0,47.0,11,No,17,No,No,2023-12-18
+1163,Operations,Operations Executive,Female,30.0,Married,PhD,73600.0,5,4.0,55.0,2,Yes,12,No,No,2018-11-25
+2010,OPERATIONS,Operations Executive,Male,21.0,Single,Master's,65700.0,1,5.0,30.0,19,No,12,No,No,2022-10-15
+2169,Marketing,Marketing Executive,Female,47.0,Divorced,Master's,72500.0,11,3.0,19.0,3,No,13,No,No,2012-03-09
+1729,Customer Support,Support Executive,Male,40.0,Married,High School,37200.0,3,5.0,28.0,2,No,11,No,No,2020-12-30
+1876,Engineering,QA Engineer,Female,45.0,Divorced,Bachelor's,81800.0,1,4.0,30.0,2,No,5,No,N,03/11/2022
+1358,Marketing,Marketing Manager,Male,50.0,Single,Master's,99500.0,10,2.0,34.0,12,No,13,No,No,2013-05-14
+1254,Customer Support,Support Team Lead,Male,0.0,Single,Master's,71900.0,1,4.0,5.0,4,No,10,Yes,Yes,2022-06-03
+1097,Engineering,Software Engineer,Male,32.0,Divorced,Bachelor's,110400.0,14,4.0,26.0,13,No,9,No,No,2009-08-03
+1245,Customer Support,Support Team Lead,Female,35.0,Divorced,Master's,64200.0,2,3.0,10.0,8,Yes,14,No,Yes,2021-06-13
+1114,Human Resources,HR Manager,Male,42.0,Divorced,PhD,93000.0,2,2.0,42.0,7,No,22,No,No,2021-12-01
+2431,Human Resources,HR Manager,Male,49.0,Divorced,High School,61000.0,1,3.0,39.0,2,No,15,No,Yes,2022-07-13
+1745,Finance,Accountant,Male,20.0,Divorced,Bachelor's,60700.0,2,3.0,40.0,5,No,14,No,No,2021-06-29
+2110,Operations,Operations Manager,Female,31.0,Divorced,Bachelor's,81300.0,3,3.0,54.0,3,No,14,Yes,No,2020-03-21
+1137,Operations,Operations Executive,Female,37.0,Married,Bachelor's,56900.0,4,4.0,54.0,1,No,11,No,No,2019-12-13
+1013,Operations,Operations Executive,Female,38.0,Divorced,Master's,66000.0,7,3.0,63.0,5,No,10,Yes,No,2016-08-03
+1392,Marketing,Marketing Manager,Female,36.0,Single,Bachelor's,86900.0,1,1.0,41.0,29,Yes,18,No,Yes,11/10/2022
+2188,Customer Support,Support Executive,Male,45.0,Divorced,Bachelor's,42300.0,3,3.0,34.0,1,No,10,No,No,2020-11-26
+2348,Finance,Accountant,Male,34.0,Married,Master's,71000.0,2,3.0,57.0,10,No,16,No,No,2021-05-19
+1506,Finance,Finance Manager,Female,,Single,Master's,121800.0,6,3.0,25.0,4,Yes,24,No,No,2017-03-14
+1493,Finance,Finance Manager,Female,38.0,Divorced,Master's,108100.0,0,5.0,16.0,3,No,14,Yes,No,2023-03-12
+1294,Sales, Sales Executive  ,Male,38.0,Single,Bachelor's,52300.0,2,5.0,33.0,2,No,9,No,No,2021-06-01
+1207,Finance,Financial Analyst,Female,36.0,Divorced,Master's,80000.0,3,4.0,45.0,16,No,10,Yes,N,2020-03-19
+1807,Finance,Financial Analyst,Male,36.0,Divorced,Bachelor's,63800.0,0,2.0,34.0,3,Yes,16,No,No,2023-07-12
+2449,Marketing,Content Strategist,Female,36.0,Married,PhD,93200.0,11,4.0,34.0,1,No,16,No,No,23/03/2012
+1714,Sales,Sales Executive,Male,42.0,Married,Bachelor's,56300.0,8,2.0,21.0,8,Yes,7,Yes,No,2015-04-25
+1817,Human Resources, HR Manager  ,Female,20.0,Single,High School,64900.0,0,2.0,70.0,16,No,13,No,Yes,2023-08-26
+1080,Sales,Sales Executive,Male,47.0,Single,Master's,70400.0,2,5.0,43.0,12,No,3,No,No,2021-11-16
+1883,Human Resources,HR Manager,Male,44.0,Married,Master's,81200.0,0,3.0,,4,No,8,No,No,2023-08-09
+2026,Marketing,Marketing Executive,Male,43.0,Married,,80600.0,0,2.0,61.0,5,No,7,No,No,2023-10-06
+1401,Customer Support,Support Team Lead,male,27.0,Divorced,Bachelor's,64200.0,0,4.0,71.0,6,No,12,No,No,2023-12-28
+1158,Human Resources,Recruiter,Female,24.0,Single,Bachelor's,56600.0,6,3.0,45.0,2,No,10,No,No,2017-07-28
+1492,Sales,Account Manager,Male,41.0,Divorced,Bachelor's,71700.0,1,5.0,25.0,4,Yes,17,No,No,2022-09-26
+2384,Human Resources,HR Manager,Female,25.0,Divorced,Master's,85400.0,1,2.0,27.0,1,No,14,No,No,26/12/2022
+1726,Finance,Finance Manager,Male,44.0,Single,Master's,115300.0,2,4.0,57.0,22,No,9,No,No,2021-05-09
+1681,Finance,Accountant,Female,41.0,Divorced,PhD,98400.0,14,2.0,48.0,15,Yes,13,No,Yes,2009-03-17
+1402,Human Resources,Recruiter,Male,20.0,Divorced,Bachelor's,47100.0,2,4.0,52.0,4,Yes,9,No,Yes,2021-06-20
+2181,Engineering,Engineering Manager,Male,30.0,Single,Bachelor's,132000.0,3,3.0,49.0,3,No,6,No,No,2020-05-24
+1180,Sales,Sales Manager,Female,28.0,Single,Master's,85700.0,2,3.0,28.0,6,No,11,No,No,2021-09-26
+1922,Marketing,Marketing Executive,Male,42.0,Divorced,Master's,66200.0,0,4.0,32.0,1,Yes,7,No,No,2023-06-11
+1079,IT,IT Manager,Male,40.0,Divorced,Bachelor's,97800.0,6,2.0,60.0,1,No,5,No,No,2017-08-18
+1987,Finance,Finance Manager,Female,29.0,Married,Bachelor's,103800.0,5,2.0,49.0,6,No,15,No,No,2018-07-08
+2433,Engineering,Software Engineer,Female,28.0,Married,Bachelor's,83700.0,0,3.0,57.0,12,Yes,20,No,No,2023-04-02
+2117,Marketing,Marketing Manager,Female,52.0,Divorced,Master's,100600.0,2,4.0,45.0,5,No,13,Yes,No,2021-12-29
+1737,Sales,Sales Manager,Female,54.0,Divorced,Master's,84700.0,1,3.0,48.0,1,No,14,No,N,2022-07-08
+1695,Marketing,Marketing Executive,Female,28.0,Divorced,PhD,68900.0,0,2.0,47.0,10,No,11,No,N,2023-09-01
+1320,Customer Support,Support Executive,Female,41.0,Divorced,Master's,59900.0,12,5.0,53.0,2,No,9,No,No,2011-10-07
+1485,OPERATIONS,Operations Executive,Female,37.0,Married,Bachelor's,63700.0,11,3.0,46.0,7,Yes,15,No,No,2012-03-26
+1199,IT,IT Support,Female,35.0,Married,High School,67200.0,2,,20.0,4,Yes,14,No,No,2021-08-06
+2129,Marketing,Marketing Executive,Male,31.0,Divorced,Master's,74600.0,7,5.0,52.0,17,No,19,Yes,Yes,2016-03-23
+1818,Marketing,Content Strategist,Female,44.0,Divorced,Master's,61500.0,0,3.0,33.0,3,No,9,No,Yes,2023-03-29
+1712,Marketing,Marketing Executive,Male,30.0,Married,PhD,82700.0,0,3.0,59.0,3,No,9,No,No,2023-08-20
+1621,SALES,Sales Executive,Female,25.0,Married,Master's,66600.0,5,3.0,58.0,11,No,2,No,No,2018-11-13
+2047,IT,IT Manager,Male,38.0,Single,PhD,119600.0,2,3.0,43.0,5,No,12,No,No,2021-10-31
+1439,Operations,Operations Executive,Male,33.0,Divorced,Bachelor's,64700.0,14,4.0,31.0,8,No,7,Yes,No,2009-06-19
+2473,Marketing,Content Strategist,Male,22.0,Single,Bachelor's,59800.0,0,3.0,46.0,9,No,12,No,No,2023-11-28
+1134,Operations,Operations Manager,Female,34.0,Single,Master's,92400.0,8,3.0,72.0,2,No,14,No,No,2015-12-06
+2143,Customer Support,Support Team Lead,Male,27.0,Single,High School,55200.0,0,3.0,18.0,5,Yes,7,No,No,2023-06-23
+1815,Operations,Operations Manager,Male,30.0,Married,High School,64500.0,5,3.0,40.0,4,No,13,No,No,2018-04-23
+1647,IT, System Administrator  ,Male,45.0,Divorced,High School,62900.0,2,4.0,60.0,4,No,12,No,No,2021-12-19
+1863,Engineering,QA Engineer,Male,47.0,Divorced,Bachelor's,76600.0,0,5.0,32.0,1,No,7,No,No,2023-11-17
+1900,Customer Support,Support Executive,Female,38.0,Single,Master's,53900.0,10,2.0,25.0,18,Yes,16,No,Yes,2013-10-27
+1408,Sales,Account Manager,Female,45.0,Single,High School,70200.0,0,4.0,39.0,1,No,18,No,Y,2023-11-08
+1155,Customer Support,Support Executive,Female,43.0,Divorced,Bachelor's,50500.0,14,4.0,36.0,7,No,16,No,No,2009-06-20
+2030,Operations,Operations Executive,Male,27.0,Married,Master's,64900.0,0,3.0,66.0,19,Yes,15,No,Yes,2023-04-06
+1279,Sales,Sales Executive,Female,44.0,Married,Master's,68400.0,1,5.0,48.0,5,No,16,Yes,No,2022-11-17
+1795,Engineering,Software Engineer,Female,43.0,Divorced,Bachelor's,94300.0,1,3.0,35.0,25,No,8,No,Yes,06/12/2022
+1116,Engineering,Engineering Manager,Female,24.0,Married,Master's,142900.0,4,4.0,42.0,20,No,12,No,No,2019-05-27
+2233,Marketing, Marketing Executive  ,Male,41.0,Married,Bachelor's,62000.0,4,4.0,39.0,4,No,12,No,No,2019-07-23
+1597,FINANCE,Financial Analyst,Male,25.0,Single,Master's,83200.0,4,4.0,51.0,1,No,16,No,No,2019-07-31
+2349,IT,System Administrator,Male,41.0,Divorced,Bachelor's,81300.0,14,3.0,67.0,7,No,15,No,No,2009-03-19
+1209,Finance,Finance Manager,Female,49.0,Single,High School,84500.0,0,3.0,22.0,45,No,16,No,No,2023-12-03
+1719,Operations, Operations Manager  ,Female,22.0,Divorced,High School,61800.0,2,5.0,48.0,1,No,9,No,N,2021-03-16
+1586,Human Resources,Recruiter,Female,24.0,Divorced,PhD,74500.0,6,3.0,37.0,2,No,11,No,No,2017-11-13
+2033,HUMAN RESOURCES,Recruiter,Male,27.0,Married,High School,50500.0,3,3.0,30.0,2,Yes,11,No,No,2020-08-19
+2247,Sales,Account Manager,Male,20.0,Married,Bachelor's,85500.0,1,3.0,29.0,1,Yes,15,No,Y,2022-07-19
+1469,Operations,Operations Executive,Female,33.0,Divorced,Master's,63800.0,3,3.0,35.0,2,No,11,No,No,2020-05-24
+2287,Finance,Accountant,Male,20.0,Divorced,Bachelor's,61900.0,2,3.0,60.0,29,Yes,14,No,Yes,2021-05-05
+1540,Human Resources, Recruiter  ,Female,36.0,Married,Master's,56600.0,1,5.0,47.0,2,No,12,No,No,2022-08-07
+1836,Customer Support,Support Team Lead,Female,39.0,Single,Bachelor's,61400.0,1,1.0,42.0,1,No,11,No,Y,2022-05-09
+1529,Engineering,QA Engineer,Male,38.0,Single,PhD,106800.0,1,4.0,35.0,1,No,13,Yes,No,2022-04-20
+1240,IT,IT Support,Female,34.0,Single,Bachelor's,72700.0,9,3.0,33.0,16,Yes,16,No,Yes,2014-10-17
+2437,Human Resources,HR Executive,male,59.0,Divorced,Master's,70700.0,13,5.0,47.0,4,Yes,10,No,No,2010-05-29
+2297,Operations,Operations Manager,Male,59.0,Single,Master's,89900.0,12,3.0,41.0,6,Yes,10,No,No,2011-08-23
+2073,Finance,Financial Analyst,Male,38.0,,Bachelor's,66000.0,1,3.0,25.0,6,No,12,No,No,2022-09-25
+1458,IT,System Administrator,male,20.0,Married,Master's,87600.0,2,4.0,32.0,1,No,4,No,No,2021-04-12
+1420,Marketing,Marketing Executive,male,41.0,Divorced,Bachelor's,58000.0,5,3.0,41.0,2,Yes,16,No,No,2018-10-10
+1264,Operations, Operations Manager  ,Female,51.0,Married,Bachelor's,84300.0,6,4.0,27.0,3,Yes,13,No,N,2017-09-12
+2104,Operations,Operations Executive,Male,39.0,Married,Bachelor's,53700.0,8,3.0,15.0,6,No,7,Yes,No,2015-05-30
+1920,Marketing, Marketing Executive  ,Female,24.0,Single,Master's,74800.0,6,3.0,53.0,17,No,13,No,No,2017-09-23
+2084,IT,IT Manager,Female,41.0,Married,High School,90300.0,3,3.0,38.0,3,No,16,No,No,2020-05-28
+1947,IT,IT Support,Female,31.0,Single,Bachelor's,75900.0,2,4.0,19.0,11,No,13,Yes,No,2021-12-26
+1906,Human Resources,HR Executive,Male,40.0,Married,Master's,64000.0,8,3.0,27.0,16,Yes,10,No,No,2015-08-12
+1431,Operations,Operations Executive,Male,34.0,Single,Bachelor's,50000.0,2,2.0,50.0,12,No,9,No,No,2021-10-17
+1203,IT,IT Manager,Male,35.0,Single,PhD,115100.0,0,3.0,10.0,34,Yes,12,No,Yes,2023-08-18
+1184,Marketing,Marketing Executive,Male,34.0,Divorced,Bachelor's,64000.0,6,3.0,26.0,3,No,12,No,No,2017-06-15
+1178,Operations,Operations Manager,Male,41.0,Married,Bachelor's,86900.0,9,4.0,25.0,1,No,13,No,No,2014-07-11
+1937,Engineering,QA Engineer,Female,28.0,Married,Bachelor's,94600.0,1,4.0,37.0,7,No,9,Yes,No,2022-03-15
+2439,Human Resources,HR Executive,Male,35.0,Married,Master's,61300.0,0,4.0,44.0,2,No,15,No,No,2023-10-23
+2193,Sales,Sales Executive,Male,26.0,Married,Master's,63600.0,0,3.0,52.0,2,Yes,8,No,No,2023-05-30
+2463,Human Resources,HR Executive,Male,20.0,Divorced,Bachelor's,,2,4.0,31.0,1,No,11,Yes,No,2021-11-21
+2226,Sales,Sales Executive,Female,36.0,Married,Bachelor's,53400.0,1,1.0,30.0,1,No,12,No,No,2022-06-08
+1083,Operations,Operations Manager,Male,23.0,Married,Bachelor's,67400.0,0,4.0,50.0,1,No,7,Yes,No,2023-03-26
+1860,Sales, Account Manager  ,Male,35.0,Married,Bachelor's,85600.0,3,3.0,60.0,7,Yes,10,No,No,2020-12-18
+1159,IT,IT Manager,Male,36.0,Married,High School,,4,4.0,17.0,1,No,10,No,No,2019-07-17
+1086,Marketing, Content Strategist  ,Female,33.0,Married,Bachelor's,59800.0,2,3.0,38.0,12,Yes,12,No,No,2021-04-16
+1154,Finance,Finance Manager,Male,27.0,Single,Bachelor's,88600.0,1,4.0,10.0,9,No,7,No,No,2022-04-08
+2179,Marketing,Marketing Executive,Female,44.0,Married,Bachelor's,62000.0,3,4.0,50.0,4,Yes,11,No,No,2020-06-22
+1885,Operations, Operations Manager  ,Female,25.0,Married,Bachelor's,82300.0,7,5.0,47.0,1,Yes,12,No,No,09/09/2016
+1634,Operations,Operations Manager,Female,34.0,Married,Master's,92800.0,15,3.0,31.0,1,Yes,15,No,No,2008-12-11
+1126,Marketing,Marketing Manager,Female,36.0,Married,Bachelor's,88400.0,1,3.0,37.0,2,Yes,14,No,No,2022-11-06
+1523,Customer Support,Support Executive,Female,49.0,Divorced,Bachelor's,39400.0,0,3.0,35.0,24,No,13,No,No,2023-06-17
+1824,ENGINEERING,Senior Engineer,Female,34.0,Divorced,PhD,160000.0,5,4.0,28.0,28,No,12,No,No,2018-06-21
+2328,Sales,Sales Executive,Female,20.0,Divorced,Bachelor's,53900.0,0,4.0,48.0,5,No,12,No,No,2023-04-03
+2142,SALES,Sales Executive,Female,23.0,Single,Bachelor's,53800.0,0,5.0,54.0,7,No,17,Yes,N,2023-07-26
+1620,Finance,Financial Analyst,Male,42.0,Divorced,Master's,79800.0,12,5.0,34.0,11,No,11,No,No,2011-06-05
+1976,Finance,Finance Manager,Female,40.0,Married,PhD,121900.0,2,4.0,31.0,4,Yes,13,No,Y,2021-07-27
+2008,Operations,Operations Executive,Male,38.0,Single,Bachelor's,70700.0,17,4.0,34.0,4,No,6,Yes,No,2006-05-20
+1711,Engineering,Engineering Manager,Male,31.0,Married,Bachelor's,9999999.0,0,3.0,38.0,23,Yes,13,No,Yes,2023-10-21
+1949,Customer Support,Support Executive,Male,40.0,Married,Bachelor's,49800.0,6,4.0,16.0,17,No,18,No,No,2017-08-31
+1739,Operations,Operations Executive,Female,35.0,Married,Master's,55300.0,1,3.0,51.0,10,No,10,No,No,2022-05-05
+1354,Finance,Finance Manager,Male,27.0,Divorced,Master's,120100.0,9,5.0,54.0,1,No,4,Yes,No,2014-03-24
+2054,ENGINEERING,QA Engineer,Male,39.0,Divorced,Bachelor's,95500.0,8,2.0,11.0,6,No,10,No,N,2015-05-25
+1848,Marketing,Marketing Executive,female,42.0,Single,Master's,68800.0,8,4.0,41.0,3,Yes,12,Yes,No,2015-06-25
+1967,IT,IT Manager,Male,28.0,Divorced,Bachelor's,98100.0,1,4.0,23.0,1,No,17,No,Yes,2022-05-02
+1524,Operations,Operations Manager,Male,23.0,Single,Bachelor's,77000.0,4,2.0,21.0,6,No,14,No,No,2019-09-21
+2167,Engineering,QA Engineer,Female,29.0,Single,Master's,115400.0,8,3.0,47.0,7,Yes,7,No,Yes,2015-10-17
+1907,Marketing,Content Strategist,Male,29.0,Married,High School,54400.0,3,3.0,47.0,7,Yes,12,No,No,2020-04-04
+2434,Sales,Sales Manager,Female,20.0,Married,Master's,89400.0,2,3.0,16.0,3,No,17,No,N,2021-07-16
+1286,IT,System Administrator,Male,38.0,Single,Bachelor's,75500.0,8,3.0,23.0,1,Yes,11,No,Yes,2015-12-14
+1738,Operations,Operations Manager,Male,20.0,Married,Bachelor's,77500.0,2,3.0,48.0,10,No,11,No,No,2021-07-12
+2092,Human Resources,HR Executive,Male,51.0,Married,High School,44100.0,2,3.0,39.0,6,No,17,No,No,2021-06-19
+1779,Finance,Finance Manager,Female,30.0,Divorced,Bachelor's,104000.0,12,3.0,25.0,35,No,6,No,No,2011-11-03
+1484,Operations,Operations Executive,Male,35.0,Married,Bachelor's,,5,4.0,29.0,1,No,14,No,No,2018-08-05
+1837,Operations,Operations Manager,Male,24.0,Married,Bachelor's,74200.0,6,3.0,44.0,2,Yes,15,No,No,2017-10-07
+1964,Operations,Operations Manager,Female,24.0,Single,Bachelor's,,6,4.0,21.0,13,No,13,No,No,2017-12-17
+1376,ENGINEERING,QA Engineer,Female,35.0,Single,Bachelor's,89600.0,7,3.0,12.0,1,Yes,11,Yes,No,2016-04-09
+1842,Engineering,Senior Engineer,Male,32.0,Married,Bachelor's,122700.0,0,4.0,39.0,23,No,13,Yes,Yes,2023-03-30
+1299,Sales,Sales Manager,Male,29.0,Divorced,Master's,85500.0,0,4.0,28.0,11,No,6,No,No,2023-06-01
+1827,Marketing,Marketing Executive,Male,20.0,Single,Master's,69000.0,0,2.0,6.0,13,No,10,No,Yes,2023-06-05
+2273,Finance,Finance Manager,Male,,Divorced,High School,85300.0,0,3.0,33.0,6,Yes,10,No,Yes,2023-07-31
+2330,Engineering,Engineering Manager,Female,28.0,Married,High School,117900.0,1,3.0,46.0,3,No,14,No,No,25/11/2022
+2288,Finance,Finance Manager,Male,28.0,Divorced,Master's,100100.0,2,3.0,33.0,8,No,15,No,No,2021-07-11
+1946,Sales,Sales Manager,Male,41.0,Divorced,Bachelor's,78300.0,1,3.0,54.0,4,Yes,10,No,Yes,2022-05-14
+1899,Marketing,Marketing Executive,Female,47.0,Divorced,Bachelor's,60500.0,2,4.0,33.0,1,No,10,No,No,2021-07-25
+1306,Sales,Sales Manager,Female,24.0,Single,Master's,86000.0,4,4.0,42.0,5,No,12,Yes,No,2019-12-27
+2416,Marketing,Content Strategist,Male,26.0,Married,,63400.0,0,1.0,41.0,6,No,5,No,Yes,2024-01-01
+2044,HUMAN RESOURCES, HR Manager  ,Female,48.0,Married,Master's,86600.0,3,1.0,17.0,1,No,15,Yes,No,2020-04-22
+1044,Marketing,Marketing Manager,Male,31.0,Married,High School,80500.0,3,3.0,48.0,1,No,6,No,N,2020-05-20
+1122,Marketing,Content Strategist,Male,39.0,Divorced,Bachelor's,66900.0,16,4.0,28.0,45,No,11,Yes,No,2007-08-22
+2161,Finance,Finance Manager,Male,26.0,Married,Master's,104700.0,0,4.0,15.0,12,No,10,No,No,2023-09-14
+2068,Operations,Operations Executive,Male,36.0,Married,Master's,71700.0,8,3.0,36.0,18,Yes,13,No,No,2015-05-07
+1715,Sales,Sales Manager,Male,26.0,Married,Master's,99800.0,4,3.0,34.0,3,Yes,10,Yes,No,2019-07-08
+2299,Human Resources,HR Manager,Male,29.0,Single,Bachelor's,81100.0,11,4.0,38.0,1,No,11,No,No,2012-11-18
+1697,Sales,Sales Manager,Female,29.0,Single,PhD,110000.0,0,3.0,44.0,2,No,11,No,No,2023-05-22
+2475,Engineering,Senior Engineer,Female,32.0,Married,Bachelor's,130400.0,0,3.0,19.0,7,No,19,No,Yes,2023-12-03
+2382,IT,System Administrator,male,46.0,Married,Bachelor's,,2,1.0,29.0,14,Yes,15,No,No,2021-08-12
+1574,Operations,Operations Executive,Female,30.0,Divorced,Bachelor's,58000.0,1,5.0,41.0,8,No,10,No,No,2022-06-27
+2417,Sales,Account Manager,Female,44.0,,Bachelor's,77600.0,4,5.0,47.0,2,No,14,No,No,2019-08-09
+2251,Engineering,Software Engineer,Female,48.0,Single,Bachelor's,93800.0,5,4.0,,19,No,12,No,No,2018-06-25
+1471,Engineering,Engineering Manager,Male,20.0,Married,Bachelor's,127400.0,2,,11.0,9,No,12,Yes,No,2021-05-26
+1292,Marketing,Content Strategist,Male,35.0,Single,Master's,76900.0,4,4.0,38.0,2,No,9,Yes,No,2019-03-18
+1699,Human Resources,HR Executive,Female,37.0,Divorced,Bachelor's,57300.0,3,3.0,39.0,11,No,12,No,No,2020-12-18
+1624,IT,IT Support,Female,28.0,Divorced,Bachelor's,64600.0,2,3.0,36.0,3,Yes,15,No,No,2021-07-15
+1034,Sales,Sales Manager,Female,28.0,Married,Bachelor's,85500.0,1,2.0,53.0,7,No,11,No,No,2022-12-12
+1686,SALES,Account Manager,Male,43.0,Divorced,Bachelor's,80500.0,5,3.0,45.0,1,No,14,No,No,2018-07-23
+1001,Human Resources,HR Executive,Female,39.0,Single,Bachelor's,55600.0,6,2.0,37.0,1,No,13,Yes,No,2017-05-31
+1939,Marketing,Content Strategist,Male,36.0,Divorced,Bachelor's,57600.0,0,3.0,45.0,2,Yes,2,No,Yes,2023-08-12
+2160,Sales,Sales Manager,Male,20.0,Married,PhD,95000.0,2,2.0,32.0,4,No,14,No,No,2021-11-02
+2383,FINANCE,Financial Analyst,Male,46.0,Single,Master's,78500.0,8,3.0,36.0,9,No,7,No,No,2015-11-10
+1898,Marketing,Marketing Executive,male,27.0,Divorced,Bachelor's,63800.0,3,3.0,49.0,1,Yes,8,No,No,2020-08-27
+1226,Customer Support,Support Team Lead,Male,23.0,Single,Master's,70800.0,0,4.0,34.0,1,Yes,13,No,No,2023-06-02
+2351,Finance,Accountant,Male,33.0,Married,Bachelor's,62800.0,0,4.0,30.0,6,No,15,No,No,2023-06-04
+2215,Engineering,QA Engineer,Female,20.0,Divorced,PhD,103000.0,2,1.0,45.0,3,No,15,No,No,2021-09-25
+2409,IT,IT Manager,Female,45.0,Divorced,PhD,138400.0,8,3.0,50.0,1,No,15,No,No,2015-08-29
+1244,IT,IT Support,Male,35.0,Single,Bachelor's,66200.0,0,3.0,47.0,4,Yes,12,No,Yes,2023-11-23
+1267,Finance, Accountant  ,Male,33.0,Married,Master's,81900.0,7,4.0,44.0,14,No,15,Yes,Yes,2016-11-19
+1886,Sales,Sales Executive,Female,40.0,Divorced,Master's,64900.0,0,3.0,51.0,13,No,9,Yes,No,2023-06-15
+1787,Finance,Finance Manager,Female,35.0,Single,Master's,99600.0,0,4.0,48.0,4,Yes,16,Yes,Yes,2023-08-22
+2419,Engineering,Engineering Manager,Female,47.0,Married,Bachelor's,131600.0,14,3.0,12.0,5,No,12,No,No,2009-10-21
+1945,Engineering,QA Engineer,Male,45.0,Single,Bachelor's,98400.0,5,3.0,37.0,1,Yes,10,No,No,2018-08-11
+2073,Finance,Financial Analyst,Male,38.0,,Bachelor's,66000.0,1,3.0,25.0,6,No,12,No,No,2022-09-25
+2229,Human Resources,Recruiter,Male,20.0,Divorced,,47300.0,0,4.0,59.0,6,No,14,No,No,2023-04-08
+2127,HUMAN RESOURCES,Recruiter,Female,43.0,Divorced,Bachelor's,53700.0,3,4.0,58.0,1,No,17,No,No,2020-12-28
+2091,Finance,Accountant,Female,23.0,Single,Bachelor's,76500.0,5,3.0,31.0,1,Yes,6,No,No,2018-05-15
+1810,Finance,Financial Analyst,Female,49.0,Married,Master's,75500.0,1,4.0,52.0,17,No,4,Yes,No,2022-08-11
+1023,Human Resources,HR Executive,Male,45.0,Married,Bachelor's,53100.0,1,3.0,51.0,3,No,17,Yes,No,2022-06-16
+1464,Marketing,Content Strategist,Female,22.0,Married,Bachelor's,66000.0,3,3.0,55.0,5,No,3,No,No,2020-10-08
+2357,Operations,Operations Manager,Female,27.0,Divorced,Bachelor's,77700.0,7,2.0,24.0,2,Yes,13,No,No,03/11/2016
+2375,Finance,Financial Analyst,Male,31.0,Married,Master's,71800.0,0,3.0,50.0,6,No,14,No,No,09/07/2023
+1753,Finance,Accountant,Male,42.0,Divorced,Bachelor's,67700.0,3,3.0,18.0,11,No,8,No,No,2020-08-09
+2278,Engineering,Engineering Manager,Male,35.0,Married,Master's,158300.0,6,4.0,54.0,4,No,7,Yes,No,2017-04-12
+1728,Sales, Sales Executive  ,Male,29.0,Divorced,Master's,67300.0,5,3.0,28.0,8,No,17,No,No,2018-08-20
+1854,Operations,Operations Executive,Male,27.0,Married,Master's,70300.0,5,2.0,40.0,12,No,15,No,Yes,2018-04-19
+1657,Customer Support,Support Executive,Female,41.0,Single,High School,36700.0,0,4.0,27.0,12,Yes,5,No,N,2023-07-28
+1865,Sales,Sales Executive,Female,27.0,Divorced,High School,56400.0,8,2.0,51.0,1,No,14,No,No,2015-05-28
+1470,Marketing,Marketing Manager,Male,29.0,Married,Bachelor's,77800.0,1,2.0,41.0,6,No,13,No,Yes,2023-01-01
+1983,IT,IT Support,Male,20.0,Divorced,High School,66100.0,2,3.0,70.0,17,No,8,No,No,2021-08-12
+1162,Marketing,Marketing Manager,Male,34.0,Married,Bachelor's,85400.0,1,3.0,0.0,7,No,8,No,No,2022-07-06
+2399,Human Resources,HR Manager,Female,21.0,Single,Bachelor's,77200.0,3,3.0,9.0,1,No,6,No,No,2020-06-13
+1877,Operations,Operations Executive,Male,34.0,Divorced,Bachelor's,48300.0,2,5.0,43.0,9,Yes,10,No,No,2021-10-11
+1898,Marketing,Marketing Executive,male,27.0,Divorced,Bachelor's,63800.0,3,3.0,49.0,1,Yes,8,No,No,2020-08-27
+2089,Finance,Accountant,Female,36.0,Married,PhD,78200.0,1,4.0,60.0,1,No,13,No,No,2022-07-22
+1988,IT,System Administrator,Male,46.0,Divorced,Master's,85500.0,2,3.0,48.0,10,No,5,No,No,2021-12-27
+1929,IT,IT Support,Male,33.0,Single,High School,75700.0,10,2.0,44.0,3,No,12,No,No,2013-08-13
+1860,Sales, Account Manager  ,Male,35.0,Married,Bachelor's,85600.0,3,3.0,60.0,7,Yes,10,No,No,2020-12-18
+1968,Customer Support,Support Team Lead,Female,26.0,Divorced,Bachelor's,60900.0,4,4.0,63.0,1,No,4,Yes,No,2019-07-01
+2228,Engineering,QA Engineer,Male,48.0,Single,Master's,110600.0,7,1.0,9.0,10,No,7,No,No,2016-08-13
+1527,Sales,Account Manager,Male,25.0,Single,Bachelor's,,2,5.0,43.0,3,No,12,No,No,2021-03-22
+1997,Operations,Operations Executive,Female,28.0,Married,Master's,57200.0,0,3.0,32.0,12,No,13,No,Yes,2023-10-30
+2466,Customer Support,Support Executive,Female,37.0,Married,,57200.0,6,4.0,40.0,1,Yes,3,Yes,No,2017-07-06
+2457,IT,IT Support,male,53.0,Married,PhD,86500.0,2,4.0,42.0,1,No,17,No,No,2021-11-01
+2249,Marketing,Content Strategist,Male,24.0,Divorced,Master's,78900.0,6,2.0,27.0,4,No,11,No,No,2017-05-19
+2234,Human Resources,HR Executive,Male,20.0,Single,Bachelor's,51000.0,2,3.0,23.0,1,No,11,No,No,2021-03-16
+1689,Finance, Financial Analyst  ,Male,38.0,Married,High School,58500.0,2,4.0,40.0,3,No,1,No,No,2021-04-28
+2428,Customer Support,Support Team Lead,Male,30.0,Married,Master's,62700.0,0,3.0,36.0,12,Yes,18,No,No,2023-05-02
+1307,Sales,Sales Executive,Male,34.0,Divorced,Master's,81100.0,16,3.0,46.0,8,No,7,No,No,2007-11-28
+1683,Operations,Operations Manager,Male,35.0,Married,Master's,93600.0,3,4.0,37.0,3,No,13,No,No,2020-07-25
+1170,FINANCE,Financial Analyst,Female,31.0,Married,Master's,74400.0,6,3.0,12.0,7,Yes,15,No,No,2017-03-26
+2391,Sales,Sales Manager,Male,37.0,Married,Master's,83000.0,0,4.0,52.0,1,No,12,No,No,2023-04-02
+1355,Engineering,Engineering Manager,male,53.0,Divorced,Bachelor's,121900.0,3,3.0,26.0,40,No,13,No,Y,2020-07-14
+2476,IT,IT Support,Male,41.0,Single,Bachelor's,64400.0,3,4.0,62.0,4,No,15,No,No,2020-08-12
+1414,Marketing,Marketing Executive,Male,29.0,Married,Master's,71500.0,11,5.0,17.0,1,Yes,12,Yes,No,2012-11-29
+1963,Finance,Financial Analyst,Male,43.0,Single,Master's,80600.0,13,3.0,41.0,1,No,15,No,No,2010-08-04
+1231,Operations,Operations Executive,Male,35.0,Divorced,Master's,63400.0,0,1.0,28.0,2,No,16,No,No,2023-04-19
+2071,Human Resources,HR Executive,Female,36.0,Single,Bachelor's,48600.0,5,5.0,39.0,4,Yes,10,Yes,No,2018-11-26
+1241,IT,System Administrator,Male,37.0,Married,High School,65000.0,7,5.0,44.0,1,No,7,Yes,No,2016-09-29
+1400,Finance,Financial Analyst,Male,32.0,Divorced,Master's,75400.0,1,3.0,44.0,1,No,14,No,Yes,2022-09-14
+2272,Customer Support,Support Executive,male,39.0,Single,Master's,45900.0,0,4.0,,1,Yes,7,No,No,2023-10-20
+1206,Finance,Financial Analyst,Female,29.0,Divorced,Bachelor's,71900.0,2,3.0,48.0,14,No,8,No,No,2021-04-01
+2396,Sales,Sales Manager,Male,48.0,Divorced,Bachelor's,77700.0,1,3.0,43.0,4,No,19,No,Yes,2022-07-20
+2133,Human Resources,HR Executive,Male,23.0,Divorced,Bachelor's,56400.0,5,2.0,26.0,8,No,10,No,Yes,2018-04-27
+2244,FINANCE,Finance Manager,Female,37.0,Married,Bachelor's,100800.0,5,3.0,42.0,21,No,11,No,No,2018-09-22
+2006,Sales,Sales Manager,Male,39.0,Divorced,Bachelor's,80900.0,1,1.0,50.0,1,No,11,No,Yes,2022-10-31
+1291,Marketing,Marketing Executive,Male,20.0,Divorced,Master's,74200.0,2,5.0,53.0,1,No,12,Yes,No,2021-05-27
+1002,Sales,Sales Executive,Male,44.0,Divorced,Bachelor's,54200.0,6,4.0,31.0,1,Yes,9,No,No,2017-09-12
+1329,Marketing, Content Strategist  ,Male,,Divorced,Bachelor's,63300.0,6,2.0,48.0,8,No,11,Yes,No,2018-01-01
+2465,OPERATIONS,Operations Manager,Female,45.0,Married,,74900.0,0,3.0,38.0,11,No,13,No,No,2023-09-18
+1927,ENGINEERING,QA Engineer,Male,37.0,Married,Bachelor's,97900.0,7,4.0,58.0,1,No,16,No,No,2016-09-06
+1404,Operations,Operations Executive,Male,38.0,Single,Master's,66300.0,1,3.0,40.0,2,No,13,No,No,2022-04-01
+2013,Finance, Accountant  ,Male,30.0,,Master's,78700.0,7,5.0,,11,No,9,No,No,2016-03-08
+1262,IT,System Administrator,Male,46.0,Divorced,Master's,75800.0,2,4.0,44.0,11,No,8,Yes,No,07/08/2021
+1389,Engineering,QA Engineer,Female,35.0,Divorced,Master's,105900.0,1,3.0,24.0,1,No,5,No,No,24/03/2022
+1145,Operations,Operations Executive,Male,38.0,Married,Master's,69100.0,8,3.0,49.0,9,No,10,No,No,2015-09-06
+1441,IT,System Administrator,Female,38.0,Divorced,Bachelor's,68300.0,0,4.0,39.0,1,Yes,18,Yes,No,2023-04-23
+1843,IT,System Administrator,Male,24.0,Single,,66300.0,1,3.0,55.0,1,Yes,17,Yes,No,2022-09-15
+1641,Finance,Accountant,Male,30.0,Divorced,High School,57300.0,0,4.0,21.0,5,No,2,No,Yes,2023-09-24
+1187,Customer Support,Support Team Lead,Female,43.0,Married,Bachelor's,64400.0,2,4.0,49.0,1,No,12,No,N,2021-07-28
+2077,Human Resources,HR Executive,female,35.0,Single,Bachelor's,49400.0,1,2.0,47.0,1,Yes,9,Yes,No,2022-08-06
+1356,Human Resources, HR Executive  ,Male,43.0,Married,Master's,62400.0,4,3.0,33.0,1,No,6,No,No,2019-11-03
+1246,Customer Support,Support Team Lead,Female,23.0,Divorced,Bachelor's,58800.0,5,3.0,29.0,42,No,11,No,Yes,2018-09-22
+1773,Engineering,Software Engineer,Female,34.0,Single,Bachelor's,96100.0,3,2.0,45.0,10,No,17,No,No,2020-11-01
+1326,Finance,Financial Analyst,Male,59.0,Single,Master's,74200.0,2,2.0,62.0,7,No,10,No,No,2021-10-06
+1435,Human Resources,HR Manager,Female,30.0,Single,Bachelor's,76300.0,1,3.0,27.0,8,No,9,No,No,2022-11-02
+1791,Operations,Operations Manager,Male,20.0,Divorced,Bachelor's,79200.0,2,2.0,22.0,5,No,13,No,No,2021-05-30
+1183,IT,IT Support,Female,26.0,Married,Master's,87100.0,1,4.0,39.0,1,Yes,21,No,Yes,2022-06-30
+1522,ENGINEERING,Senior Engineer,Male,21.0,Divorced,PhD,157200.0,3,4.0,35.0,3,No,16,Yes,No,2020-12-19
+1059,Operations,Operations Manager,female,41.0,Divorced,Bachelor's,67600.0,2,4.0,35.0,18,No,10,Yes,No,2021-07-26
+1059,Operations,Operations Manager,female,41.0,Divorced,Bachelor's,67600.0,2,4.0,35.0,18,No,10,Yes,No,2021-07-26
+1444,IT,IT Manager,Male,38.0,Single,High School,78400.0,0,4.0,38.0,1,No,12,No,No,2023-03-09
+1361,IT, System Administrator  ,Male,29.0,Divorced,Bachelor's,71000.0,3,1.0,60.0,6,Yes,16,Yes,Yes,2020-07-21
+1960,Sales,Sales Manager,Male,41.0,Single,Master's,111900.0,12,4.0,34.0,12,No,12,No,No,2011-06-03
+1050,Operations,Operations Executive,Female,51.0,Single,Bachelor's,51900.0,0,3.0,20.0,4,No,11,No,No,2023-04-28
+2337,MARKETING,Content Strategist,Male,37.0,Single,Master's,70600.0,1,3.0,34.0,22,No,22,No,No,2022-11-18
+2162,Engineering, Engineering Manager  ,Female,20.0,,Master's,146800.0,2,4.0,14.0,17,No,11,Yes,No,2021-05-24
+2300,IT,System Administrator,female,52.0,Single,Master's,73700.0,0,4.0,41.0,7,Yes,9,No,No,2023-05-22
+1934,Engineering,Software Engineer,Male,40.0,Divorced,Bachelor's,80200.0,2,4.0,26.0,1,No,2,No,No,2021-11-02
+1396,Operations,Operations Executive,Female,33.0,Divorced,Master's,57600.0,1,4.0,65.0,5,No,11,No,No,2022-09-24
+1740,Engineering,Senior Engineer,Male,28.0,Single,Master's,144900.0,3,4.0,22.0,3,Yes,13,No,Yes,2020-06-03
+1130,Customer Support,Support Team Lead,Female,37.0,Single,Master's,72000.0,2,3.0,30.0,18,No,8,No,No,11/05/2021
+1215,Sales,Account Manager,Male,20.0,Single,Master's,85700.0,0,5.0,74.0,3,Yes,17,No,Yes,2023-05-18
+1275,Customer Support,Support Executive,Female,41.0,Divorced,Bachelor's,55000.0,23,3.0,34.0,4,No,14,No,Yes,16/05/2000
+2037,Human Resources,Recruiter,Male,30.0,Divorced,Bachelor's,50000.0,5,4.0,59.0,21,No,17,Yes,No,2018-08-18
+1633,Customer Support,Support Team Lead,Female,38.0,Married,Master's,77900.0,4,4.0,2.0,8,No,17,No,No,2019-05-20
+1893,Operations,Operations Manager,Male,34.0,Single,Master's,87300.0,3,3.0,58.0,15,Yes,10,No,Yes,2020-04-16
+1235,Human Resources,Recruiter,Female,44.0,Divorced,,56600.0,13,5.0,49.0,4,No,12,Yes,No,2010-11-27
+1831,Operations,Operations Manager,Male,45.0,Divorced,High School,59600.0,0,2.0,44.0,6,No,9,No,No,2023-08-02
+1953,Sales,Account Manager,Male,22.0,Single,Bachelor's,74600.0,0,3.0,65.0,2,No,13,No,No,2023-07-31
+1473,IT,IT Support,Male,26.0,Divorced,Bachelor's,65000.0,2,3.0,43.0,9,No,10,No,No,2021-04-04
+2212,IT,IT Support,Female,36.0,Married,Bachelor's,81500.0,7,3.0,20.0,15,Yes,19,No,No,2017-01-01
+1239,Customer Support,Support Executive,Female,25.0,Single,Master's,51400.0,4,3.0,7.0,20,No,13,No,No,09/03/2019
+1957,Operations,Operations Manager,Male,34.0,Divorced,PhD,113200.0,15,4.0,18.0,4,No,14,No,No,2008-09-01
+1989,Finance,Financial Analyst,Female,21.0,Divorced,Master's,83100.0,3,2.0,26.0,21,No,20,No,No,2020-07-23
+1734,Operations,Operations Manager,Male,36.0,Married,Bachelor's,78400.0,11,3.0,55.0,7,No,9,Yes,No,30/12/2012
+2442,Sales,Sales Manager,Male,36.0,Divorced,,93500.0,5,2.0,52.0,13,Yes,8,No,No,2018-10-24
+1348,Sales,Account Manager,Male,24.0,Divorced,PhD,103200.0,4,4.0,68.0,1,No,10,No,No,2019-07-30
+1242,IT,System Administrator,Male,31.0,Single,Bachelor's,70800.0,5,2.0,40.0,13,No,12,No,Yes,2018-07-20
+2321,Customer Support,Support Executive,female,32.0,,Master's,49200.0,1,5.0,8.0,1,No,19,No,No,2022-12-13
+1572,Sales,Sales Executive,Female,30.0,Divorced,Bachelor's,57600.0,3,5.0,50.0,3,No,4,Yes,No,2020-06-03
+1437,IT,IT Manager,Male,25.0,Single,Bachelor's,97600.0,4,4.0,19.0,10,No,9,No,No,2019-06-27
+1578,IT,System Administrator,Female,38.0,Single,Master's,71800.0,1,3.0,34.0,16,No,9,No,No,2022-03-19
+2150,Operations,Operations Executive,Female,31.0,Single,Bachelor's,51700.0,3,2.0,10.0,3,No,15,No,Yes,2020-10-08
+1919,Operations,Operations Executive,Male,30.0,Married,Master's,68600.0,4,3.0,59.0,6,No,10,No,No,2019-04-03
+1057,Marketing,Marketing Manager,Male,34.0,Divorced,High School,79400.0,2,1.0,41.0,3,Yes,18,No,No,2021-11-27
+1502,IT,System Administrator,Female,39.0,Divorced,Bachelor's,75500.0,6,4.0,39.0,8,No,9,Yes,N,2017-06-21
+1639,Marketing, Content Strategist  ,Female,23.0,Married,Master's,68100.0,0,,44.0,11,No,5,No,Yes,2023-12-12
+1349,Marketing,Marketing Manager,Female,30.0,Single,Master's,106600.0,3,3.0,39.0,3,No,7,No,No,2020-06-12
+1383,Customer Support,Support Team Lead,Male,40.0,Married,Master's,65700.0,0,3.0,58.0,25,No,1,No,No,2023-03-27

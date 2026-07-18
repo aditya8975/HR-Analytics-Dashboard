@@ -1,0 +1,42 @@
+======================================================================
+HR ANALYTICS - DATA CLEANING PIPELINE
+======================================================================
+
+[1] Loaded raw data: 1520 rows x 17 columns
+Columns: ['EmployeeID', 'Department', 'JobRole', 'Gender', 'Age', 'MaritalStatus', 'Education', 'Salary', 'YearsAtCompany', 'PerformanceRating', 'TrainingHours', 'DistanceFromHome', 'OverTime', 'ProjectTasks', 'Promotion', 'Attrition', 'HireDate']
+
+[2] Column names standardized (stripped whitespace).
+[3] Department: standardized casing/whitespace (15 -> 8 unique values)
+[3] JobRole: standardized casing/whitespace (45 -> 23 unique values)
+[3] Gender: standardized casing/whitespace (4 -> 2 unique values)
+[3] MaritalStatus: standardized casing/whitespace (3 -> 3 unique values)
+[3] Education: standardized casing/whitespace (4 -> 4 unique values)
+
+[4] Standardized Yes/No fields: Attrition, Promotion, OverTime
+
+[5] Parsed HireDate into standard datetime format. Unparseable dates: 0
+
+[6] Missing values BEFORE handling:
+Age                  15
+MaritalStatus        16
+Education            30
+Salary               30
+PerformanceRating    22
+TrainingHours        22
+
+[6] Missing values AFTER handling:
+None - all missing values resolved.
+
+[7] Removed 20 duplicate EmployeeID records (1520 -> 1500 rows).
+
+[8] Invalid Age values found: 5 -> replaced with department median
+[8] Invalid Salary values found: 5 -> replaced with department median
+
+[9] Data types corrected (ints for counts/ratings, float for salary, datetime for HireDate).
+
+[10] Feature engineering complete: SalaryBand, AgeGroup, TenureGroup added.
+
+[11] Final validation checks passed: unique EmployeeIDs, clean Yes/No fields, no unexpected nulls.
+
+[12] Cleaned dataset exported: 1500 rows x 20 columns
+Saved to ../data/processed/hr_data_cleaned.csv
