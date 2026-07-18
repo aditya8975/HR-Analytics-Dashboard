@@ -3,7 +3,7 @@
 An end-to-end HR Analytics project covering the full data workflow: **Python
 data cleaning → Exploratory Data Analysis → normalized MySQL database → 35
 SQL interview-level queries → Power BI executive dashboard**. Built as a
-GitHub/resume portfolio piece to demonstrate the complete analyst toolkit
+resume portfolio piece to demonstrate the complete analyst toolkit
 on a realistic HR dataset (1,500 employees).
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
