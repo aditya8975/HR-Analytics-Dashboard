@@ -30,30 +30,6 @@ on a realistic HR dataset (1,500 employees).
 
 ---
 
----
-![Project Home](Visuals/01_employee_distribution_by_department.png)
----
----
-![Project Home](Visuals/02_gender_ratio.png)
----
----
-![Project Home](Visuals/03_salary_distribution.png)
----
----
-![Project Home](Visuals/04_salary_by_department.png)
----
----
-![Project Home](Visuals/05_age_distribution.png)
----
----
-![Project Home](Visuals/06_avg_salary_by_department.png)
----
----
-![Project Home](Visuals/07_attrition_overall.png)
----
----
-![Project Home](Visuals/08_attrition_by_department.png)
----
 
 ## Project Overview
 
